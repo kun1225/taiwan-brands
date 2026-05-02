@@ -3,6 +3,7 @@
 # AI Agents
 .agents
 .claude
+skills-lock.json
 
 # dependencies
 /node_modules
