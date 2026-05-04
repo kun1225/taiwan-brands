@@ -163,6 +163,7 @@
   }
   50% {
     transform: translate3d(14px, -8px, 0) rotate(0.35deg) scale(1.015);
+    filter: blur(4px);
   }
   100% {
     transform: translate3d(-8px, 5px, 0) rotate(-0.18deg) scale(1.006);
@@ -173,11 +174,4 @@
   animation: leaf-shadow-drift 9s ease-in-out 1.6s infinite alternate;
   transform-origin: 58% 42%;
   will-change: transform;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .animate-leaf-shadow-drift {
-    animation: none;
-    transform: none;
-  }
 }
