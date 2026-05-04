@@ -29,11 +29,6 @@ export function HomeBrandsControls({
     }
   }, [debouncedQuery, onSearchChange, searchQuery]);
 
-  // Update local query if the prop changes from outside (e.g. parent resetting state)
-  useEffect(() => {
-    setLocalQuery(searchQuery);
-  }, [searchQuery]);
-
   return (
     <div className="flex flex-col gap-4">
       <div className="relative min-w-0 flex-1">
