@@ -4,758 +4,6 @@
   "rawRecords": [
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/42bbieHG",
-      "name": "BANGSTREE 瀏海樹",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/42bbieHG/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/bangstree",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/FjxHJy6H",
-      "name": "青鹿製包",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/FjxHJy6H/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/wefoundit",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/CUgMM2CB",
-      "name": "慢慢瓷 Slow White Ceramics",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/CUgMM2CB/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/slow2hite",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/PeCCfyQD",
-      "name": "Rainbow House 彩虹屋",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/PeCCfyQD/0/3/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/rainbowhouse",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/AHnrLCWH",
-      "name": "raw-ecoproject",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/AHnrLCWH/0/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/raw-ecoproject",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/EfLwW3XC",
-      "name": "raw-ecoproject",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/EfLwW3XC/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/raw-ecoproject",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5AewsnPj",
-      "name": "初煦品牌",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5AewsnPj/0/3/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/hakkamom",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Jvcg3icq",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾、戶外運動用品",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/Jvcg3icq/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Bb8beK8h",
-      "name": "Soar&Arrow",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/Bb8beK8h/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/soar-arrow",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/QUijqX7c",
-      "name": "初煦品牌",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/QUijqX7c/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/hakkamom",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/triBujyY",
-      "name": "淡然有味 Danran Tea｜台灣精品茶葉品牌",
-      "description": "茶飲食品",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/triBujyY/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/drywtea",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/zPeSeBDV",
-      "name": "初煦品牌",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/zPeSeBDV/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/hakkamom",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/VC2Q6trS",
-      "name": "慢慢瓷 Slow White Ceramics",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/VC2Q6trS/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/slow2hite",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/VVmFamfq",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾、戶外運動用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/VVmFamfq/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/BHyNavXT",
-      "name": "RBRK Designer handbag & Accessories",
-      "description": "包袋、手作材料",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/BHyNavXT/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/rbrk",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/aWgLEwr7",
-      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/aWgLEwr7/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/aiheJUZ5",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/aiheJUZ5/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/NffCRNt9",
-      "name": "親子良品",
-      "description": "收藏擺件",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/NffCRNt9/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/bdi-ilovebaby",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/beC2K48b",
-      "name": "COLORSMITH 台灣原創品包包品牌",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/beC2K48b/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/jhaWrNxa",
-      "name": "尾八",
-      "description": "文具設計",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/jhaWrNxa/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/livinzoo",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/uPCC4bWf",
-      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/uPCC4bWf/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Yxn88DXR",
-      "name": "ZOOM",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/Yxn88DXR/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/zoom-taiwan",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Dqi4MB5m",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/Dqi4MB5m/0/10/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/SiJTLMFS",
-      "name": "NETTA Studio",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/SiJTLMFS/0/9/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/nettataiwan",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/CiHBhDrx",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/CiHBhDrx/0/4/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/izKhEySu",
-      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
-      "description": "家飾寢具",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/izKhEySu/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/uGHskt3e",
-      "name": "京都奈口金包Gamakuchi",
-      "description": "設計商品",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/uGHskt3e/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/gamakuchi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/RHUfKiVh",
-      "name": "FEBBI",
-      "description": "飾品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/RHUfKiVh/0/6/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/febbi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/svK7wQkb",
-      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
-      "description": "家飾寢具",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/svK7wQkb/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/mVsyFNiF",
-      "name": "HOKII",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/mVsyFNiF/0/9/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/hokii",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Qt7Nz8xj",
-      "name": "MINIMENT 迷你們",
-      "description": "飾品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/Qt7Nz8xj/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/miniment",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/XUvfx9W6",
-      "name": "COLORSMITH 台灣原創品包包品牌",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/XUvfx9W6/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/gdrjwnBg",
-      "name": "羽曦堂 | 頂級臺灣茶葉品牌",
-      "description": "茶飲食品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/gdrjwnBg/0/4/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/yoosheetea",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/s5uwd8BT",
-      "name": "ZOOM",
-      "description": "戶外運動用品、手作材料",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/s5uwd8BT/0/11/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/zoom-taiwan",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/CC8Wc3UD",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/CC8Wc3UD/0/5/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/KmLmwRXa",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/KmLmwRXa/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/iYqTV6da",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/iYqTV6da/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5QSPEf2F",
-      "name": "竹云沉香ZuYun",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5QSPEf2F/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/zuyunincense",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5txnGQqC",
-      "name": "ZOOM",
-      "description": "手作材料",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/5txnGQqC/0/5/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/zoom-taiwan",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/gdFgfqRX",
-      "name": "minihope美好的親子生活",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/gdFgfqRX/0/4/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/minihope",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/MjkYMsvk",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/MjkYMsvk/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/rZH2BJDe",
-      "name": "京都奈口金包Gamakuchi",
-      "description": "包袋",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/rZH2BJDe/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/gamakuchi",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/QpnGUr6L",
-      "name": "鹿苑茶莊1935--以茶為媒介，傳遞台灣這座島嶼的故事與溫暖",
-      "description": "包袋、茶飲食品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/QpnGUr6L/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/luyuan-tea",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/BnhxwxHD",
-      "name": "竹云沉香ZuYun",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/BnhxwxHD/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/zuyunincense",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/fWuQwnuU",
-      "name": "perdu",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn02.pinkoi.com/product/fWuQwnuU/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/perduofficial",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/ir2SMTed",
-      "name": "Allie’s Studio 慢遊愛麗",
-      "description": "茶飲食品、玩具童用品",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/ir2SMTed/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/alicescrazysnacks",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/4LiMcABk",
-      "name": "nsòu 純淨美妝",
-      "description": "保養美妝",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/4LiMcABk/0/9/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/nsou",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Xfdk7nWS",
       "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
       "description": "家飾寢具",
@@ -1110,7 +358,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/dz69iSVq",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/dz69iSVq/0/12/500x0.jpg"
       ],
@@ -1446,7 +694,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/RXGWrvr3",
       "name": "MiniYue羊毛製氈所",
-      "description": "設計商品",
+      "description": "手作材料",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/RXGWrvr3/0/1/500x0.jpg"
       ],
@@ -1700,13 +948,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/mhVvqEn6",
-      "name": "Natub 台灣製造天然手工皂 品牌專賣館",
-      "description": "設計商品",
+      "sourceUrl": "https://www.pinkoi.com/product/RuWynrTY",
+      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
+      "description": "嬰幼兒用品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/mhVvqEn6/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/RuWynrTY/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/natub-tw",
+      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -1716,13 +964,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/RuWynrTY",
-      "name": "好關係 HAOKUANXI｜台灣在地居家織業品牌-從家出發 從寢具開始",
+      "sourceUrl": "https://www.pinkoi.com/product/mhVvqEn6",
+      "name": "Natub 台灣製造天然手工皂 品牌專賣館",
       "description": "設計商品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/RuWynrTY/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/mhVvqEn6/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
+      "officialUrl": "https://www.pinkoi.com/store/natub-tw",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -1750,7 +998,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/5hSqBU87",
       "name": "Mata Swim",
-      "description": "設計商品",
+      "description": "服飾",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/5hSqBU87/0/1/500x0.jpg"
       ],
@@ -1766,7 +1014,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/ukdTVsXa",
       "name": "可可雲手作室內拖鞋",
-      "description": "鞋履",
+      "description": "鞋履、手作材料",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/ukdTVsXa/0/5/500x0.jpg"
       ],
@@ -1974,7 +1222,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/v6xYKrC4",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/v6xYKrC4/0/10/500x0.jpg"
       ],
@@ -2198,7 +1446,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Qt7Nz8xj",
       "name": "MINIMENT 迷你們",
-      "description": "飾品",
+      "description": "飾品、辦公與收納",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/Qt7Nz8xj/0/1/500x0.jpg"
       ],
@@ -2566,7 +1814,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/dz69iSVq",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/dz69iSVq/0/12/500x0.jpg"
       ],
@@ -2868,13 +2116,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/QMeiXmdK",
-      "name": "perdu",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/MRPk9Jy7",
+      "name": "梁絮皮藝Liang Leather Craft",
+      "description": "鞋履、手作材料",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/QMeiXmdK/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/MRPk9Jy7/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/perduofficial",
+      "officialUrl": "https://www.pinkoi.com/store/liangleathercraft",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -2884,13 +2132,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/MRPk9Jy7",
-      "name": "梁絮皮藝Liang Leather Craft",
-      "description": "鞋履、手作材料",
+      "sourceUrl": "https://www.pinkoi.com/product/QMeiXmdK",
+      "name": "perdu",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/MRPk9Jy7/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/QMeiXmdK/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/liangleathercraft",
+      "officialUrl": "https://www.pinkoi.com/store/perduofficial",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -2918,7 +2166,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/PvMzPArg",
       "name": "植椛。飾 ｜封存溫柔片刻的手作飾品",
-      "description": "設計商品",
+      "description": "髮飾與配件、手作材料",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/PvMzPArg/0/2/500x0.jpg"
       ],
@@ -3078,7 +2326,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/v6xYKrC4",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/v6xYKrC4/0/10/500x0.jpg"
       ],
@@ -3350,7 +2598,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/FKchLKmH",
       "name": "LUCGLE ｜台灣織襪設計品牌",
-      "description": "設計商品",
+      "description": "髮飾與配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/FKchLKmH/0/2/500x0.jpg"
       ],
@@ -3382,7 +2630,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/kEGzXJJe",
       "name": "Wacky World Studio(獨特畫風且愛護動物與地球的品牌)",
-      "description": "設計商品",
+      "description": "服飾",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/kEGzXJJe/0/1/500x0.jpg"
       ],
@@ -3430,7 +2678,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/ua2pxciV",
       "name": "perdu",
-      "description": "服飾",
+      "description": "服飾、髮飾與配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/ua2pxciV/0/1/500x0.jpg"
       ],
@@ -3542,7 +2790,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Q48T7DYN",
       "name": "perdu",
-      "description": "服飾",
+      "description": "服飾、髮飾與配件、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/Q48T7DYN/0/1/500x0.jpg"
       ],
@@ -3654,7 +2902,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/2dE2cqEx",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/2dE2cqEx/0/6/500x0.jpg"
       ],
@@ -3894,7 +3142,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/gD9e9e8c",
       "name": "perdu",
-      "description": "服飾",
+      "description": "服飾、髮飾與配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/gD9e9e8c/0/2/500x0.jpg"
       ],
@@ -4004,13 +3252,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/x2Zbq4J9",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/Sgs4p65s",
+      "name": "VIVIDIA Jewelry Design 薇媞亞",
+      "description": "飾品、保養美妝",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/x2Zbq4J9/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/Sgs4p65s/0/2/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+      "officialUrl": "https://www.pinkoi.com/store/vividia",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4020,13 +3268,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/Sgs4p65s",
-      "name": "VIVIDIA Jewelry Design 薇媞亞",
-      "description": "保養美妝",
+      "sourceUrl": "https://www.pinkoi.com/product/x2Zbq4J9",
+      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/Sgs4p65s/0/2/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/x2Zbq4J9/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/vividia",
+      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4070,7 +3318,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/9CDiMni8",
       "name": "ZOOM",
-      "description": "設計商品",
+      "description": "農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/9CDiMni8/0/11/500x0.jpg"
       ],
@@ -4196,13 +3444,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/1s2zSAw9",
-      "name": "playmetoys",
-      "description": "玩具童用品",
+      "sourceUrl": "https://www.pinkoi.com/product/YUuHwcNH",
+      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
+      "description": "服飾、戶外運動用品",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/1s2zSAw9/0/21/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/YUuHwcNH/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/playmetoys",
+      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4212,13 +3460,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/YUuHwcNH",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾、戶外運動用品",
+      "sourceUrl": "https://www.pinkoi.com/product/1s2zSAw9",
+      "name": "playmetoys",
+      "description": "玩具童用品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/YUuHwcNH/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/1s2zSAw9/0/21/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
+      "officialUrl": "https://www.pinkoi.com/store/playmetoys",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4310,7 +3558,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/SjrR4mRU",
       "name": "VIVIDIA Jewelry Design 薇媞亞",
-      "description": "保養美妝",
+      "description": "飾品、保養美妝",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/SjrR4mRU/0/2/500x0.jpg"
       ],
@@ -4404,13 +3652,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/e9QKuBcG",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/ua885nmG",
+      "name": "WasangShow 花生騷",
+      "description": "設計商品",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/e9QKuBcG/0/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/ua885nmG/0/3/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+      "officialUrl": "https://www.pinkoi.com/store/wasangshow",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4420,13 +3668,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/ua885nmG",
-      "name": "WasangShow 花生騷",
-      "description": "設計商品",
+      "sourceUrl": "https://www.pinkoi.com/product/e9QKuBcG",
+      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/ua885nmG/0/3/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/e9QKuBcG/0/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/wasangshow",
+      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4468,13 +3716,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/LbZCRE78",
-      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
-      "description": "服飾、戶外運動用品",
+      "sourceUrl": "https://www.pinkoi.com/product/9RpSBPhr",
+      "name": "perdu",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/LbZCRE78/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/9RpSBPhr/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
+      "officialUrl": "https://www.pinkoi.com/store/perduofficial",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4484,13 +3732,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/9RpSBPhr",
-      "name": "perdu",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/LbZCRE78",
+      "name": "LEEDS WEATHER® 色彩個性襪子品牌",
+      "description": "服飾、農產與加工食品、戶外運動用品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/9RpSBPhr/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/LbZCRE78/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/perduofficial",
+      "officialUrl": "https://www.pinkoi.com/store/leedsweather",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4596,22 +3844,6 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/JiJVc8aZ",
-      "name": "LUCGLE ｜台灣織襪設計品牌",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/JiJVc8aZ/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/lucgle",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/WW2C23ah",
       "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
       "description": "包袋",
@@ -4628,11 +3860,43 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/JiJVc8aZ",
+      "name": "LUCGLE ｜台灣織襪設計品牌",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/JiJVc8aZ/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/lucgle",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/tKn8YEPa",
       "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
       "description": "服飾",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/tKn8YEPa/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/rCJJXZYH",
+      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/rCJJXZYH/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/viewfinder",
       "officialUrlType": "marketplace",
@@ -4660,22 +3924,6 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/rCJJXZYH",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/rCJJXZYH/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/FfNjpgJx",
       "name": "LEEDS WEATHER® 色彩個性襪子品牌",
       "description": "服飾",
@@ -4692,13 +3940,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/ke4Skx7E",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/94yAsPDx",
+      "name": "Mata Swim",
+      "description": "設計商品",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/ke4Skx7E/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/94yAsPDx/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+      "officialUrl": "https://www.pinkoi.com/store/mataswim",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4708,13 +3956,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/94yAsPDx",
-      "name": "Mata Swim",
-      "description": "設計商品",
+      "sourceUrl": "https://www.pinkoi.com/product/ke4Skx7E",
+      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/94yAsPDx/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/ke4Skx7E/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/mataswim",
+      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4884,13 +4132,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/KLgf6Ced",
-      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/5v8LrGXt",
+      "name": "COLORSMITH 台灣原創品包包品牌",
+      "description": "包袋",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/KLgf6Ced/0/2/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/5v8LrGXt/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+      "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4900,13 +4148,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5v8LrGXt",
-      "name": "COLORSMITH 台灣原創品包包品牌",
-      "description": "包袋",
+      "sourceUrl": "https://www.pinkoi.com/product/KLgf6Ced",
+      "name": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5v8LrGXt/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/KLgf6Ced/0/2/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
+      "officialUrl": "https://www.pinkoi.com/store/viewfinder",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -4966,7 +4214,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/43rYTDb7",
       "name": "ENABLE",
-      "description": "設計商品",
+      "description": "3C 配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/43rYTDb7/0/4/500x0.jpg"
       ],
@@ -5078,7 +4326,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/LFhKr9Nm",
       "name": "ENABLE",
-      "description": "設計商品",
+      "description": "3C 配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/LFhKr9Nm/0/5/500x0.jpg"
       ],
@@ -5110,7 +4358,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/8tkDEf6P",
       "name": "Life n Soul",
-      "description": "3C 配件",
+      "description": "飾品、3C 配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/8tkDEf6P/0/1/500x0.jpg"
       ],
@@ -5126,7 +4374,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/NUJ73c2C",
       "name": "JLab 台灣獨家代理",
-      "description": "3C 配件",
+      "description": "飾品、3C 配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/NUJ73c2C/0/1/500x0.jpg"
       ],
@@ -5158,7 +4406,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/tZNvjc7q",
       "name": "花見小路・手製鞋 hanamikoji",
-      "description": "設計商品",
+      "description": "鞋履",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/tZNvjc7q/0/10/500x0.jpg"
       ],
@@ -5206,7 +4454,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/cPDhzJN8",
       "name": "Newstar明日之星",
-      "description": "玩具童用品",
+      "description": "玩具童用品、嬰幼兒用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/cPDhzJN8/0/1/500x0.jpg"
       ],
@@ -5270,7 +4518,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/RQmkTA7c",
       "name": "PhotoFast 銀箭",
-      "description": "設計商品",
+      "description": "3C 配件",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/RQmkTA7c/0/1/500x0.jpg"
       ],
@@ -5286,7 +4534,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Gt8pBDkg",
       "name": "Sudio品牌旗艦館",
-      "description": "3C 配件",
+      "description": "飾品、3C 配件",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/Gt8pBDkg/0/1/500x0.jpg"
       ],
@@ -5686,7 +4934,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/QMvfUCJz",
       "name": "Ginny Lambkin",
-      "description": "寵物用品",
+      "description": "服飾、寵物用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/QMvfUCJz/0/2/500x0.jpg"
       ],
@@ -5702,7 +4950,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/sn8irDFT",
       "name": "Kotsu Kotsu KnitLab.",
-      "description": "3C 配件",
+      "description": "辦公與收納、3C 配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/sn8irDFT/0/3/500x0.jpg"
       ],
@@ -5718,7 +4966,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/4rTJiBDe",
       "name": "Lotus Fitness",
-      "description": "健身器材",
+      "description": "辦公與收納、健身器材",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/4rTJiBDe/0/5/500x0.jpg"
       ],
@@ -5780,13 +5028,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/bk699GLs",
-      "name": "我適文創",
-      "description": "居家生活用品",
+      "sourceUrl": "https://www.pinkoi.com/product/MSEJhJJd",
+      "name": "paperself",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/bk699GLs/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/MSEJhJJd/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/yoshi850",
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -5796,13 +5044,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/MSEJhJJd",
-      "name": "paperself",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/bk699GLs",
+      "name": "我適文創",
+      "description": "居家生活用品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/MSEJhJJd/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/bk699GLs/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrl": "https://www.pinkoi.com/store/yoshi850",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -5830,11 +5078,971 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/WdtPeET5",
       "name": "源作木坊",
-      "description": "設計商品",
+      "description": "辦公與收納",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/WdtPeET5/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/yuan-made",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/Vgbact24",
+      "name": "奕綸口罩",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/Vgbact24/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/yiiloonmask",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/HJZ9zj4H",
+      "name": "uma hana 台灣製造防水包",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/HJZ9zj4H/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/umahana",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/LxqJNiKB",
+      "name": "7th island",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/LxqJNiKB/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/7thisland",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/mwnm6GPF",
+      "name": "沐羽毛巾",
+      "description": "戶外運動用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/mwnm6GPF/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/sunjenfabric",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/7JrUJ2RH",
+      "name": "ENABLE",
+      "description": "3C 配件",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/7JrUJ2RH/0/15/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/enable",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/ayJMxH7P",
+      "name": "採花女孩",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/ayJMxH7P/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/caihuagirl",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/YMPUx8zF",
+      "name": "7th island",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/YMPUx8zF/0/6/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/7thisland",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/iiYMJHE6",
+      "name": "花見小路・手製鞋 hanamikoji",
+      "description": "鞋履、茶飲食品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/iiYMJHE6/0/6/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/simplewarm",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/44VqVJEV",
+      "name": "Gallop Kustom Kulture",
+      "description": "機車／單車配件",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/44VqVJEV/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/gallop",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/gZh6WPh6",
+      "name": "uma hana 台灣製造防水包",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/gZh6WPh6/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/umahana",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/FdkMTgbC",
+      "name": "paperself",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/FdkMTgbC/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/dgeUnrVA",
+      "name": "uma hana 台灣製造防水包",
+      "description": "包袋",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/dgeUnrVA/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/umahana",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/urmZ8pEg",
+      "name": "蘑菇 MOGU",
+      "description": "包袋",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/urmZ8pEg/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/mogu",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/tgg8ghDQ",
+      "name": "花見小路・手製鞋 hanamikoji",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/tgg8ghDQ/0/7/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/simplewarm",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/dmYwJDMA",
+      "name": "安閣家 ANGLE WAVE",
+      "description": "寵物用品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/dmYwJDMA/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/anglewave",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/aFJRfDwg",
+      "name": "Kai Kombucha",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/aFJRfDwg/0/5/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/kaikombucha",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/YhbenvQ3",
+      "name": "採花女孩",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/YhbenvQ3/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/caihuagirl",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/kefqmNJG",
+      "name": "A.MOUR經典手工鞋",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/kefqmNJG/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/amour1981",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/4JYX2z4Q",
+      "name": "【Hello 生活館】",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/4JYX2z4Q/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/helloshop",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/Ydrhbf9F",
+      "name": "YWC製鞋工作室",
+      "description": "鞋履、手作材料",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/Ydrhbf9F/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/shoemakerywc",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/uZsvUmyX",
+      "name": "BoingBoing 故事鞋與童畫包",
+      "description": "鞋履、玩具童用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/uZsvUmyX/0/5/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/boingboing",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/sSfuMyYT",
+      "name": "大物設計",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/sSfuMyYT/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/dawoodesign",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/HUVYR7Tq",
+      "name": "HH 健康於筷｜Happy&Healthy",
+      "description": "居家生活用品、玩具童用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/HUVYR7Tq/0/3/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/guangweitw",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/gRsiqJmC",
+      "name": "WOOLI STUDIO",
+      "description": "辦公與收納",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/gRsiqJmC/0/5/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/wooli",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/mkYCpwri",
+      "name": "Fartech翻頁鐘",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/mkYCpwri/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/fartech",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/ZQsVRDFr",
+      "name": "創設小物工作室 | mydslife",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/ZQsVRDFr/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/mydslife",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/HvEJhpwu",
+      "name": "自做自售創意供賣局",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/HvEJhpwu/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/zzzs2005",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/3etBW5sz",
+      "name": "YWC製鞋工作室",
+      "description": "鞋履、手作材料",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/3etBW5sz/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/shoemakerywc",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/G2FNiURP",
+      "name": "花見小路・手製鞋 hanamikoji",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/G2FNiURP/0/5/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/simplewarm",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/vF6LpDrH",
+      "name": "la essence",
+      "description": "包袋、服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/vF6LpDrH/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/laessence",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/nFCkGcv9",
+      "name": "paperself",
+      "description": "服飾、寵物用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/nFCkGcv9/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/aLf9Ynjr",
+      "name": "SATBAKHI 膠原蛋白織造所",
+      "description": "服飾、保養美妝",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/aLf9Ynjr/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/satbakhi",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/WGqE9Kxw",
+      "name": "創設小物工作室 | mydslife",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/WGqE9Kxw/0/7/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/mydslife",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/5nYfNDuF",
+      "name": "AGAPE雅家倍",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/5nYfNDuF/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/agape2025",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/mDvAaSym",
+      "name": "paperself",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/mDvAaSym/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/35sevr4f",
+      "name": "REWOOD木酢達人",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/35sevr4f/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/pinkdawoko",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/UtNA5Q2q",
+      "name": "Muzulee Woodworking",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/UtNA5Q2q/0/3/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/muzuleewoodworking",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/vLqvdVLh",
+      "name": "SATBAKHI 膠原蛋白織造所",
+      "description": "服飾、保養美妝",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/vLqvdVLh/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/satbakhi",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/QgsHzqXM",
+      "name": "uma hana 台灣製造防水包",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/QgsHzqXM/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/umahana",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/3RtfTy4G",
+      "name": "HEY SUN",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/3RtfTy4G/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/heysun",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/bTiA8yLM",
+      "name": "沐羽毛巾",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/bTiA8yLM/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/sunjenfabric",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/S93YZ6gd",
+      "name": "ISLANDTIME 島嶼時光",
+      "description": "服飾、手作材料",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/S93YZ6gd/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/islandtime-tw",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/aPhh4mJp",
+      "name": "ecopeco",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/aPhh4mJp/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/ecopeco",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/Rcpnw2V9",
+      "name": "YWC製鞋工作室",
+      "description": "鞋履、手作材料",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/Rcpnw2V9/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/shoemakerywc",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/kzYPZbT4",
+      "name": "包裝研究所",
+      "description": "農產與加工食品、居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/kzYPZbT4/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/packaging101tw",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/gFq5QvU4",
+      "name": "蘑菇 MOGU",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/gFq5QvU4/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/mogu",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/sXBvwtfz",
+      "name": "7th island",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/sXBvwtfz/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/7thisland",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/zTsxn6u6",
+      "name": "paperself",
+      "description": "服飾、寵物用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/zTsxn6u6/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/vfGfGQYZ",
+      "name": "HEY SUN",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/vfGfGQYZ/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/heysun",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/fyG29sX2",
+      "name": "7th island",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/fyG29sX2/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/7thisland",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/NhMxt5RT",
+      "name": "Cicala Pu 喜樂鋪手工鞋",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/NhMxt5RT/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/cicalapu",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/ZFxTk54q",
+      "name": "FYE專賣店-法樂齊",
+      "description": "包袋、辦公與收納",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/ZFxTk54q/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/foryourearth",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/ckAQJeMr",
+      "name": "ecopeco",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/ckAQJeMr/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/ecopeco",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/6JRNREA2",
+      "name": "Wrought 樂童",
+      "description": "居家生活用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/6JRNREA2/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/wroughthome",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/WDrAxYGX",
+      "name": "Matchwood",
+      "description": "辦公與收納",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/WDrAxYGX/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/matchwood",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/ExDMf5eG",
+      "name": "DYDASH",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/ExDMf5eG/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/dydash",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/spBqkpu5",
+      "name": "大匠夫-MakerSoulHK",
+      "description": "設計商品",
+      "imageUrls": [
+        "https://cdn02.pinkoi.com/product/spBqkpu5/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/makersoul",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/3ekgggHz",
+      "name": "HALFÔR 台灣機能設計襪",
+      "description": "服飾、戶外運動用品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/3ekgggHz/0/3/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/halfortw",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/BX4Vbnfc",
+      "name": "paperself",
+      "description": "服飾",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/BX4Vbnfc/0/3/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/paperself",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/2dLbDJpF",
+      "name": "Funmay 手作",
+      "description": "包袋、辦公與收納",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/2dLbDJpF/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/funmay",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -5988,13 +6196,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/GGQuzasR",
-      "name": "ZJ Gallery 哲印",
-      "description": "服飾",
+      "sourceUrl": "https://www.pinkoi.com/product/5xGd6Ave",
+      "name": "大匠夫-MakerSoulHK",
+      "description": "設計商品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/GGQuzasR/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/5xGd6Ave/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/zjgallery",
+      "officialUrl": "https://www.pinkoi.com/store/makersoul",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -6004,13 +6212,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5xGd6Ave",
-      "name": "大匠夫-MakerSoulHK",
-      "description": "設計商品",
+      "sourceUrl": "https://www.pinkoi.com/product/GGQuzasR",
+      "name": "ZJ Gallery 哲印",
+      "description": "服飾",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5xGd6Ave/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/GGQuzasR/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/makersoul",
+      "officialUrl": "https://www.pinkoi.com/store/zjgallery",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -6230,7 +6438,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/3AFZNui5",
       "name": "WoodGrassSun",
-      "description": "文具設計",
+      "description": "文具設計、藝術創作",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/3AFZNui5/0/1/500x0.jpg"
       ],
@@ -6294,7 +6502,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/JuVLpLn2",
       "name": "LIVING FORM 方房",
-      "description": "設計商品",
+      "description": "居家生活用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/JuVLpLn2/0/2/500x0.jpg"
       ],
@@ -6326,7 +6534,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/knu4YzqL",
       "name": "鈦萬德 TIWONDER",
-      "description": "居家生活用品、玩具童用品",
+      "description": "居家生活用品、辦公與收納、玩具童用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/knu4YzqL/0/3/500x0.jpg"
       ],
@@ -6406,7 +6614,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/tnVQMFHv",
       "name": "Desrochers  x  曜生活",
-      "description": "服飾",
+      "description": "服飾、居家生活用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/tnVQMFHv/0/4/500x0.jpg"
       ],
@@ -6438,7 +6646,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/2uPvWjqL",
       "name": "HEY SUN",
-      "description": "設計商品",
+      "description": "服飾",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/2uPvWjqL/0/2/500x0.jpg"
       ],
@@ -6662,7 +6870,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/gaqg45FM",
       "name": "Kotsu Kotsu KnitLab.",
-      "description": "設計商品",
+      "description": "農產與加工食品、辦公與收納",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/gaqg45FM/0/2/500x0.jpg"
       ],
@@ -6966,7 +7174,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/yjiGrg8B",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/yjiGrg8B/0/1/500x0.jpg"
       ],
@@ -6982,7 +7190,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/4nSnLVcq",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/4nSnLVcq/0/1/500x0.jpg"
       ],
@@ -7142,7 +7350,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/9aFLqd9X",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/9aFLqd9X/0/1/500x0.jpg"
       ],
@@ -7238,11 +7446,27 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/cPDhzJN8",
       "name": "Newstar明日之星",
-      "description": "玩具童用品",
+      "description": "玩具童用品、嬰幼兒用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/cPDhzJN8/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/newstarbaby",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/PLFSSz49",
+      "name": "A.MOUR經典手工鞋",
+      "description": "鞋履、農產與加工食品",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/PLFSSz49/0/2/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/amour1981",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -7259,22 +7483,6 @@
         "https://cdn01.pinkoi.com/product/i43VsaFD/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/mrcasa",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/PLFSSz49",
-      "name": "A.MOUR經典手工鞋",
-      "description": "鞋履",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/PLFSSz49/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/amour1981",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -7430,7 +7638,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/hizX2Riw",
       "name": "Lotus Fitness",
-      "description": "健身器材",
+      "description": "辦公與收納、健身器材",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/hizX2Riw/0/1/500x0.jpg"
       ],
@@ -7508,13 +7716,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5ueXTGC6",
-      "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "sourceUrl": "https://www.pinkoi.com/product/SdUM7b53",
+      "name": "Mr.Casa傢燈先生",
+      "description": "居家生活用品",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5ueXTGC6/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/SdUM7b53/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/keizu-shoes",
+      "officialUrl": "https://www.pinkoi.com/store/mrcasa",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -7524,13 +7732,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/SdUM7b53",
-      "name": "Mr.Casa傢燈先生",
-      "description": "居家生活用品",
+      "sourceUrl": "https://www.pinkoi.com/product/5ueXTGC6",
+      "name": "Keizu 好鞋好設計",
+      "description": "鞋履",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/SdUM7b53/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/5ueXTGC6/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/mrcasa",
+      "officialUrl": "https://www.pinkoi.com/store/keizu-shoes",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -7622,7 +7830,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/X7u8hejC",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/X7u8hejC/0/1/500x0.jpg"
       ],
@@ -7734,7 +7942,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/HTr3CxYa",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn02.pinkoi.com/product/HTr3CxYa/0/2/500x0.jpg"
       ],
@@ -7894,7 +8102,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/DYQKpaTU",
       "name": "ZJ Gallery 哲印",
-      "description": "設計商品",
+      "description": "服飾",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/DYQKpaTU/0/2/500x0.jpg"
       ],
@@ -8294,7 +8502,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/3CFzwEst",
       "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/3CFzwEst/0/1/500x0.jpg"
       ],
@@ -8582,7 +8790,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/HbxXjEKZ",
       "name": "One Shoe 全臺唯一草編鞋專賣店",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/HbxXjEKZ/0/5/500x0.jpg"
       ],
@@ -8614,7 +8822,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/HEp2gjDa",
       "name": "SnN溫度真皮手工鞋",
-      "description": "設計商品",
+      "description": "鞋履",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/HEp2gjDa/0/1/500x0.jpg"
       ],
@@ -8646,7 +8854,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Ldnyc3Pu",
       "name": "ZJ Gallery 哲印",
-      "description": "寵物用品",
+      "description": "服飾、寵物用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/Ldnyc3Pu/0/2/500x0.jpg"
       ],
@@ -8678,7 +8886,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/EHAm78CX",
       "name": "MULTI",
-      "description": "設計商品",
+      "description": "洗沐用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/EHAm78CX/0/1/500x0.jpg"
       ],
@@ -8804,13 +9012,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/4CqwemCQ",
-      "name": "MISPORT 運動迷",
-      "description": "服飾、戶外運動用品",
+      "sourceUrl": "https://www.pinkoi.com/product/cehL7YkC",
+      "name": "VIVIDIA Jewelry Design 薇媞亞",
+      "description": "飾品",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/4CqwemCQ/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/cehL7YkC/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/misport",
+      "officialUrl": "https://www.pinkoi.com/store/vividia",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -8820,13 +9028,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/cehL7YkC",
-      "name": "VIVIDIA Jewelry Design 薇媞亞",
-      "description": "飾品",
+      "sourceUrl": "https://www.pinkoi.com/product/4CqwemCQ",
+      "name": "MISPORT 運動迷",
+      "description": "服飾、戶外運動用品",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/cehL7YkC/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/4CqwemCQ/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/vividia",
+      "officialUrl": "https://www.pinkoi.com/store/misport",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -8902,7 +9110,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/ZQqyEdHv",
       "name": "Major Pleasure 女子鞋研究室",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/ZQqyEdHv/0/1/500x0.jpg"
       ],
@@ -9014,7 +9222,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/cvJCB9mv",
       "name": "亮飾界-精品手工館",
-      "description": "設計商品",
+      "description": "辦公與收納",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/cvJCB9mv/0/1/500x0.jpg"
       ],
@@ -9206,7 +9414,7 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/qsVrk9Zn",
       "name": "未來居+",
-      "description": "設計商品",
+      "description": "髮飾與配件",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/qsVrk9Zn/0/1/500x0.jpg"
       ],
@@ -9220,29 +9428,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/pk6zb7fd",
-      "name": "Horizon 台灣獨家代理",
-      "description": "健身器材",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/pk6zb7fd/0/2/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/horizon-tw",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/5DPP2zsT",
-      "name": "A.MOUR經典手工鞋",
+      "sourceUrl": "https://www.pinkoi.com/product/mUhJDRu5",
+      "name": "S&T STUDIO",
       "description": "鞋履",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/5DPP2zsT/0/1/500x0.jpg"
+        "https://cdn02.pinkoi.com/product/mUhJDRu5/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/amour1981",
+      "officialUrl": "https://www.pinkoi.com/store/ststudiodesign",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -9268,13 +9460,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/mUhJDRu5",
-      "name": "S&T STUDIO",
-      "description": "設計商品",
+      "sourceUrl": "https://www.pinkoi.com/product/pk6zb7fd",
+      "name": "Horizon 台灣獨家代理",
+      "description": "健身器材",
       "imageUrls": [
-        "https://cdn02.pinkoi.com/product/mUhJDRu5/0/1/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/pk6zb7fd/0/2/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/ststudiodesign",
+      "officialUrl": "https://www.pinkoi.com/store/horizon-tw",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -9286,11 +9478,27 @@
       "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/Px28RYRk",
       "name": "雲御織",
-      "description": "設計商品",
+      "description": "洗沐用品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/Px28RYRk/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/yunclean",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/5DPP2zsT",
+      "name": "A.MOUR經典手工鞋",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/5DPP2zsT/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/amour1981",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -9316,22 +9524,6 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/ex8AzrDU",
-      "name": "Keizu 好鞋好設計",
-      "description": "鞋履",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/ex8AzrDU/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/keizu-shoes",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/8eZEzFd2",
       "name": "A.MOUR經典手工鞋",
       "description": "鞋履",
@@ -9348,13 +9540,13 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/j69HiGeZ",
-      "name": "I called Love",
+      "sourceUrl": "https://www.pinkoi.com/product/ex8AzrDU",
+      "name": "Keizu 好鞋好設計",
       "description": "鞋履",
       "imageUrls": [
-        "https://cdn01.pinkoi.com/product/j69HiGeZ/0/6/500x0.jpg"
+        "https://cdn01.pinkoi.com/product/ex8AzrDU/0/1/500x0.jpg"
       ],
-      "officialUrl": "https://www.pinkoi.com/store/icalledlove",
+      "officialUrl": "https://www.pinkoi.com/store/keizu-shoes",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -9371,6 +9563,22 @@
         "https://cdn01.pinkoi.com/product/BqkBGMJa/0/1/500x0.jpg"
       ],
       "officialUrl": "https://www.pinkoi.com/store/mydslife",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/j69HiGeZ",
+      "name": "I called Love",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/j69HiGeZ/0/6/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/icalledlove",
       "officialUrlType": "marketplace",
       "category": "design marketplace",
       "evidenceTags": [
@@ -9428,22 +9636,6 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
-      "sourceUrl": "https://www.pinkoi.com/product/GrRAdEHy",
-      "name": "Cicala Pu 喜樂鋪手工鞋",
-      "description": "鞋履",
-      "imageUrls": [
-        "https://cdn01.pinkoi.com/product/GrRAdEHy/0/1/500x0.jpg"
-      ],
-      "officialUrl": "https://www.pinkoi.com/store/cicalapu",
-      "officialUrlType": "marketplace",
-      "category": "design marketplace",
-      "evidenceTags": [
-        "A",
-        "D"
-      ]
-    },
-    {
-      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/CSau7PMj",
       "name": "moobulous 木子",
       "description": "鞋履",
@@ -9460,9 +9652,25 @@
     },
     {
       "sourceName": "pinkoi-taiwan-search",
+      "sourceUrl": "https://www.pinkoi.com/product/GrRAdEHy",
+      "name": "Cicala Pu 喜樂鋪手工鞋",
+      "description": "鞋履",
+      "imageUrls": [
+        "https://cdn01.pinkoi.com/product/GrRAdEHy/0/1/500x0.jpg"
+      ],
+      "officialUrl": "https://www.pinkoi.com/store/cicalapu",
+      "officialUrlType": "marketplace",
+      "category": "design marketplace",
+      "evidenceTags": [
+        "A",
+        "D"
+      ]
+    },
+    {
+      "sourceName": "pinkoi-taiwan-search",
       "sourceUrl": "https://www.pinkoi.com/product/ybPHPqd5",
       "name": "A.MOUR經典手工鞋",
-      "description": "鞋履",
+      "description": "鞋履、農產與加工食品",
       "imageUrls": [
         "https://cdn01.pinkoi.com/product/ybPHPqd5/0/1/500x0.jpg"
       ],
@@ -9556,6 +9764,6 @@
     }
   ],
   "errors": [
-    "https://www.pinkoi.com/search?q=%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%80%A0&page=2: Failed to fetch https://www.pinkoi.com/search?q=%E5%8F%B0%E7%81%A3%E8%A3%BD%E9%80%A0&page=2: fetch failed"
+    "https://www.pinkoi.com/search?q=%E5%8F%B0%E7%81%A3%E5%93%81%E7%89%8C: Failed to fetch https://www.pinkoi.com/search?q=%E5%8F%B0%E7%81%A3%E5%93%81%E7%89%8C: fetch failed"
   ]
 }
