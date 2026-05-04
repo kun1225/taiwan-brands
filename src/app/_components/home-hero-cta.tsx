@@ -4,10 +4,7 @@ import { Button } from "@/components/ui/button";
 
 export function HomeHeroCta() {
   return (
-    <div
-      className="animate-fade-in-up mt-8 flex flex-col gap-3 sm:flex-row sm:items-center"
-      style={{ "--stagger-delay": "180ms" } as React.CSSProperties}
-    >
+    <div className="mt-8 flex animate-in flex-col gap-3 delay-180 ease-sine-out animation-duration-900 fill-mode-both blur-in-4 fade-in slide-in-from-bottom-3 sm:flex-row sm:items-center">
       <Button
         nativeButton={false}
         size="lg"

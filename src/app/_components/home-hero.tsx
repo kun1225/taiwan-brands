@@ -5,18 +5,23 @@ import { HomeHeroHeadline } from "./home-hero-headline";
 
 export function HomeHero() {
   return (
-    <section className="relative flex min-h-svh flex-col justify-center overflow-hidden px-edge py-24">
-      <div
-        className="animate-leaf-shadow-in pointer-events-none absolute inset-0"
-        style={{ "--stagger-delay": "220ms" } as React.CSSProperties}
-      >
+    <section className="relative flex min-h-[60svh] flex-col justify-center overflow-hidden px-edge py-24">
+      <div className="pointer-events-none absolute inset-0 animate-in delay-200 ease-sine-out animation-duration-1400 fill-mode-both zoom-in-95 blur-in-8 fade-in">
         <div className="animate-leaf-shadow-drift absolute inset-0">
           <Image
-            src="/leaf-shadow-transparent.png"
+            src="/leaf-shadow-tropical.png"
             alt=""
             fill
             priority
-            className="object-contain object-left-top opacity-50 md:object-right-top"
+            className="z-10 object-contain object-top-right opacity-25"
+            unoptimized
+          />
+          <Image
+            src="/sunlight-overlay.png"
+            alt=""
+            fill
+            priority
+            className="inset-0 object-top-right opacity-60"
             unoptimized
           />
         </div>

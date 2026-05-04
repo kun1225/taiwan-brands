@@ -44,7 +44,7 @@ export function HomeBrandsItem({ brand }: Props) {
     >
       <div
         className={cn(
-          "relative aspect-[4/3] overflow-hidden rounded-2xl outline outline-1 -outline-offset-1 outline-black/10",
+          "relative aspect-4/3 overflow-hidden rounded-md outline -outline-offset-1 outline-black/10",
           !firstImage && "bg-muted",
         )}
       >
@@ -53,10 +53,9 @@ export function HomeBrandsItem({ brand }: Props) {
             <Image
               src={firstImage}
               alt={brand.brandName}
-              width={500}
-              height={375}
+              fill
               className={cn(
-                "absolute inset-0 w-full h-full object-cover",
+                "-z-10 object-cover object-top",
                 secondImage
                   ? "transition-opacity duration-500 group-hover:opacity-0"
                   : "transition-transform duration-500 group-hover:scale-[1.02]",
@@ -67,16 +66,15 @@ export function HomeBrandsItem({ brand }: Props) {
               <Image
                 src={secondImage}
                 alt={brand.brandName}
-                width={500}
-                height={375}
-                className="absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-500 [transition-delay:60ms] group-hover:opacity-100 group-hover:[transition-delay:0ms]"
+                fill
+                className="-z-10 object-cover object-top opacity-0 transition-opacity [transition-delay:60ms] duration-500 group-hover:opacity-100 group-hover:[transition-delay:0ms]"
                 unoptimized
               />
             )}
           </>
         ) : (
-          <div className="w-full h-full flex items-center justify-center">
-            <span className="font-label text-muted-foreground text-xs">
+          <div className="flex h-full w-full items-center justify-center">
+            <span className="font-label text-xs text-muted-foreground">
               暫無圖片
             </span>
           </div>
@@ -84,22 +82,22 @@ export function HomeBrandsItem({ brand }: Props) {
       </div>
 
       <div className="mt-3 flex flex-col gap-1">
-        <h3 className="font-subtitle text-foreground font-semibold text-sm leading-snug line-clamp-2 text-pretty">
+        <h3 className="line-clamp-2 font-subtitle text-sm leading-snug font-semibold text-pretty text-foreground">
           {brand.brandName}
         </h3>
 
         {brand.mainProducts && (
-          <p className="font-caption text-muted-foreground text-xs line-clamp-1 text-pretty">
+          <p className="line-clamp-1 font-caption text-xs text-pretty text-muted-foreground">
             {brand.mainProducts}
           </p>
         )}
 
-        <div className="flex gap-1 flex-wrap mt-1">
+        <div className="mt-1 flex flex-wrap gap-1">
           {brand.evidenceTags.map((tag) => (
             <span
               key={tag}
               className={cn(
-                "font-label text-xs px-1.5 py-0.5 rounded border",
+                "rounded border px-1.5 py-0.5 font-label text-xs",
                 EVIDENCE_TAG_STYLES[tag],
               )}
             >
