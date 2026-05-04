@@ -6,6 +6,8 @@ import {
   Noto_Serif_TC,
 } from "next/font/google";
 
+import { Header } from "@/layouts/header";
+
 import "./globals.css";
 
 const geistSans = Geist({
@@ -50,7 +52,10 @@ export default function RootLayout({
       data-scroll-behavior="smooth"
       className={`${geistSans.variable} ${geistMono.variable} ${notoSansTC.variable} ${notoSerifTC.variable} h-full antialiased`}
     >
-      <body className="flex min-h-full flex-col">{children}</body>
+      <body className="flex min-h-full flex-col">
+        <Header />
+        {children}
+      </body>
     </html>
   );
 }
