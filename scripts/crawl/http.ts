@@ -22,4 +22,3 @@ export async function fetchText(url: string) {
 
   return response.text();
 }
-

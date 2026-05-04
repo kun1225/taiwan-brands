@@ -39,10 +39,12 @@ export function isLikelyProductImage(imageUrl: string) {
     filename = imageUrl.toLowerCase();
   }
 
-  const base = (filename.split("?")[0] ?? filename);
+  const base = filename.split("?")[0] ?? filename;
   const hasImageExtension = imageExtensions.some((ext) => base.endsWith(ext));
   const haystack = `${pathname} ${imageUrl.toLowerCase()}`;
-  const hasBlockedWord = blockedImageWords.some((word) => haystack.includes(word));
+  const hasBlockedWord = blockedImageWords.some((word) =>
+    haystack.includes(word),
+  );
 
   return hasImageExtension && !hasBlockedWord;
 }

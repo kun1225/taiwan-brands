@@ -52,7 +52,9 @@ describe("enrichRecordWithFetchedImages", () => {
       evidenceTags: ["B", "D"],
     };
 
-    const result = await enrichRecordWithFetchedImages(record, async () => `
+    const result = await enrichRecordWithFetchedImages(
+      record,
+      async () => `
       <html>
         <head>
           <meta property="og:image" content="/images/logo.png" />
@@ -62,7 +64,8 @@ describe("enrichRecordWithFetchedImages", () => {
           <img src="/catalog/chair-2.webp" />
         </body>
       </html>
-    `);
+    `,
+    );
 
     expect(result.imageUrls).toEqual([
       "https://brand.example/catalog/chair-1.jpg",

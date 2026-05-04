@@ -58,7 +58,10 @@ export function extractTableRecords({
         .find("img")
         .map((__, image) => $(image).attr("src") ?? "")
         .get(),
-      website: absoluteUrl($(row).find("a[href]").first().attr("href"), sourceUrl),
+      website: absoluteUrl(
+        $(row).find("a[href]").first().attr("href"),
+        sourceUrl,
+      ),
       category: defaultCategory,
       evidenceTags: defaultEvidenceTags,
     });
@@ -95,7 +98,10 @@ export function extractCardRecords({
         textFrom($element.find("a").first());
       const imageUrls = $element
         .find("img")
-        .map((__, image) => $(image).attr("src") ?? $(image).attr("data-src") ?? "")
+        .map(
+          (__, image) =>
+            $(image).attr("src") ?? $(image).attr("data-src") ?? "",
+        )
         .get();
 
       if (!title || title.length < 2 || imageUrls.length === 0) {
@@ -106,9 +112,15 @@ export function extractCardRecords({
         sourceName,
         sourceUrl,
         name: title,
-        description: textFrom($element.find("p, .desc, .description, .text, .summary").first()).slice(0, 180) || undefined,
+        description:
+          textFrom(
+            $element.find("p, .desc, .description, .text, .summary").first(),
+          ).slice(0, 180) || undefined,
         imageUrls,
-        website: absoluteUrl($element.find("a[href]").first().attr("href"), sourceUrl),
+        website: absoluteUrl(
+          $element.find("a[href]").first().attr("href"),
+          sourceUrl,
+        ),
         category: defaultCategory,
         evidenceTags: defaultEvidenceTags,
       });
@@ -133,36 +145,46 @@ export function extractLinkedHrefRecords({
   const $ = cheerio.load(html);
   const records: RawBrandRecord[] = [];
 
-  $("a[href]").filter((_, el) => $(el).attr("href")?.includes(hrefIncludes) ?? false).each((_, anchor) => {
-    const $anchor = $(anchor);
-    const name = textFrom($anchor);
-    const href = absoluteUrl($anchor.attr("href"), sourceUrl);
+  $("a[href]")
+    .filter((_, el) => $(el).attr("href")?.includes(hrefIncludes) ?? false)
+    .each((_, anchor) => {
+      const $anchor = $(anchor);
+      const name = textFrom($anchor);
+      const href = absoluteUrl($anchor.attr("href"), sourceUrl);
 
-    if (!name || !href || name.length < 2 || name.length > 80) {
-      return;
-    }
+      if (!name || !href || name.length < 2 || name.length > 80) {
+        return;
+      }
 
-    const imageUrls = Array.from(new Set([
-      ...$anchor
-        .find("img")
-        .map((__, image) => $(image).attr("src") ?? $(image).attr("data-src") ?? "")
-        .get(),
-      ...$anchor
-        .closest("li,article,.card,.item,.product")
-        .find("img")
-        .map((__, image) => $(image).attr("src") ?? $(image).attr("data-src") ?? "")
-        .get(),
-    ]));
+      const imageUrls = Array.from(
+        new Set([
+          ...$anchor
+            .find("img")
+            .map(
+              (__, image) =>
+                $(image).attr("src") ?? $(image).attr("data-src") ?? "",
+            )
+            .get(),
+          ...$anchor
+            .closest("li,article,.card,.item,.product")
+            .find("img")
+            .map(
+              (__, image) =>
+                $(image).attr("src") ?? $(image).attr("data-src") ?? "",
+            )
+            .get(),
+        ]),
+      );
 
-    records.push({
-      sourceName,
-      sourceUrl: href,
-      name,
-      imageUrls,
-      category: defaultCategory,
-      evidenceTags: defaultEvidenceTags,
+      records.push({
+        sourceName,
+        sourceUrl: href,
+        name,
+        imageUrls,
+        category: defaultCategory,
+        evidenceTags: defaultEvidenceTags,
+      });
     });
-  });
 
   return records;
 }

@@ -48,7 +48,6 @@ function cleanText(value: string) {
   return value.replace(/\s+/g, " ").trim();
 }
 
-
 function getNestedValue(
   input: JsonObject | undefined,
   candidatePaths: string[][],
@@ -257,7 +256,10 @@ async function fetchKeyApi(
     );
   }
 
-  return ensureObject(json.data, `KeyAPI ${url.pathname} returned no data object`);
+  return ensureObject(
+    json.data,
+    `KeyAPI ${url.pathname} returned no data object`,
+  );
 }
 
 async function fetchThreadPost(apiKey: string, shortcode: string) {
@@ -280,7 +282,11 @@ async function fetchThreadPost(apiKey: string, shortcode: string) {
 
   for (const candidate of lookupCandidates) {
     try {
-      const data = await fetchKeyApi(apiKey, candidate.endpoint, candidate.query);
+      const data = await fetchKeyApi(
+        apiKey,
+        candidate.endpoint,
+        candidate.query,
+      );
       const matchedPost =
         findObjectInArray(
           data,
@@ -339,7 +345,12 @@ function mapCommentRecord(
   source: ThreadPost,
   defaultDepth: number | null,
 ) {
-  const commentId = readString(item, [["id"], ["pk"], ["comment_id"], ["media_id"]]);
+  const commentId = readString(item, [
+    ["id"],
+    ["pk"],
+    ["comment_id"],
+    ["media_id"],
+  ]);
   const normalizedCommentId = readString(item, [
     ["pk"],
     ["comment_id"],
@@ -385,15 +396,17 @@ function mapCommentRecord(
       ["taken_at"],
       ["timestamp"],
     ]),
-    likeCount: readNullableNumber(item, [["like_count"], ["likes"], ["likeCount"]]),
+    likeCount: readNullableNumber(item, [
+      ["like_count"],
+      ["likes"],
+      ["likeCount"],
+    ]),
     replyCount: readNullableNumber(item, [
       ["reply_count"],
       ["replies_count"],
       ["child_comment_count"],
     ]),
-    depth:
-      readNullableNumber(item, [["depth"], ["level"]]) ??
-      defaultDepth,
+    depth: readNullableNumber(item, [["depth"], ["level"]]) ?? defaultDepth,
   } satisfies ThreadComment;
 }
 
@@ -412,7 +425,11 @@ function extractCommentRecords(data: JsonObject, source: ThreadPost) {
 
     return readArray(node as JsonObject, [["thread_items"]])
       .map((threadItem) => {
-        if (!threadItem || typeof threadItem !== "object" || Array.isArray(threadItem)) {
+        if (
+          !threadItem ||
+          typeof threadItem !== "object" ||
+          Array.isArray(threadItem)
+        ) {
           return null;
         }
 

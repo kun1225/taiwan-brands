@@ -21,6 +21,10 @@ const productCategoryRules = [
     label: "服飾",
     keywords: [
       "衣",
+      "衣服",
+      "服裝",
+      "服飾",
+      "運動服飾",
       "上衣",
       "褲",
       "裙",

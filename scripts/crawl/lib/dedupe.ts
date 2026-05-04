@@ -18,8 +18,10 @@ const SHARED_HOST_SUFFIXES = new Set([
 ]);
 
 function isSharedHost(host: string) {
-  return SHARED_HOST_SUFFIXES.has(host) ||
-    [...SHARED_HOST_SUFFIXES].some((suffix) => host.endsWith(`.${suffix}`));
+  return (
+    SHARED_HOST_SUFFIXES.has(host) ||
+    [...SHARED_HOST_SUFFIXES].some((suffix) => host.endsWith(`.${suffix}`))
+  );
 }
 
 function keyFromUrl(value: string | undefined, type?: OfficialUrlType) {

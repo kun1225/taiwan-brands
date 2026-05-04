@@ -7,7 +7,16 @@ import {
 
 const payload: ThreadsCommentsPayload = {
   generatedAt: "2026-05-04T00:00:00.000Z",
-  posts: [],
+  posts: [
+    {
+      shortcode: "DHckBsthazV",
+      postId: "2",
+      url: "https://www.threads.com/t/DHckBsthazV",
+      text: "有台灣製好穿的運動服飾可以推薦嗎？",
+      username: "branch_0218",
+      replyCount: 52,
+    },
+  ],
   comments: [
     {
       sourceShortcode: "DL9QBn6B8ux",
@@ -17,8 +26,7 @@ const payload: ThreadsCommentsPayload = {
       parentCommentId: "",
       username: "changetone",
       fullName: "",
-      text:
-        "您好～我們想要自薦！ 我們是 ChangeTone 襪子專賣店，堅持台灣設計・台灣製造，也歡迎來我們網站逛逛 https://www.changetone.com/",
+      text: "您好～我們想要自薦！ 我們是 ChangeTone 襪子專賣店，堅持台灣設計・台灣製造，也歡迎來我們網站逛逛 https://www.changetone.com/",
       createdAt: "1",
       likeCount: 10,
       replyCount: null,
@@ -60,10 +68,23 @@ const payload: ThreadsCommentsPayload = {
       parentCommentId: "",
       username: "bubble_nara",
       fullName: "",
-      text:
-        "我我我~ 我們是來自台南的手工鞋品牌~波波娜拉 Bubble Nara 鞋子都是台灣在地製造~ https://www.bubble-nara.com/",
+      text: "我我我~ 我們是來自台南的手工鞋品牌~波波娜拉 Bubble Nara 鞋子都是台灣在地製造~ https://www.bubble-nara.com/",
       createdAt: "4",
       likeCount: 5,
+      replyCount: null,
+      depth: null,
+    },
+    {
+      sourceShortcode: "DHckBsthazV",
+      sourcePostId: "2",
+      sourcePostUrl: "https://www.threads.com/t/DHckBsthazV",
+      commentId: "comment-5",
+      parentCommentId: "",
+      username: "ume_plan",
+      fullName: "",
+      text: "推薦我們家 @ume_plan",
+      createdAt: "5",
+      likeCount: 0,
       replyCount: null,
       depth: null,
     },
@@ -103,6 +124,23 @@ describe("extractRawBrandRecordsFromThreadComments", () => {
     );
   });
 
+  it("extracts plain mention recommendations as threads profile URLs", () => {
+    const result = extractRawBrandRecordsFromThreadComments(payload);
+
+    expect(result).toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          name: "ume_plan",
+          description: "服飾、戶外運動用品",
+          officialUrl: "https://www.threads.com/@ume_plan",
+          officialUrlType: "threads",
+          sourceName: "threads-comments",
+          sourceUrl: "https://www.threads.com/t/DHckBsthazV",
+        }),
+      ]),
+    );
+  });
+
   it("falls back to the official URL when extracted text is too generic", () => {
     const result = extractRawBrandRecordsFromThreadComments(payload);
 
@@ -120,6 +158,6 @@ describe("extractRawBrandRecordsFromThreadComments", () => {
   it("ignores comments without brand signals", () => {
     const result = extractRawBrandRecordsFromThreadComments(payload);
 
-    expect(result).toHaveLength(3);
+    expect(result).toHaveLength(4);
   });
 });

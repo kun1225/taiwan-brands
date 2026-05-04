@@ -36,7 +36,8 @@ export function normalizeRawBrandRecord(record: RawBrandRecord) {
     productImageUrls,
     website: cleanText(record.website),
     officialUrl: cleanText(record.officialUrl ?? record.website),
-    officialUrlType: record.officialUrlType ?? (record.website ? "website" : undefined),
+    officialUrlType:
+      record.officialUrlType ?? (record.website ? "website" : undefined),
     city: cleanText(record.city),
     category: cleanText(record.category),
     sourceName: record.sourceName,

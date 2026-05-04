@@ -93,6 +93,21 @@ function extractHandleFromThreadsUrl(url: string) {
   }
 }
 
+function extractThreadsHandles(text: string) {
+  return Array.from(
+    text.matchAll(/(?:^|[\s，。！？、（(])@([A-Za-z0-9._]{2,30})/gu),
+    (match) => match[1],
+  ).filter((handle): handle is string => Boolean(handle));
+}
+
+function createThreadsProfileUrl(handle: string | undefined) {
+  if (!handle) {
+    return undefined;
+  }
+
+  return normalizeUrl(`https://www.threads.com/@${handle}`);
+}
+
 function normalizeBrandName(value: string) {
   return cleanText(
     value
@@ -228,7 +243,7 @@ function shouldKeepComment(comment: ThreadComment) {
   );
 }
 
-function createRecordFromComment(comment: ThreadComment) {
+function createRecordFromComment(comment: ThreadComment, sourcePostText = "") {
   if (!shouldKeepComment(comment)) {
     return undefined;
   }
@@ -238,13 +253,17 @@ function createRecordFromComment(comment: ThreadComment) {
     .map((url) => normalizeUrl(url))
     .filter((url): url is string => Boolean(url));
   const firstUrl = urls[0];
+  const mentionedHandle = extractThreadsHandles(text)[0];
   const explicitBrandName = extractBrandNameFromText(text);
   const urlBrandName = firstUrl ? deriveBrandNameFromUrl(firstUrl) : undefined;
   const threadsHandle = firstUrl
     ? extractHandleFromThreadsUrl(firstUrl)
-    : undefined;
+    : mentionedHandle;
   const usernameBrandName = isSelfIntroduction(text)
     ? normalizeBrandName(comment.username)
+    : undefined;
+  const usernameProfileUrl = isSelfIntroduction(text)
+    ? createThreadsProfileUrl(comment.username)
     : undefined;
   const brandNameCandidates = [
     explicitBrandName,
@@ -260,11 +279,13 @@ function createRecordFromComment(comment: ThreadComment) {
     return undefined;
   }
 
-  const officialUrl = firstUrl;
+  const officialUrl =
+    firstUrl ?? createThreadsProfileUrl(mentionedHandle) ?? usernameProfileUrl;
   const officialUrlType = officialUrl
     ? getOfficialUrlType(officialUrl)
     : undefined;
-  const description = inferMainProducts(text);
+  const description =
+    inferMainProducts(text) ?? inferMainProducts(sourcePostText);
 
   return {
     sourceName: "threads-comments",
@@ -281,8 +302,14 @@ function createRecordFromComment(comment: ThreadComment) {
 export function extractRawBrandRecordsFromThreadComments(
   payload: ThreadsCommentsPayload,
 ) {
+  const postsByUrl = new Map(
+    payload.posts.map((post) => [post.url, cleanText(post.text) ?? ""]),
+  );
   const records = payload.comments.flatMap((comment) => {
-    const record = createRecordFromComment(comment);
+    const record = createRecordFromComment(
+      comment,
+      postsByUrl.get(comment.sourcePostUrl),
+    );
     return record ? [record] : [];
   });
 
