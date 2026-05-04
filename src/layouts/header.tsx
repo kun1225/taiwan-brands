@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 
 export function Header() {
   return (
-    <header className="sticky top-0 z-40 flex flex-row items-center justify-between gap-4 border-b border-border bg-background px-edge py-4">
+    <header className="sticky top-0 z-40 flex flex-row items-center justify-between gap-4 bg-background px-edge py-4 shadow-xs">
       <Link
         href="/"
         className="flex w-fit items-center gap-3 rounded-xl transition-opacity hover:opacity-85 focus-visible:ring-2 focus-visible:ring-primary focus-visible:outline-none"

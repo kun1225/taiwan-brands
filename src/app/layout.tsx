@@ -6,6 +6,7 @@ import {
   Noto_Serif_TC,
 } from "next/font/google";
 
+import { Footer } from "@/layouts/footer";
 import { Header } from "@/layouts/header";
 
 import "./globals.css";
@@ -55,6 +56,7 @@ export default function RootLayout({
       <body className="flex min-h-full flex-col">
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
