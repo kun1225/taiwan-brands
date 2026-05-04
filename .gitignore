@@ -6,6 +6,7 @@
 skills-lock.json
 
 .playwright-cli
+superpowers
 
 # dependencies
 /node_modules
