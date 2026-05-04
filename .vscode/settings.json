@@ -15,7 +15,5 @@
       "mode": "auto"
     }
   ],
-  "tailwindCSS.experimental.configFile": "src/app/globals.css",
-  "tailwindCSS.classFunctions": ["cn", "clsx", "cva"],
   "cSpell.words": ["Hugeicons"]
 }
