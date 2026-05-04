@@ -1,0 +1,8 @@
+{
+  "sourceName": "social-innovation-catalog",
+  "sourceUrl": "https://startup.sme.gov.tw/sitaiwan/Home/catalogStore",
+  "rawRecords": [],
+  "errors": [
+    "Failed to fetch https://startup.sme.gov.tw/sitaiwan/Home/catalogStore: fetch failed"
+  ]
+}
