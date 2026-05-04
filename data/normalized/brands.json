@@ -2,6 +2,9 @@
   {
     "brandName": "BANGSTREE 瀏海樹",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/42bbieHG/0/2/500x0.jpg"
     ],
@@ -18,6 +21,9 @@
   {
     "brandName": "青鹿製包",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/FjxHJy6H/0/1/500x0.jpg"
     ],
@@ -34,6 +40,9 @@
   {
     "brandName": "慢慢瓷 Slow White Ceramics",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/CUgMM2CB/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/VC2Q6trS/0/2/500x0.jpg"
@@ -51,6 +60,7 @@
   {
     "brandName": "Rainbow House 彩虹屋",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/PeCCfyQD/0/3/500x0.jpg"
     ],
@@ -67,6 +77,9 @@
   {
     "brandName": "raw-ecoproject",
     "mainProducts": "設計商品、服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/AHnrLCWH/0/500x0.jpg",
       "https://cdn01.pinkoi.com/product/EfLwW3XC/0/1/500x0.jpg"
@@ -84,6 +97,7 @@
   {
     "brandName": "初煦品牌",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/5AewsnPj/0/3/500x0.jpg",
       "https://cdn02.pinkoi.com/product/QUijqX7c/0/1/500x0.jpg"
@@ -101,6 +115,9 @@
   {
     "brandName": "Soar&Arrow",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Bb8beK8h/0/2/500x0.jpg"
     ],
@@ -117,6 +134,13 @@
   {
     "brandName": "LEEDS WEATHER® 色彩個性襪子品牌",
     "mainProducts": "服飾、戶外運動用品、茶飲食品、居家生活用品、農產與加工食品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品",
+      "茶飲食品",
+      "居家生活用品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/Jvcg3icq/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/VVmFamfq/0/1/500x0.jpg"
@@ -134,6 +158,10 @@
   {
     "brandName": "淡然有味 Danran Tea",
     "mainProducts": "茶飲食品、包袋、設計商品",
+    "searchCategories": [
+      "茶飲食品",
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/triBujyY/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/xKzHWZV2/0/500x0.jpg"
@@ -151,6 +179,10 @@
   {
     "brandName": "RBRK Designer handbag & Accessories",
     "mainProducts": "包袋、手作材料",
+    "searchCategories": [
+      "包袋",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/BHyNavXT/0/2/500x0.jpg"
     ],
@@ -167,6 +199,13 @@
   {
     "brandName": "好關係 HAOKUANXI",
     "mainProducts": "設計商品、家飾寢具、農產與加工食品、嬰幼兒用品、玩具童用品",
+    "searchCategories": [
+      "家飾寢具",
+      "茶飲食品",
+      "農產與加工食品",
+      "嬰幼兒用品",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/aWgLEwr7/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/uPCC4bWf/0/1/500x0.jpg"
@@ -184,6 +223,10 @@
   {
     "brandName": "親子良品",
     "mainProducts": "收藏擺件",
+    "searchCategories": [
+      "玩具童用品",
+      "收藏擺件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/NffCRNt9/0/1/500x0.jpg"
     ],
@@ -200,6 +243,9 @@
   {
     "brandName": "COLORSMITH 台灣原創品包包品牌",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/beC2K48b/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/XUvfx9W6/0/1/500x0.jpg"
@@ -217,6 +263,9 @@
   {
     "brandName": "尾八",
     "mainProducts": "文具設計、設計商品",
+    "searchCategories": [
+      "文具設計"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/jhaWrNxa/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/hTVcWs2p/0/1/500x0.jpg"
@@ -234,6 +283,12 @@
   {
     "brandName": "ZOOM",
     "mainProducts": "設計商品、戶外運動用品、手作材料、農產與加工食品、茶飲食品",
+    "searchCategories": [
+      "戶外運動用品",
+      "手作材料",
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Yxn88DXR/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/s5uwd8BT/0/11/500x0.jpg"
@@ -251,6 +306,9 @@
   {
     "brandName": "NETTA Studio",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/SiJTLMFS/0/9/500x0.jpg"
     ],
@@ -267,6 +325,11 @@
   {
     "brandName": "京都奈口金包Gamakuchi",
     "mainProducts": "手作材料、包袋、玩具童用品",
+    "searchCategories": [
+      "手作材料",
+      "包袋",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/uGHskt3e/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/rZH2BJDe/0/1/500x0.jpg"
@@ -284,6 +347,9 @@
   {
     "brandName": "FEBBI",
     "mainProducts": "飾品",
+    "searchCategories": [
+      "飾品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/RHUfKiVh/0/6/500x0.jpg",
       "https://cdn01.pinkoi.com/product/TdR5crNs/0/3/500x0.jpg"
@@ -301,6 +367,9 @@
   {
     "brandName": "HOKII",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/mVsyFNiF/0/9/500x0.jpg"
     ],
@@ -317,6 +386,10 @@
   {
     "brandName": "MINIMENT 迷你們",
     "mainProducts": "飾品、辦公與收納",
+    "searchCategories": [
+      "飾品",
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Qt7Nz8xj/0/1/500x0.jpg"
     ],
@@ -333,6 +406,9 @@
   {
     "brandName": "羽曦堂",
     "mainProducts": "茶飲食品、設計商品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/gdrjwnBg/0/4/500x0.jpg",
       "https://cdn01.pinkoi.com/product/9nuXDZZd/0/2/500x0.jpg"
@@ -350,6 +426,11 @@
   {
     "brandName": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
     "mainProducts": "服飾、包袋、寵物用品、設計商品",
+    "searchCategories": [
+      "服飾",
+      "包袋",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/iYqTV6da/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/yZFHeFFs/0/1/500x0.jpg"
@@ -367,6 +448,9 @@
   {
     "brandName": "竹云沉香ZuYun",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/5QSPEf2F/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/BnhxwxHD/0/1/500x0.jpg"
@@ -384,6 +468,10 @@
   {
     "brandName": "minihope美好的親子生活",
     "mainProducts": "服飾、玩具童用品",
+    "searchCategories": [
+      "服飾",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/gdFgfqRX/0/4/500x0.jpg",
       "https://cdn01.pinkoi.com/product/kWwc9GLj/0/3/500x0.jpg"
@@ -401,6 +489,10 @@
   {
     "brandName": "鹿苑茶莊1935--以茶為媒介，傳遞台灣這座島嶼的故事與溫暖",
     "mainProducts": "包袋、茶飲食品",
+    "searchCategories": [
+      "包袋",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/QpnGUr6L/0/1/500x0.jpg"
     ],
@@ -417,6 +509,11 @@
   {
     "brandName": "perdu",
     "mainProducts": "服飾、髮飾與配件、農產與加工食品",
+    "searchCategories": [
+      "服飾",
+      "髮飾與配件",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/fWuQwnuU/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/W4s6DH9j/0/1/500x0.jpg"
@@ -434,6 +531,10 @@
   {
     "brandName": "Allie’s Studio 慢遊愛麗",
     "mainProducts": "茶飲食品、玩具童用品",
+    "searchCategories": [
+      "茶飲食品",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ir2SMTed/0/1/500x0.jpg"
     ],
@@ -450,6 +551,9 @@
   {
     "brandName": "nsòu 純淨美妝",
     "mainProducts": "保養美妝",
+    "searchCategories": [
+      "保養美妝"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/4LiMcABk/0/9/500x0.jpg"
     ],
@@ -466,6 +570,9 @@
   {
     "brandName": "RITE",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/cTq65Ywh/0/8/500x0.jpg"
     ],
@@ -482,6 +589,9 @@
   {
     "brandName": "yunski",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/bjGfun4v/0/1/500x0.jpg"
     ],
@@ -498,6 +608,7 @@
   {
     "brandName": "嶼霧茶堂",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/iyKt3NzM/0/500x0.jpg"
     ],
@@ -514,6 +625,7 @@
   {
     "brandName": "Tri-Aid 按摩三角 肌筋膜舒緩按摩器 澳洲品牌授權台灣代理",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/cUd7fqF2/0/1/500x0.jpg"
     ],
@@ -530,6 +642,11 @@
   {
     "brandName": "存在音樂",
     "mainProducts": "寵物用品、戶外運動用品、樂器與音樂用品",
+    "searchCategories": [
+      "寵物用品",
+      "戶外運動用品",
+      "樂器與音樂用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/TLQ6tGU7/0/3/500x0.jpg"
     ],
@@ -546,6 +663,9 @@
   {
     "brandName": "Kevin McCartney",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Vuz4V6Zp/0/3/500x0.jpg"
     ],
@@ -562,6 +682,9 @@
   {
     "brandName": "WEAVISM 織本主義",
     "mainProducts": "服飾、設計商品",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/uDILrQ73/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/1WByV1B2/0/500x0.jpg"
@@ -579,6 +702,9 @@
   {
     "brandName": "聲聲慢手染服飾",
     "mainProducts": "設計商品、服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ZC5kxiDS/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/VmHHjB3y/0/2/500x0.jpg"
@@ -596,6 +722,9 @@
   {
     "brandName": "Pangolin，音樂城市工作室",
     "mainProducts": "設計商品",
+    "searchCategories": [
+      "樂器與音樂用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/vSdDaHEz/0/1/500x0.jpg"
     ],
@@ -612,6 +741,9 @@
   {
     "brandName": "三八計 Aman",
     "mainProducts": "設計商品、服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/ANM2gKU9/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/QSGYQgpH/0/1/500x0.jpg"
@@ -629,6 +761,9 @@
   {
     "brandName": "MiniYue羊毛製氈所",
     "mainProducts": "手作材料、設計商品",
+    "searchCategories": [
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/RXGWrvr3/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/cuLJLcZ2/0/2/500x0.jpg"
@@ -646,6 +781,7 @@
   {
     "brandName": "Piña Collective",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/h9vemnjA/0/1/500x0.jpg"
     ],
@@ -662,6 +798,7 @@
   {
     "brandName": "Allite",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/pe3YtAvS/0/3/500x0.jpg"
     ],
@@ -678,6 +815,9 @@
   {
     "brandName": "odd CIRKUS®",
     "mainProducts": "設計商品、鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/MLj38Kvn/0/2/500x0.jpg",
       "https://cdn02.pinkoi.com/product/tPJCpbUM/0/1/500x0.jpg"
@@ -695,6 +835,10 @@
   {
     "brandName": "LUCGLE",
     "mainProducts": "服飾、髮飾與配件",
+    "searchCategories": [
+      "服飾",
+      "髮飾與配件"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/FQeqmy9a/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/6LPFYdrL/0/4/500x0.jpg"
@@ -712,6 +856,9 @@
   {
     "brandName": "吉他玩家 Guitar Player",
     "mainProducts": "樂器與音樂用品",
+    "searchCategories": [
+      "樂器與音樂用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/dxuUHB3F/0/2/500x0.jpg"
     ],
@@ -728,6 +875,7 @@
   {
     "brandName": "Natub 台灣製造天然手工皂 品牌專賣館",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/mhVvqEn6/0/1/500x0.jpg"
     ],
@@ -744,6 +892,7 @@
   {
     "brandName": "日常經典TAGather Goods",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/dtTSzcti/0/1/500x0.jpg"
     ],
@@ -760,6 +909,11 @@
   {
     "brandName": "可可雲手作室內拖鞋",
     "mainProducts": "鞋履、手作材料",
+    "searchCategories": [
+      "鞋履",
+      "茶飲食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ukdTVsXa/0/5/500x0.jpg"
     ],
@@ -776,6 +930,9 @@
   {
     "brandName": "Mata Swim",
     "mainProducts": "服飾、設計商品",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/5hSqBU87/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/TzrcNTek/0/1/500x0.jpg"
@@ -793,6 +950,9 @@
   {
     "brandName": "mittag jewelry",
     "mainProducts": "飾品",
+    "searchCategories": [
+      "飾品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/cS73pfpw/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/8YCQfbFD/0/1/500x0.jpg"
@@ -810,6 +970,9 @@
   {
     "brandName": "CuCare",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/GYHXpZuu/0/2/500x0.jpg"
     ],
@@ -826,6 +989,7 @@
   {
     "brandName": "PICONO Watches",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/TGFfSZWN/0/1/500x0.jpg"
     ],
@@ -842,6 +1006,7 @@
   {
     "brandName": "JadeGaze 玉凝飾",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/XZhFjfUU/0/1/500x0.jpg"
     ],
@@ -858,6 +1023,14 @@
   {
     "brandName": "梁絮皮藝Liang Leather Craft",
     "mainProducts": "手作材料、鞋履、居家生活用品、3C 配件、戶外運動用品",
+    "searchCategories": [
+      "手作材料",
+      "鞋履",
+      "居家生活用品",
+      "3C 配件",
+      "戶外運動用品",
+      "旅行用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/AnDdcLpJ/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/MUj7dTcb/0/2/500x0.jpg"
@@ -875,6 +1048,11 @@
   {
     "brandName": "植椛。飾",
     "mainProducts": "髮飾與配件、手作材料",
+    "searchCategories": [
+      "飾品",
+      "髮飾與配件",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/PvMzPArg/0/2/500x0.jpg"
     ],
@@ -891,6 +1069,7 @@
   {
     "brandName": "BestTag",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/VWLngjSv/0/1/500x0.jpg"
     ],
@@ -907,6 +1086,7 @@
   {
     "brandName": "姆姆MUMU",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/fgv3EWXW/0/7/500x0.jpg"
     ],
@@ -923,6 +1103,9 @@
   {
     "brandName": "ZILA SOCKS",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ay3txiKH/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/gt9hebkE/0/1/500x0.jpg"
@@ -940,6 +1123,10 @@
   {
     "brandName": "TOPFOREST",
     "mainProducts": "包袋、手作材料",
+    "searchCategories": [
+      "包袋",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/mFTeSKZ5/0/1/500x0.jpg"
     ],
@@ -956,6 +1143,9 @@
   {
     "brandName": "Wacky World Studio",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/kEGzXJJe/0/1/500x0.jpg"
     ],
@@ -972,6 +1162,9 @@
   {
     "brandName": "URNAVY",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/eyhJLtuF/0/1/500x0.jpg"
     ],
@@ -988,6 +1181,11 @@
   {
     "brandName": "VIVIDIA Jewelry Design 薇媞亞",
     "mainProducts": "飾品、保養美妝、寵物用品",
+    "searchCategories": [
+      "飾品",
+      "保養美妝",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/Sgs4p65s/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/SjrR4mRU/0/2/500x0.jpg"
@@ -1005,6 +1203,9 @@
   {
     "brandName": "playmetoys",
     "mainProducts": "玩具童用品",
+    "searchCategories": [
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/1s2zSAw9/0/21/500x0.jpg"
     ],
@@ -1021,6 +1222,7 @@
   {
     "brandName": "JSM",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/vyDkF5TU/0/1/500x0.jpg"
     ],
@@ -1037,6 +1239,7 @@
   {
     "brandName": "WasangShow 花生騷",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/ua885nmG/0/3/500x0.jpg"
     ],
@@ -1053,6 +1256,7 @@
   {
     "brandName": "HIS 十字架概念店",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/CwBd4g8z/0/2/500x0.jpg"
     ],
@@ -1069,6 +1273,9 @@
   {
     "brandName": "遇合",
     "mainProducts": "包袋、設計商品",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/3fJGhDfw/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/u8WpT8xx/0/1/500x0.jpg"
@@ -1086,6 +1293,9 @@
   {
     "brandName": "ENABLE",
     "mainProducts": "3C 配件",
+    "searchCategories": [
+      "3C 配件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/43rYTDb7/0/4/500x0.jpg",
       "https://cdn01.pinkoi.com/product/LFhKr9Nm/0/5/500x0.jpg"
@@ -1103,6 +1313,9 @@
   {
     "brandName": "Gorilla",
     "mainProducts": "設計商品、文具設計",
+    "searchCategories": [
+      "文具設計"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/VLin2YNP/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/BDQQmPT8/0/4/500x0.jpg"
@@ -1120,6 +1333,10 @@
   {
     "brandName": "paperself",
     "mainProducts": "服飾、寵物用品",
+    "searchCategories": [
+      "服飾",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/aivK5qTy/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/ywCBvv6A/0/1/500x0.jpg"
@@ -1137,6 +1354,9 @@
   {
     "brandName": "岸下事物 Tydo Info",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/brryJR5N/0/1/500x0.jpg"
     ],
@@ -1153,6 +1373,9 @@
   {
     "brandName": "波卡先生 Mr.poca",
     "mainProducts": "玩具童用品",
+    "searchCategories": [
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/PWhyCY8T/0/1/500x0.jpg"
     ],
@@ -1169,6 +1392,9 @@
   {
     "brandName": "沐羽毛巾",
     "mainProducts": "設計商品、戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/gHBXiYKc/0/6/500x0.jpg",
       "https://cdn01.pinkoi.com/product/f6KSV2kX/0/6/500x0.jpg"
@@ -1186,6 +1412,10 @@
   {
     "brandName": "ESCURA 自然 X 機能服飾",
     "mainProducts": "設計商品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/pSZjvcGp/0/3/500x0.jpg"
     ],
@@ -1202,6 +1432,10 @@
   {
     "brandName": "Life n Soul",
     "mainProducts": "飾品、3C 配件",
+    "searchCategories": [
+      "飾品",
+      "3C 配件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/8tkDEf6P/0/1/500x0.jpg"
     ],
@@ -1218,6 +1452,10 @@
   {
     "brandName": "JLab 台灣獨家代理",
     "mainProducts": "飾品、3C 配件",
+    "searchCategories": [
+      "飾品",
+      "3C 配件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/NUJ73c2C/0/1/500x0.jpg"
     ],
@@ -1234,6 +1472,10 @@
   {
     "brandName": "花見小路・手製鞋 hanamikoji",
     "mainProducts": "鞋履、茶飲食品、設計商品",
+    "searchCategories": [
+      "鞋履",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/tZNvjc7q/0/10/500x0.jpg",
       "https://cdn01.pinkoi.com/product/iiYMJHE6/0/6/500x0.jpg"
@@ -1251,6 +1493,10 @@
   {
     "brandName": "福摩吉",
     "mainProducts": "旅行用品",
+    "searchCategories": [
+      "戶外運動用品",
+      "旅行用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/LEFAZRdY/0/1/500x0.jpg"
     ],
@@ -1267,6 +1513,10 @@
   {
     "brandName": "Newstar明日之星",
     "mainProducts": "玩具童用品、嬰幼兒用品",
+    "searchCategories": [
+      "玩具童用品",
+      "嬰幼兒用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/cPDhzJN8/0/1/500x0.jpg"
     ],
@@ -1283,6 +1533,9 @@
   {
     "brandName": "QMAT 設計館",
     "mainProducts": "健身器材",
+    "searchCategories": [
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/8HT4LvK4/0/4/500x0.jpg"
     ],
@@ -1299,6 +1552,9 @@
   {
     "brandName": "inaday's",
     "mainProducts": "設計商品、居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/XJRyYfjC/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/W8TPBRn8/0/1/500x0.jpg"
@@ -1316,6 +1572,11 @@
   {
     "brandName": "7th island",
     "mainProducts": "服飾、設計商品、農產與加工食品",
+    "searchCategories": [
+      "服飾",
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/GaEu9U3c/0/11/500x0.jpg",
       "https://cdn01.pinkoi.com/product/YMPUx8zF/0/6/500x0.jpg"
@@ -1333,6 +1594,9 @@
   {
     "brandName": "PhotoFast 銀箭",
     "mainProducts": "3C 配件",
+    "searchCategories": [
+      "3C 配件"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/RQmkTA7c/0/1/500x0.jpg"
     ],
@@ -1349,6 +1613,10 @@
   {
     "brandName": "Sudio品牌旗艦館",
     "mainProducts": "飾品、3C 配件",
+    "searchCategories": [
+      "飾品",
+      "3C 配件"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/Gt8pBDkg/0/1/500x0.jpg"
     ],
@@ -1365,6 +1633,11 @@
   {
     "brandName": "BoingBoing 故事鞋與童畫包",
     "mainProducts": "包袋、鞋履、玩具童用品",
+    "searchCategories": [
+      "包袋",
+      "鞋履",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/uUna9F4Y/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/uZsvUmyX/0/5/500x0.jpg"
@@ -1382,6 +1655,9 @@
   {
     "brandName": "布物設計",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/yFMexKTu/0/1/500x0.jpg"
     ],
@@ -1398,6 +1674,7 @@
   {
     "brandName": "林百貨",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/nC5dZjzS/0/1/500x0.jpg"
     ],
@@ -1414,6 +1691,9 @@
   {
     "brandName": "蘑菇 MOGU",
     "mainProducts": "設計商品、包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/H47AjaLU/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/urmZ8pEg/0/2/500x0.jpg"
@@ -1431,6 +1711,10 @@
   {
     "brandName": "Kotsu Kotsu KnitLab.",
     "mainProducts": "3C 配件、辦公與收納",
+    "searchCategories": [
+      "3C 配件",
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/pQfQYYd7/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/sn8irDFT/0/3/500x0.jpg"
@@ -1448,6 +1732,9 @@
   {
     "brandName": "uma hana 台灣製造防水包",
     "mainProducts": "設計商品、包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/bJsM8LyA/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/SQ7kCbfG/0/1/500x0.jpg"
@@ -1465,6 +1752,10 @@
   {
     "brandName": "BEST Ti",
     "mainProducts": "居家生活用品、玩具童用品",
+    "searchCategories": [
+      "居家生活用品",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/e8W76bXv/0/1/500x0.jpg"
     ],
@@ -1481,6 +1772,9 @@
   {
     "brandName": "Wrought 樂童",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/8WdiYqHy/0/4/500x0.jpg",
       "https://cdn01.pinkoi.com/product/6JRNREA2/0/2/500x0.jpg"
@@ -1498,6 +1792,7 @@
   {
     "brandName": "雲影書法",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/Mcy6HQYS/0/3/500x0.jpg"
     ],
@@ -1514,6 +1809,9 @@
   {
     "brandName": "UENG KEE 翁記",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Pmbm5EHe/0/2/500x0.jpg"
     ],
@@ -1530,6 +1828,10 @@
   {
     "brandName": "HEY SUN",
     "mainProducts": "服飾、茶飲食品",
+    "searchCategories": [
+      "服飾",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/UUhVwekN/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/3RtfTy4G/0/1/500x0.jpg"
@@ -1547,6 +1849,11 @@
   {
     "brandName": "southgate南登機口",
     "mainProducts": "鞋履、茶飲食品",
+    "searchCategories": [
+      "鞋履",
+      "旅行用品",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/iLVHcnPk/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/Dty34AMp/0/1/500x0.jpg"
@@ -1564,6 +1871,9 @@
   {
     "brandName": "FaceSun 玻璃工藝管",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/UJ6krZGj/0/7/500x0.jpg"
     ],
@@ -1580,6 +1890,9 @@
   {
     "brandName": "ecopeco",
     "mainProducts": "設計商品、居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/xBwDDdRn/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/aPhh4mJp/0/1/500x0.jpg"
@@ -1597,6 +1910,10 @@
   {
     "brandName": "Ginny Lambkin",
     "mainProducts": "服飾、寵物用品",
+    "searchCategories": [
+      "服飾",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/QMvfUCJz/0/2/500x0.jpg"
     ],
@@ -1613,6 +1930,10 @@
   {
     "brandName": "Lotus Fitness",
     "mainProducts": "辦公與收納、健身器材",
+    "searchCategories": [
+      "辦公與收納",
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/4rTJiBDe/0/5/500x0.jpg",
       "https://cdn02.pinkoi.com/product/hizX2Riw/0/1/500x0.jpg"
@@ -1630,6 +1951,10 @@
   {
     "brandName": "YUE TRAVELER",
     "mainProducts": "旅行用品",
+    "searchCategories": [
+      "戶外運動用品",
+      "旅行用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/esHGWPE4/0/8/500x0.jpg"
     ],
@@ -1646,6 +1971,9 @@
   {
     "brandName": "annahome棉床本舖",
     "mainProducts": "家飾寢具",
+    "searchCategories": [
+      "家飾寢具"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/n7VfXGLN/0/1/500x0.jpg"
     ],
@@ -1662,6 +1990,9 @@
   {
     "brandName": "我適文創",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/bk699GLs/0/1/500x0.jpg"
     ],
@@ -1678,6 +2009,10 @@
   {
     "brandName": "HH 健康於筷",
     "mainProducts": "居家生活用品、玩具童用品",
+    "searchCategories": [
+      "居家生活用品",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/K3v5vXpb/0/3/500x0.jpg",
       "https://cdn01.pinkoi.com/product/HUVYR7Tq/0/3/500x0.jpg"
@@ -1695,6 +2030,9 @@
   {
     "brandName": "源作木坊",
     "mainProducts": "辦公與收納",
+    "searchCategories": [
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/WdtPeET5/0/1/500x0.jpg"
     ],
@@ -1711,6 +2049,7 @@
   {
     "brandName": "採花女孩",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ayJMxH7P/0/2/500x0.jpg",
       "https://cdn02.pinkoi.com/product/YhbenvQ3/0/1/500x0.jpg"
@@ -1728,6 +2067,9 @@
   {
     "brandName": "Gallop Kustom Kulture",
     "mainProducts": "機車／單車配件",
+    "searchCategories": [
+      "機車／單車配件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/44VqVJEV/0/2/500x0.jpg"
     ],
@@ -1744,6 +2086,9 @@
   {
     "brandName": "安閣家 ANGLE WAVE",
     "mainProducts": "寵物用品",
+    "searchCategories": [
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/dmYwJDMA/0/1/500x0.jpg"
     ],
@@ -1760,6 +2105,7 @@
   {
     "brandName": "Kai Kombucha",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/aFJRfDwg/0/5/500x0.jpg"
     ],
@@ -1776,6 +2122,11 @@
   {
     "brandName": "A.MOUR經典手工鞋",
     "mainProducts": "鞋履、農產與加工食品",
+    "searchCategories": [
+      "鞋履",
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/kefqmNJG/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/PLFSSz49/0/2/500x0.jpg"
@@ -1793,6 +2144,10 @@
   {
     "brandName": "YWC製鞋工作室",
     "mainProducts": "鞋履、手作材料",
+    "searchCategories": [
+      "鞋履",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Ydrhbf9F/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/3etBW5sz/0/1/500x0.jpg"
@@ -1810,6 +2165,7 @@
   {
     "brandName": "【Hello 生活館】",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/4JYX2z4Q/0/1/500x0.jpg"
     ],
@@ -1826,6 +2182,7 @@
   {
     "brandName": "大物設計",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/sSfuMyYT/0/1/500x0.jpg"
     ],
@@ -1842,6 +2199,9 @@
   {
     "brandName": "奕綸口罩",
     "mainProducts": "設計商品、戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Vgbact24/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/NSJmLwZH/0/3/500x0.jpg"
@@ -1859,6 +2219,9 @@
   {
     "brandName": "WOOLI STUDIO",
     "mainProducts": "辦公與收納、設計商品",
+    "searchCategories": [
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/gRsiqJmC/0/5/500x0.jpg",
       "https://cdn01.pinkoi.com/product/nVcC3XAx/0/1/500x0.jpg"
@@ -1876,6 +2239,10 @@
   {
     "brandName": "創設小物工作室",
     "mainProducts": "居家生活用品、設計商品、香氛清潔",
+    "searchCategories": [
+      "居家生活用品",
+      "香氛清潔"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ZQsVRDFr/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/WGqE9Kxw/0/7/500x0.jpg"
@@ -1893,6 +2260,7 @@
   {
     "brandName": "Fartech翻頁鐘",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/mkYCpwri/0/1/500x0.jpg"
     ],
@@ -1909,6 +2277,9 @@
   {
     "brandName": "自做自售創意供賣局",
     "mainProducts": "設計商品、戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/HvEJhpwu/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/BKKMs32c/0/1/500x0.jpg"
@@ -1926,6 +2297,10 @@
   {
     "brandName": "la essence",
     "mainProducts": "包袋、服飾",
+    "searchCategories": [
+      "包袋",
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/vF6LpDrH/0/2/500x0.jpg"
     ],
@@ -1942,6 +2317,10 @@
   {
     "brandName": "SATBAKHI 膠原蛋白織造所",
     "mainProducts": "服飾、保養美妝",
+    "searchCategories": [
+      "服飾",
+      "保養美妝"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/aLf9Ynjr/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/vLqvdVLh/0/1/500x0.jpg"
@@ -1959,6 +2338,9 @@
   {
     "brandName": "AGAPE雅家倍",
     "mainProducts": "設計商品、家飾寢具",
+    "searchCategories": [
+      "家飾寢具"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/5nYfNDuF/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/iiDFSeJR/0/1/500x0.jpg"
@@ -1976,6 +2358,9 @@
   {
     "brandName": "REWOOD木酢達人",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/35sevr4f/0/1/500x0.jpg"
     ],
@@ -1992,6 +2377,7 @@
   {
     "brandName": "Muzulee Woodworking",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/UtNA5Q2q/0/3/500x0.jpg"
     ],
@@ -2008,6 +2394,10 @@
   {
     "brandName": "ISLANDTIME 島嶼時光",
     "mainProducts": "服飾、手作材料",
+    "searchCategories": [
+      "服飾",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/S93YZ6gd/0/1/500x0.jpg"
     ],
@@ -2024,6 +2414,11 @@
   {
     "brandName": "包裝研究所",
     "mainProducts": "農產與加工食品、居家生活用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/kzYPZbT4/0/2/500x0.jpg"
     ],
@@ -2040,6 +2435,9 @@
   {
     "brandName": "Cicala Pu 喜樂鋪手工鞋",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/NhMxt5RT/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/ZhCgUS6j/0/1/500x0.jpg"
@@ -2057,6 +2455,10 @@
   {
     "brandName": "FYE專賣店-法樂齊",
     "mainProducts": "包袋、辦公與收納",
+    "searchCategories": [
+      "包袋",
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ZFxTk54q/0/1/500x0.jpg"
     ],
@@ -2073,6 +2475,10 @@
   {
     "brandName": "Matchwood",
     "mainProducts": "辦公與收納、包袋",
+    "searchCategories": [
+      "辦公與收納",
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/WDrAxYGX/0/2/500x0.jpg",
       "https://cdn02.pinkoi.com/product/qBcLTvGk/0/2/500x0.jpg"
@@ -2090,6 +2496,7 @@
   {
     "brandName": "DYDASH",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/ExDMf5eG/0/1/500x0.jpg"
     ],
@@ -2106,6 +2513,7 @@
   {
     "brandName": "大匠夫-MakerSoulHK",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/spBqkpu5/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/5xGd6Ave/0/1/500x0.jpg"
@@ -2123,6 +2531,10 @@
   {
     "brandName": "HALFÔR 台灣機能設計襪",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/3ekgggHz/0/3/500x0.jpg"
     ],
@@ -2139,6 +2551,11 @@
   {
     "brandName": "Funmay 手作",
     "mainProducts": "包袋、辦公與收納",
+    "searchCategories": [
+      "包袋",
+      "辦公與收納",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/2dLbDJpF/0/1/500x0.jpg"
     ],
@@ -2155,6 +2572,11 @@
   {
     "brandName": "y1hsuan",
     "mainProducts": "服飾、玩具童用品、手作材料",
+    "searchCategories": [
+      "服飾",
+      "玩具童用品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/gZNZSqNz/0/1/500x0.jpg"
     ],
@@ -2171,6 +2593,9 @@
   {
     "brandName": "哩皿生活",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/n4vmndKg/0/3/500x0.jpg"
     ],
@@ -2187,6 +2612,7 @@
   {
     "brandName": "Chez。",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/7H8A5gzN/0/500x0.jpg"
     ],
@@ -2203,6 +2629,7 @@
   {
     "brandName": "卷卷製造所._.",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ec7JEhiz/0/1/500x0.jpg"
     ],
@@ -2219,6 +2646,7 @@
   {
     "brandName": "森活小飾Lifedecor",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/rjSsRdSU/0/1/500x0.jpg"
     ],
@@ -2235,6 +2663,10 @@
   {
     "brandName": "ZJ Gallery 哲印",
     "mainProducts": "服飾、寵物用品",
+    "searchCategories": [
+      "服飾",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/GGQuzasR/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/VGjDr5cZ/0/2/500x0.jpg"
@@ -2252,6 +2684,7 @@
   {
     "brandName": "Ohla Lab",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/EUm3vv4V/0/2/500x0.jpg"
     ],
@@ -2268,6 +2701,7 @@
   {
     "brandName": "lisscode",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/MUPedusz/0/5/500x0.jpg"
     ],
@@ -2284,6 +2718,12 @@
   {
     "brandName": "One Shoe 全臺唯一草編鞋專賣店",
     "mainProducts": "服飾、鞋履、農產與加工食品",
+    "searchCategories": [
+      "服飾",
+      "鞋履",
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ap6NVh2G/0/3/500x0.jpg",
       "https://cdn02.pinkoi.com/product/Trr2ZFkq/0/2/500x0.jpg"
@@ -2301,6 +2741,7 @@
   {
     "brandName": "國立海洋生物博物館",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/7Pvn8rvc/0/2/500x0.jpg"
     ],
@@ -2317,6 +2758,10 @@
   {
     "brandName": "WoodGrassSun",
     "mainProducts": "文具設計、藝術創作",
+    "searchCategories": [
+      "文具設計",
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/3AFZNui5/0/1/500x0.jpg"
     ],
@@ -2333,6 +2778,9 @@
   {
     "brandName": "裏.外",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/AMs8CAbH/0/13/500x0.jpg"
     ],
@@ -2349,6 +2797,7 @@
   {
     "brandName": "FUMI Towel",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/U55JtbhK/0/3/500x0.jpg"
     ],
@@ -2365,6 +2814,11 @@
   {
     "brandName": "鈦萬德 TIWONDER",
     "mainProducts": "居家生活用品、辦公與收納、玩具童用品",
+    "searchCategories": [
+      "居家生活用品",
+      "辦公與收納",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/knu4YzqL/0/3/500x0.jpg"
     ],
@@ -2381,6 +2835,7 @@
   {
     "brandName": "Uffy 無非研製所",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/8wjbCFvQ/0/1/500x0.jpg"
     ],
@@ -2397,6 +2852,9 @@
   {
     "brandName": "木森好襪 Musen SOCKS",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/rdgRYA8W/0/4/500x0.jpg"
     ],
@@ -2413,6 +2871,10 @@
   {
     "brandName": "Desrochers x 曜生活",
     "mainProducts": "服飾、居家生活用品",
+    "searchCategories": [
+      "服飾",
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/tnVQMFHv/0/4/500x0.jpg"
     ],
@@ -2429,6 +2891,9 @@
   {
     "brandName": "LIVING FORM 方房",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/JuVLpLn2/0/2/500x0.jpg"
     ],
@@ -2445,6 +2910,9 @@
   {
     "brandName": "硬石製畫 Ins Design",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/8NNEay6t/0/8/500x0.jpg"
     ],
@@ -2461,6 +2929,9 @@
   {
     "brandName": "家適居家寢飾生活館",
     "mainProducts": "家飾寢具",
+    "searchCategories": [
+      "家飾寢具"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/7jMBsebw/0/1/500x0.jpg"
     ],
@@ -2478,6 +2949,12 @@
     "brandName": "沐澧 mooni",
     "companyName": "江浥辰",
     "mainProducts": "茶飲食品、保養美妝、香氛清潔、收藏擺件",
+    "searchCategories": [
+      "茶飲食品",
+      "保養美妝",
+      "香氛清潔",
+      "收藏擺件"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/GAiedRQC/0/1/500x0.jpg",
       "https://twrr.org.tw/uploads/partner/570265883810463983.jpg"
@@ -2498,6 +2975,7 @@
   {
     "brandName": "UbeLife",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/3uqtbzA6/0/1/500x0.jpg"
     ],
@@ -2514,6 +2992,9 @@
   {
     "brandName": "Bonjour女人愛買鞋",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/t9DsfXAm/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/zFUienvx/0/1/500x0.jpg"
@@ -2531,6 +3012,9 @@
   {
     "brandName": "Home Desyne 臺灣捷安傢飾",
     "mainProducts": "設計商品、家飾寢具",
+    "searchCategories": [
+      "家飾寢具"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/arrkTdER/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/gCFgP8Zj/0/2/500x0.jpg"
@@ -2548,6 +3032,12 @@
   {
     "brandName": "Keizu 好鞋好設計",
     "mainProducts": "鞋履、農產與加工食品、戶外運動用品",
+    "searchCategories": [
+      "鞋履",
+      "茶飲食品",
+      "農產與加工食品",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/yjiGrg8B/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/4nSnLVcq/0/1/500x0.jpg"
@@ -2565,6 +3055,9 @@
   {
     "brandName": "S&T STUDIO",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/kBfMfFvX/0/11/500x0.jpg",
       "https://cdn02.pinkoi.com/product/cSCiDxiy/0/1/500x0.jpg"
@@ -2582,6 +3075,9 @@
   {
     "brandName": "Tumaz月熊",
     "mainProducts": "健身器材",
+    "searchCategories": [
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/TASWgVj7/0/1/500x0.jpg"
     ],
@@ -2598,6 +3094,9 @@
   {
     "brandName": "Mr.Casa傢燈先生",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ZCAqNgb5/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/i43VsaFD/0/1/500x0.jpg"
@@ -2615,6 +3114,9 @@
   {
     "brandName": "KOPER",
     "mainProducts": "包袋、設計商品",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/2YZE63Mz/0/4/500x0.jpg",
       "https://cdn01.pinkoi.com/product/tPmDUWkF/0/5/500x0.jpg"
@@ -2632,6 +3134,9 @@
   {
     "brandName": "Jinger's手作",
     "mainProducts": "設計商品",
+    "searchCategories": [
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/q86nmPnp/0/1/500x0.jpg"
     ],
@@ -2648,6 +3153,9 @@
   {
     "brandName": "【 1002 】",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/1axWh8hF/0/500x0.jpg",
       "https://cdn02.pinkoi.com/product/1awf5Ymm/0/500x0.jpg"
@@ -2665,6 +3173,11 @@
   {
     "brandName": "MISPORT 運動迷",
     "mainProducts": "服飾、戶外運動用品、寵物用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/iVP4KzXM/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/ZcrtFvvK/0/1/500x0.jpg"
@@ -2682,6 +3195,9 @@
   {
     "brandName": "LABAN PEN",
     "mainProducts": "文具設計、設計商品",
+    "searchCategories": [
+      "文具設計"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/YWkwqYNW/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/8p5JBhWm/0/1/500x0.jpg"
@@ -2699,6 +3215,10 @@
   {
     "brandName": "HEYDAY 寵物概念",
     "mainProducts": "香氛清潔、寵物用品",
+    "searchCategories": [
+      "香氛清潔",
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn02.pinkoi.com/product/FS2NUZEy/0/1/500x0.jpg"
     ],
@@ -2715,6 +3235,9 @@
   {
     "brandName": "Major Pleasure 女子鞋研究室",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/M2YPbcfm/0/2/500x0.jpg"
     ],
@@ -2731,6 +3254,9 @@
   {
     "brandName": "雲御織",
     "mainProducts": "設計商品、洗沐用品",
+    "searchCategories": [
+      "洗沐用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/mmhpjaMb/0/1/500x0.jpg",
       "https://cdn02.pinkoi.com/product/pcfXkFcu/0/1/500x0.jpg"
@@ -2748,6 +3274,7 @@
   {
     "brandName": "W.M. 五柳園",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/jdsw6EVQ/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/kDRFAM45/0/1/500x0.jpg"
@@ -2765,6 +3292,9 @@
   {
     "brandName": "SnN溫度真皮手工鞋",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ZS6mvWxE/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/HEp2gjDa/0/1/500x0.jpg"
@@ -2782,6 +3312,10 @@
   {
     "brandName": "Horizon 台灣獨家代理",
     "mainProducts": "設計商品、健身器材、戶外運動用品",
+    "searchCategories": [
+      "健身器材",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/MW7GXJHz/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/pk6zb7fd/0/2/500x0.jpg"
@@ -2799,6 +3333,9 @@
   {
     "brandName": "三十革皮藝工作室",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/Fx9hzsFX/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/TEwUvjBJ/0/1/500x0.jpg"
@@ -2816,6 +3353,10 @@
   {
     "brandName": "AC RABBIT 機能氣墊專門",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/ijTJgCWh/0/500x0.jpg"
     ],
@@ -2832,6 +3373,9 @@
   {
     "brandName": "I called Love",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/kBXDmJ3r/0/5/500x0.jpg",
       "https://cdn01.pinkoi.com/product/B4aaGaq4/0/4/500x0.jpg"
@@ -2849,6 +3393,9 @@
   {
     "brandName": "moobulous 木子",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/jPgDSjrZ/0/2/500x0.jpg",
       "https://cdn01.pinkoi.com/product/CSau7PMj/0/2/500x0.jpg"
@@ -2866,6 +3413,9 @@
   {
     "brandName": "I Love Sprinkle",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/zKTMxGnc/0/500x0.jpg",
       "https://cdn01.pinkoi.com/product/Vef4QSEn/0/1/500x0.jpg"
@@ -2883,6 +3433,9 @@
   {
     "brandName": "MULTI",
     "mainProducts": "洗沐用品、設計商品",
+    "searchCategories": [
+      "洗沐用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/EHAm78CX/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/LSFLBMHE/0/1/500x0.jpg"
@@ -2900,6 +3453,7 @@
   {
     "brandName": "Flat 135",
     "mainProducts": "設計商品",
+    "searchCategories": [],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/5DGj3KhC/0/3/500x0.jpg",
       "https://cdn01.pinkoi.com/product/Agfdy5fx/0/1/500x0.jpg"
@@ -2917,6 +3471,9 @@
   {
     "brandName": "亮飾界-精品手工館",
     "mainProducts": "辦公與收納",
+    "searchCategories": [
+      "辦公與收納"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/cvJCB9mv/0/1/500x0.jpg"
     ],
@@ -2933,6 +3490,9 @@
   {
     "brandName": "家居公設",
     "mainProducts": "寵物用品",
+    "searchCategories": [
+      "寵物用品"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/tjH3f7gR/0/1/500x0.jpg"
     ],
@@ -2949,6 +3509,9 @@
   {
     "brandName": "未來居+",
     "mainProducts": "髮飾與配件",
+    "searchCategories": [
+      "髮飾與配件"
+    ],
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/qsVrk9Zn/0/1/500x0.jpg"
     ],
@@ -2966,6 +3529,7 @@
     "brandName": "台灣潛水",
     "companyName": "執行長：陳琦恩",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/476907357441097990.jpg"
     ],
@@ -2984,6 +3548,9 @@
   {
     "brandName": "Onelife玩生活",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/611982834835652661.jpg",
       "https://twrr.org.tw/uploads/partner/611989436754035119.jpg"
@@ -3003,6 +3570,7 @@
   {
     "brandName": "果源創生有限公司",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/589902439340572997.jpg"
     ],
@@ -3021,6 +3589,10 @@
   {
     "brandName": "鮮乳坊",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/495301611028742402.jpg"
     ],
@@ -3040,6 +3612,9 @@
     "brandName": "福灣巧克力",
     "companyName": "福灣莊園巧克力有限公司",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/15443805677394.jpg",
       "https://twrr.org.tw/uploads/partner/16508079069211.jpg"
@@ -3060,6 +3635,10 @@
     "brandName": "三小市集",
     "companyName": "黃瀚",
     "mainProducts": "地方創生產品與服務、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/487754439634190530.jpg",
       "https://twrr.org.tw/uploads/partner/609560650011902056.jpg"
@@ -3080,6 +3659,9 @@
     "brandName": "Pokory",
     "companyName": "黃久玲",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/609411414158999589.jpg",
       "https://twrr.org.tw/uploads/partner/609412506120618252.jpg"
@@ -3100,6 +3682,7 @@
     "brandName": "阮劇團",
     "companyName": "阮劇團",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/456786170753057060.jpg"
     ],
@@ -3118,6 +3701,10 @@
   {
     "brandName": "據點文創工作室",
     "mainProducts": "包袋、茶飲食品",
+    "searchCategories": [
+      "包袋",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/609122553432375503.jpg"
     ],
@@ -3135,6 +3722,11 @@
     "brandName": "省府日常散策",
     "companyName": "華麗轉身股份有限公司",
     "mainProducts": "農產與加工食品、居家生活用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/609100761339002900.jpg",
       "https://twrr.org.tw/uploads/partner/539293714175230146.jpg"
@@ -3155,6 +3747,10 @@
     "brandName": "智遊創生有限公司",
     "companyName": "葉如芳",
     "mainProducts": "玩具童用品、健身器材",
+    "searchCategories": [
+      "玩具童用品",
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/608977306043547650.jpg"
     ],
@@ -3174,6 +3770,19 @@
     "brandName": "作穡人有限公司",
     "companyName": "吳翊豪",
     "mainProducts": "地方創生產品與服務、寵物用品、農產與加工食品、保養美妝、香氛清潔",
+    "searchCategories": [
+      "寵物用品",
+      "茶飲食品",
+      "農產與加工食品",
+      "保養美妝",
+      "手作材料",
+      "居家生活用品",
+      "香氛清潔",
+      "藝術創作",
+      "文具設計",
+      "玩具童用品",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/608563801558352063.jpg",
       "https://twrr.org.tw/uploads/partner/602905143893033271.jpg"
@@ -3194,6 +3803,7 @@
     "brandName": "打go嚴選",
     "companyName": "黃雅聖",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/608228207141060660.jpg",
       "https://twrr.org.tw/uploads/partner/608228334429798538.jpg"
@@ -3213,6 +3823,11 @@
   {
     "brandName": "邦富雅有限公司",
     "mainProducts": "香氛清潔、玩具童用品、手作材料",
+    "searchCategories": [
+      "香氛清潔",
+      "玩具童用品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/608133805270106216.jpg"
     ],
@@ -3232,6 +3847,10 @@
     "brandName": "台東回響樂團",
     "companyName": "王于如",
     "mainProducts": "藝術創作、樂器與音樂用品",
+    "searchCategories": [
+      "藝術創作",
+      "樂器與音樂用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/606764597764161639.jpg",
       "https://twrr.org.tw/uploads/partner/606769751003234581.jpg"
@@ -3251,6 +3870,7 @@
   {
     "brandName": "子茂果菜生產合作社",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/606697070258815693.jpg",
       "https://twrr.org.tw/uploads/partner/606700924807151821.jpg"
@@ -3271,6 +3891,9 @@
     "brandName": "山間縫紉坊",
     "companyName": "Una",
     "mainProducts": "健身器材",
+    "searchCategories": [
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/606412681599254597.jpg"
     ],
@@ -3290,6 +3913,10 @@
     "brandName": "艾熙甜點",
     "companyName": "林子涵",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/605050539818614956.jpg",
       "https://twrr.org.tw/uploads/partner/605050563507257670.jpg"
@@ -3310,6 +3937,11 @@
     "brandName": "阿雅工作室",
     "companyName": "張郁雅(阿雅老師)",
     "mainProducts": "文具設計、藝術創作、戶外運動用品",
+    "searchCategories": [
+      "文具設計",
+      "藝術創作",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/550513354247242020.jpg",
       "https://twrr.org.tw/uploads/partner/550517716591837553.jpg"
@@ -3330,6 +3962,11 @@
     "brandName": "李家蜂蜜",
     "companyName": "陳麗雲",
     "mainProducts": "農產與加工食品、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/603888554552066270.jpg"
     ],
@@ -3347,6 +3984,9 @@
     "brandName": "卡里善之樹",
     "companyName": "卡里善之樹有限公司",
     "mainProducts": "藝術創作",
+    "searchCategories": [
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/603473253595611138.jpg"
     ],
@@ -3366,6 +4006,9 @@
     "brandName": "奇步應用",
     "companyName": "彰化旅行+ 頭目 謝宜伶",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/603434495274123334.jpg",
       "https://twrr.org.tw/uploads/partner/590686924831196022.jpg"
@@ -3386,6 +4029,9 @@
     "brandName": "陽光永續設計自然建築團隊",
     "companyName": "陽光永續設計有限公司",
     "mainProducts": "地方創生產品與服務、手作材料",
+    "searchCategories": [
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/602616292713431143.jpg",
       "https://twrr.org.tw/uploads/partner/602991427336798597.jpg"
@@ -3405,6 +4051,7 @@
   {
     "brandName": "種種影像",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/17863809491632.jpg",
       "https://twrr.org.tw/uploads/partner/17863818684257.jpg"
@@ -3425,6 +4072,7 @@
     "brandName": "離島出走isle.travel",
     "companyName": "楊馥慈",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/500814383836823917.jpg"
     ],
@@ -3444,6 +4092,7 @@
     "brandName": "転和制作所",
     "companyName": "陳以寰",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/500835201661534390.jpg",
       "https://twrr.org.tw/uploads/partner/516453925160485154.jpg"
@@ -3463,6 +4112,7 @@
   {
     "brandName": "亞瑟邁影像工作室",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/598227889862738401.jpg",
       "https://twrr.org.tw/uploads/partner/598230782959943700.jpg"
@@ -3481,6 +4131,10 @@
     "brandName": "青年放大有限公司",
     "companyName": "邱子玲",
     "mainProducts": "茶飲食品、戶外運動用品",
+    "searchCategories": [
+      "茶飲食品",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/595774122785767909.jpg"
     ],
@@ -3500,6 +4154,9 @@
     "brandName": "軒洺藝術影像工作室",
     "companyName": "杜岳軒",
     "mainProducts": "藝術創作",
+    "searchCategories": [
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/597425686709272870.jpg",
       "https://twrr.org.tw/uploads/partner/597425705215066114.jpg"
@@ -3520,6 +4177,9 @@
     "brandName": "TC TIME WALK",
     "companyName": "徐銘遠Chester",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/555942646330949838.jpg",
       "https://twrr.org.tw/uploads/partner/472987768893735558.jpg"
@@ -3540,6 +4200,10 @@
     "brandName": "德朱利斯國際食品有限公司",
     "companyName": "德朱利斯國際食品有限公司 謝雅雯",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/596648839230783987.jpg",
       "https://twrr.org.tw/uploads/partner/596649836988596770.jpg"
@@ -3560,6 +4224,10 @@
     "brandName": "萬源製麵舖",
     "companyName": "謝語淇",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/596246476846531142.jpg",
       "https://twrr.org.tw/uploads/partner/498788851725107297.jpg"
@@ -3579,6 +4247,10 @@
   {
     "brandName": "淺山植藝工作室",
     "mainProducts": "園藝植栽、手作材料",
+    "searchCategories": [
+      "園藝植栽",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/595794847579766927.jpg",
       "https://twrr.org.tw/uploads/partner/595795269979734839.jpg"
@@ -3599,6 +4271,17 @@
     "brandName": "REWOOD森林循環湖口創生",
     "companyName": "REWOOD森林循環 | ESG永續發展合作",
     "mainProducts": "地方創生產品與服務、農產與加工食品、玩具童用品、藝術創作、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "玩具童用品",
+      "藝術創作",
+      "手作材料",
+      "廚房用品",
+      "居家生活用品",
+      "保養美妝",
+      "香氛清潔"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/594588396803326404.jpg",
       "https://twrr.org.tw/uploads/partner/552148415480594603.jpg"
@@ -3618,6 +4301,7 @@
   {
     "brandName": "壹顆蜆",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/593895523149677022.jpg",
       "https://twrr.org.tw/uploads/partner/593896091410498015.jpg"
@@ -3637,6 +4321,7 @@
   {
     "brandName": "Voyage陽明山",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/511433139949404417.jpg",
       "https://twrr.org.tw/uploads/partner/514365854683758914.jpg"
@@ -3657,6 +4342,11 @@
     "brandName": "雙溪注腳工作室",
     "companyName": "董彥霆",
     "mainProducts": "居家生活用品、藝術創作、戶外運動用品、地方創生產品與服務",
+    "searchCategories": [
+      "居家生活用品",
+      "藝術創作",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/593158593365148040.jpg",
       "https://twrr.org.tw/uploads/partner/593158704682762618.jpg"
@@ -3676,6 +4366,7 @@
   {
     "brandName": "逆風劇團",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/592558196715946077.jpg",
       "https://twrr.org.tw/uploads/partner/592558219281302096.jpg"
@@ -3695,6 +4386,7 @@
   {
     "brandName": "拉露露然創意文化有限公司",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/592455944500150392.jpg"
     ],
@@ -3711,6 +4403,9 @@
   {
     "brandName": "東room藝術工作室",
     "mainProducts": "藝術創作",
+    "searchCategories": [
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/592319007572099568.jpg",
       "https://twrr.org.tw/uploads/partner/592320140319391900.jpg"
@@ -3731,6 +4426,9 @@
     "brandName": "夫魯克民宿",
     "companyName": "曾健智",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/592201659216822940.jpg"
     ],
@@ -3748,6 +4446,7 @@
     "brandName": "智能科技台灣鯛",
     "companyName": "王益豐",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/486035575921705224.jpg",
       "https://twrr.org.tw/uploads/partner/591565430259188462.jpg"
@@ -3768,6 +4467,11 @@
     "brandName": "順騎自然有限公司",
     "companyName": "陳巨凱",
     "mainProducts": "居家生活用品、戶外運動用品、機車／單車配件",
+    "searchCategories": [
+      "居家生活用品",
+      "戶外運動用品",
+      "機車／單車配件"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/591265536685113448.jpg",
       "https://twrr.org.tw/uploads/partner/591265474189459851.jpg"
@@ -3786,6 +4490,11 @@
     "brandName": "Chosen One 秋森玩",
     "companyName": "陳宜強",
     "mainProducts": "保養美妝、戶外運動用品、健身器材",
+    "searchCategories": [
+      "保養美妝",
+      "戶外運動用品",
+      "健身器材"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/591275365364924759.jpg",
       "https://twrr.org.tw/uploads/partner/591296980912439518.jpg"
@@ -3804,6 +4513,7 @@
     "brandName": "詔安好伴屋",
     "companyName": "詔安好伴屋",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/490220538015776843.jpg",
       "https://twrr.org.tw/uploads/partner/591143167563399206.jpg"
@@ -3824,6 +4534,11 @@
     "brandName": "黑手咖啡",
     "companyName": "王溢錞",
     "mainProducts": "茶飲食品、居家生活用品、機車／單車配件",
+    "searchCategories": [
+      "茶飲食品",
+      "居家生活用品",
+      "機車／單車配件"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/591038123082514757.jpg"
     ],
@@ -3841,6 +4556,7 @@
     "brandName": "線織屋多美有限公司",
     "companyName": "葉薇臻(多美)0912700058",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/590886110885576824.jpg",
       "https://twrr.org.tw/uploads/partner/590959638829858973.jpg"
@@ -3859,6 +4575,11 @@
     "brandName": "檜山坊",
     "companyName": "檜山坊 Kuai Shan Fang",
     "mainProducts": "保養美妝、洗沐用品、香氛清潔",
+    "searchCategories": [
+      "保養美妝",
+      "洗沐用品",
+      "香氛清潔"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/590590825005318640.jpg",
       "https://twrr.org.tw/uploads/partner/590590761503555841.jpg"
@@ -3879,6 +4600,10 @@
     "brandName": "人與山旅宿",
     "companyName": "仙湖休閒農場",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/538382348907970597.jpg",
       "https://twrr.org.tw/uploads/partner/590281547396678354.jpg"
@@ -3899,6 +4624,10 @@
     "brandName": "VDS 活力東勢",
     "companyName": "張小姐",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/589540349707026892.jpg",
       "https://twrr.org.tw/uploads/partner/589540096991035482.jpg"
@@ -3919,6 +4648,7 @@
     "brandName": "皇手製作",
     "companyName": "實體展售門市：",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/588250846124048385.jpg"
     ],
@@ -3936,6 +4666,10 @@
     "brandName": "杉恆壹樹農創",
     "companyName": "王宥勝",
     "mainProducts": "茶飲食品、保養美妝",
+    "searchCategories": [
+      "茶飲食品",
+      "保養美妝"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/588351649828307404.jpg"
     ],
@@ -3954,6 +4688,7 @@
   {
     "brandName": "黑糖農莊",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/587205078361047077.jpg",
       "https://twrr.org.tw/uploads/partner/588213901536002236.jpg"
@@ -3974,6 +4709,10 @@
     "brandName": "山孩",
     "companyName": "謝依炘",
     "mainProducts": "茶飲食品、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/586076257238647221.jpg",
       "https://twrr.org.tw/uploads/partner/586074617367232787.jpg"
@@ -3993,6 +4732,10 @@
   {
     "brandName": "冷研碳索館",
     "mainProducts": "茶飲食品、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/477501958132597206.jpg",
       "https://twrr.org.tw/uploads/partner/585462381103809026.jpg"
@@ -4013,6 +4756,10 @@
     "brandName": "社團法人台灣食農創生發展協會",
     "companyName": "社團法人台灣食農創生發展協會",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/575457671734362114.jpg",
       "https://twrr.org.tw/uploads/partner/577195955527876987.jpg"
@@ -4032,6 +4779,7 @@
   {
     "brandName": "田尾羊咩咩",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/583271954225037721.jpg",
       "https://twrr.org.tw/uploads/partner/583281794179661910.jpg"
@@ -4052,6 +4800,9 @@
     "brandName": "月光下友善農場",
     "companyName": "郭慧蟬",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/581966707372065093.jpg",
       "https://twrr.org.tw/uploads/partner/581971487972655549.jpg"
@@ -4070,6 +4821,9 @@
     "brandName": "VII COFFEE 小柒咖啡",
     "companyName": "邱思奇",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/480841443029287250.jpg",
       "https://twrr.org.tw/uploads/partner/518846400000688724.jpg"
@@ -4090,6 +4844,7 @@
     "brandName": "當我們農在雲林",
     "companyName": "盧傳期",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/578394340288888922.jpg"
     ],
@@ -4108,6 +4863,9 @@
   {
     "brandName": "金旗山城QishanMarvel",
     "mainProducts": "居家生活用品",
+    "searchCategories": [
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/578239631205335418.jpg",
       "https://twrr.org.tw/uploads/partner/578242191072166349.jpg"
@@ -4127,6 +4885,7 @@
   {
     "brandName": "綠合有機農場",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/575315806767546833.jpg",
       "https://twrr.org.tw/uploads/partner/575316363888558456.jpg"
@@ -4147,6 +4906,7 @@
     "brandName": "藺子",
     "companyName": "睦晴文創有限公司 廖怡雅",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/15297393886064.jpg",
       "https://twrr.org.tw/uploads/partner/539717410517942295.jpg"
@@ -4167,6 +4927,7 @@
     "brandName": "萬豐醬油-新萬豐醬業",
     "companyName": "吳國賓",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/502046668641271970.jpg",
       "https://twrr.org.tw/uploads/partner/574334660763713656.jpg"
@@ -4187,6 +4948,7 @@
     "brandName": "氺の尼 泥研製所",
     "companyName": "偉盛工作室",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/574299814000067055.jpg",
       "https://twrr.org.tw/uploads/partner/574305258592534855.jpg"
@@ -4207,6 +4969,9 @@
     "brandName": "BONBONS甜點",
     "companyName": "彭詩涵",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/574306956631080995.jpg",
       "https://twrr.org.tw/uploads/partner/574307031491019487.jpg"
@@ -4226,6 +4991,11 @@
   {
     "brandName": "樂檸漢堡",
     "mainProducts": "服飾、飾品、茶飲食品",
+    "searchCategories": [
+      "服飾",
+      "飾品",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/477043033142460935.jpg",
       "https://twrr.org.tw/uploads/partner/477044224106430501.jpg"
@@ -4246,6 +5016,9 @@
     "brandName": "鴻梅文創志業股份有限公司",
     "companyName": "顏志豪 客戶關係",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/16187154707871.jpg",
       "https://twrr.org.tw/uploads/partner/17857639027720.jpg"
@@ -4266,6 +5039,7 @@
     "brandName": "峰禾日秝",
     "companyName": "高聖峰 Roy",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/474505049624543265.jpg",
       "https://twrr.org.tw/uploads/partner/546509378686026105.jpg"
@@ -4286,6 +5060,11 @@
     "brandName": "忠貞新村文化園區",
     "companyName": "王恩寧",
     "mainProducts": "農產與加工食品、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/569950061224525827.jpg",
       "https://twrr.org.tw/uploads/partner/569950414956134452.jpg"
@@ -4306,6 +5085,10 @@
     "brandName": "大梅石創生共享家",
     "companyName": "大梅石創生共享家",
     "mainProducts": "藝術創作、戶外運動用品",
+    "searchCategories": [
+      "藝術創作",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/569737285659787538.jpg",
       "https://twrr.org.tw/uploads/partner/569734514616828058.jpg"
@@ -4324,6 +5107,7 @@
     "brandName": "獨木設計",
     "companyName": "cs@uniwoodesign.com",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/569584213427224994.jpg"
     ],
@@ -4342,6 +5126,10 @@
   {
     "brandName": "十鼓文創股份有限公司",
     "mainProducts": "藝術創作、戶外運動用品",
+    "searchCategories": [
+      "藝術創作",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/567789956077191686.jpg"
     ],
@@ -4361,6 +5149,10 @@
     "brandName": "有限責任台灣咖啡茶運銷合作社",
     "companyName": "台灣咖啡茶運銷合作社",
     "mainProducts": "茶飲食品、藝術創作",
+    "searchCategories": [
+      "茶飲食品",
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/563128605639705142.jpg"
     ],
@@ -4380,6 +5172,11 @@
     "brandName": "創樂子文化社企",
     "companyName": "創樂子生活學苑",
     "mainProducts": "茶飲食品、藝術創作、園藝植栽",
+    "searchCategories": [
+      "茶飲食品",
+      "藝術創作",
+      "園藝植栽"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/563020436821770326.jpg",
       "https://twrr.org.tw/uploads/partner/556692293429231719.jpg"
@@ -4399,6 +5196,9 @@
   {
     "brandName": "小村遠遠",
     "mainProducts": "香氛清潔",
+    "searchCategories": [
+      "香氛清潔"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/562304833881899145.jpg",
       "https://twrr.org.tw/uploads/partner/562305323222958390.jpg"
@@ -4419,6 +5219,7 @@
     "brandName": "田野勤學",
     "companyName": "田野勤學(又禎有限公司) 蔡慧璇",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/17414186046434.jpg",
       "https://twrr.org.tw/uploads/partner/486036039761396231.jpg"
@@ -4439,6 +5240,7 @@
     "brandName": "墟聲創營有限公司",
     "companyName": "羅健福",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/468854961242636769.jpg",
       "https://twrr.org.tw/uploads/partner/556034475516493826.jpg"
@@ -4459,6 +5261,7 @@
     "brandName": "社團法人大愛長照關懷服務協會",
     "companyName": "地址：彰化縣和美鎮彰美路五段391號",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/560252268307022131.jpg",
       "https://twrr.org.tw/uploads/partner/16949424426684.jpg"
@@ -4479,6 +5282,7 @@
     "brandName": "官田烏金",
     "companyName": "官田烏金｜Guantian Black Gold",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/559124275710919051.jpg",
       "https://twrr.org.tw/uploads/partner/559124304047636481.jpg"
@@ -4498,6 +5302,10 @@
   {
     "brandName": "旅學堂工作室",
     "mainProducts": "玩具童用品、戶外運動用品",
+    "searchCategories": [
+      "玩具童用品",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/558996197168120072.jpg",
       "https://twrr.org.tw/uploads/partner/558991878494617964.jpg"
@@ -4518,6 +5326,10 @@
     "brandName": "幸福販賣所",
     "companyName": "幸福販賣所",
     "mainProducts": "收藏擺件、手作材料",
+    "searchCategories": [
+      "收藏擺件",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/497772320376226182.jpg",
       "https://twrr.org.tw/uploads/partner/497772011289575555.jpg"
@@ -4538,6 +5350,10 @@
     "brandName": "長城食堂1981",
     "companyName": "長城食堂_豊台苑 執行長 鐘元駿",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/557657760066437495.jpg",
       "https://twrr.org.tw/uploads/partner/557659181230850189.jpg"
@@ -4558,6 +5374,9 @@
     "brandName": "有限責任高雄市永安區新港社區合作社",
     "companyName": "陳坤成",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/557053110494167231.jpg",
       "https://twrr.org.tw/uploads/partner/557053130274505114.jpg"
@@ -4578,6 +5397,9 @@
     "brandName": "我很醜可是我很Natural",
     "companyName": "邱昌宏",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/557046425662259664.jpg",
       "https://twrr.org.tw/uploads/partner/557046460458205292.jpg"
@@ -4598,6 +5420,9 @@
     "brandName": "嘿路島民",
     "companyName": "陳懿勝",
     "mainProducts": "手作材料",
+    "searchCategories": [
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/480814262714368273.jpg",
       "https://twrr.org.tw/uploads/partner/539507668592099907.jpg"
@@ -4618,6 +5443,10 @@
     "brandName": "鴻安海洋管理顧問有限公司",
     "companyName": "林子揚",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/489673890718024358.jpg",
       "https://twrr.org.tw/uploads/partner/556035775683625286.jpg"
@@ -4638,6 +5467,9 @@
     "brandName": "山線百年客家輸出",
     "companyName": "專案經理 陳玉敏",
     "mainProducts": "藝術創作",
+    "searchCategories": [
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/556035770533020009.jpg",
       "https://twrr.org.tw/uploads/partner/556035265186234371.jpg"
@@ -4655,6 +5487,7 @@
   {
     "brandName": "集思行旅文創股份有限公司",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/17861651055042.jpg",
       "https://twrr.org.tw/uploads/partner/17861749611009.jpg"
@@ -4675,6 +5508,11 @@
     "brandName": "坪感覺",
     "companyName": "山号整合設計有限公司",
     "mainProducts": "茶飲食品、農產與加工食品、戶外運動用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/15250106935129.jpg"
     ],
@@ -4694,6 +5532,9 @@
     "brandName": "女兒不懂茶",
     "companyName": "林廷瑀",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/476740004476093031.jpg",
       "https://twrr.org.tw/uploads/partner/476822903737548930.jpg"
@@ -4714,6 +5555,7 @@
     "brandName": "日光春和.DAYSPRING",
     "companyName": "日光春和 劉浩晨",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/15134700413497.jpg"
     ],
@@ -4733,6 +5575,9 @@
     "brandName": "天禾日有限公司",
     "companyName": "天香羊肉爐",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/501853274836828763.jpg",
       "https://twrr.org.tw/uploads/partner/556034796364235263.jpg"
@@ -4753,6 +5598,10 @@
     "brandName": "雷打石時農行銷有限公司",
     "companyName": "李彥潁",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/514179308802015693.jpg",
       "https://twrr.org.tw/uploads/partner/538992828630958516.jpg"
@@ -4773,6 +5622,11 @@
     "brandName": "音樂米創意產銷企業社",
     "companyName": "音樂米創意產銷企業社 方子維",
     "mainProducts": "農產與加工食品、樂器與音樂用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "樂器與音樂用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/556023438943453340.jpg",
       "https://twrr.org.tw/uploads/partner/17860206705678.jpg"
@@ -4793,6 +5647,7 @@
     "brandName": "蟬說生活",
     "companyName": "馬驊",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/497910910732730937.jpg",
       "https://twrr.org.tw/uploads/partner/554790569571516793.jpg"
@@ -4813,6 +5668,7 @@
     "brandName": "乙木羊農牧",
     "companyName": "黃怡菁",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/553753968912892093.jpg",
       "https://twrr.org.tw/uploads/partner/553756543678939325.jpg"
@@ -4833,6 +5689,11 @@
     "brandName": "媽祖埔豆腐張",
     "companyName": "張富傑",
     "mainProducts": "農產與加工食品、廚房用品、樂器與音樂用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "廚房用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/552747088221044738.jpg",
       "https://twrr.org.tw/uploads/partner/552747173901501036.jpg"
@@ -4851,6 +5712,11 @@
     "brandName": "谷泉咖啡莊園",
     "companyName": "劉易騰",
     "mainProducts": "茶飲食品、居家生活用品、香氛清潔",
+    "searchCategories": [
+      "茶飲食品",
+      "居家生活用品",
+      "香氛清潔"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/548062529642037268.jpg",
       "https://twrr.org.tw/uploads/partner/548513184790085698.jpg"
@@ -4869,6 +5735,7 @@
     "brandName": "李記烏魚子",
     "companyName": "林怡伶",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/547551366156124745.jpg",
       "https://twrr.org.tw/uploads/partner/547551695106998521.jpg"
@@ -4887,6 +5754,10 @@
     "brandName": "格外農品股份有限公司",
     "companyName": "游子昂",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/16338403601859.jpg"
     ],
@@ -4906,6 +5777,7 @@
     "brandName": "築夢森居探索生態農場",
     "companyName": "嘉義縣中埔鄉深坑村內灣2號",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/546475972447699379.jpg",
       "https://twrr.org.tw/uploads/partner/546485895029850113.jpg"
@@ -4926,6 +5798,10 @@
     "brandName": "王英信美術館",
     "companyName": "王英信美術館",
     "mainProducts": "藝術創作、收藏擺件",
+    "searchCategories": [
+      "藝術創作",
+      "收藏擺件"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/480109235930661122.jpg"
     ],
@@ -4945,6 +5821,9 @@
     "brandName": "藏野藝術企業社",
     "companyName": "黃璟翔",
     "mainProducts": "藝術創作",
+    "searchCategories": [
+      "藝術創作"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/540015817044263417.jpg"
     ],
@@ -4961,6 +5840,7 @@
   {
     "brandName": "微醺農場",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/509708878234255431.jpg",
       "https://twrr.org.tw/uploads/partner/540000126505320859.jpg"
@@ -4981,6 +5861,7 @@
     "brandName": "點點善有限公司",
     "companyName": "點點善有限公司",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/539994910267539916.jpg"
     ],
@@ -5000,6 +5881,7 @@
     "brandName": "台灣公益CEO協會",
     "companyName": "地址：雲林縣虎尾鎮林森路一段501號",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/539996396678545797.jpg",
       "https://twrr.org.tw/uploads/partner/539998433097023521.jpg"
@@ -5018,6 +5900,10 @@
     "brandName": "茶籽堂",
     "companyName": "永續營運部",
     "mainProducts": "保養美妝、洗沐用品",
+    "searchCategories": [
+      "保養美妝",
+      "洗沐用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/15067346567799.jpg",
       "https://twrr.org.tw/uploads/partner/539983233711079761.jpg"
@@ -5037,6 +5923,7 @@
   {
     "brandName": "洄遊吧FISH BAR",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/539701827705766373.jpg",
       "https://twrr.org.tw/uploads/partner/539702354024071779.jpg"
@@ -5057,6 +5944,11 @@
     "brandName": "向天歌創新農業股份有限公司",
     "companyName": "聯絡我們",
     "mainProducts": "農產與加工食品、居家生活用品、寵物用品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品",
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/482851637493235763.jpg",
       "https://twrr.org.tw/uploads/partner/482854121243410611.jpg"
@@ -5076,6 +5968,10 @@
   {
     "brandName": "斯莫克思文創有限公司",
     "mainProducts": "茶飲食品、手作材料",
+    "searchCategories": [
+      "茶飲食品",
+      "手作材料"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/539512460080579114.jpg",
       "https://twrr.org.tw/uploads/partner/500304142544404658.jpg"
@@ -5096,6 +5992,10 @@
     "brandName": "左達工作室",
     "companyName": "賴政達",
     "mainProducts": "農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/539293163664965843.jpg",
       "https://twrr.org.tw/uploads/partner/539016432060203281.jpg"
@@ -5116,6 +6016,7 @@
     "brandName": "委託行",
     "companyName": "邱孝賢",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/17949245993520.jpg",
       "https://twrr.org.tw/uploads/partner/539003592657600629.jpg"
@@ -5136,6 +6037,7 @@
     "brandName": "大山北月",
     "companyName": "莊凱詠 創辦人",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/17243020237505.jpg",
       "https://twrr.org.tw/uploads/partner/17243144419780.jpg"
@@ -5156,6 +6058,10 @@
     "brandName": "粿家幫",
     "companyName": "簡廷宇",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/535876242604818465.jpg",
       "https://twrr.org.tw/uploads/partner/535875981098090706.jpg"
@@ -5176,6 +6082,7 @@
     "brandName": "水青清股份有限公司",
     "companyName": "歐陽瑞蓮",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/527983293845471363.jpg",
       "https://twrr.org.tw/uploads/partner/527984103531479218.jpg"
@@ -5196,6 +6103,9 @@
     "brandName": "古緹Ghoti",
     "companyName": "古緹",
     "mainProducts": "茶飲食品",
+    "searchCategories": [
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/524742957966819427.jpg"
     ],
@@ -5215,6 +6125,10 @@
     "brandName": "里響咖啡 RESHOCK COFFEE",
     "companyName": "品牌名稱｜里響咖啡 Reshockcoffee",
     "mainProducts": "茶飲食品、居家生活用品",
+    "searchCategories": [
+      "茶飲食品",
+      "居家生活用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/523785248442417570.jpg",
       "https://twrr.org.tw/uploads/partner/523787049895985169.jpg"
@@ -5234,6 +6148,10 @@
   {
     "brandName": "玉山碾米",
     "mainProducts": "茶飲食品、農產與加工食品",
+    "searchCategories": [
+      "茶飲食品",
+      "農產與加工食品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/523153585907695733.jpg",
       "https://twrr.org.tw/uploads/partner/523163330047639733.jpg"
@@ -5253,6 +6171,7 @@
   {
     "brandName": "舊好生活",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/522422076339651064.jpg",
       "https://twrr.org.tw/uploads/partner/522621494841835860.jpg"
@@ -5273,6 +6192,7 @@
     "brandName": "花蓮縣平森永續發展協會",
     "companyName": "鍾瑞騰",
     "mainProducts": "地方創生產品與服務",
+    "searchCategories": [],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/519366093208027361.jpg",
       "https://twrr.org.tw/uploads/partner/519376415792824386.jpg"
@@ -5293,6 +6213,10 @@
     "brandName": "塔塔藝術實驗室",
     "companyName": "郭忠坤",
     "mainProducts": "藝術創作、玩具童用品",
+    "searchCategories": [
+      "藝術創作",
+      "玩具童用品"
+    ],
     "productImageUrls": [
       "https://twrr.org.tw/uploads/partner/520430540454363394.jpg",
       "https://twrr.org.tw/uploads/partner/520439367836893941.jpg"
@@ -5309,6 +6233,7 @@
   },
   {
     "brandName": "playzuhome",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@playzuhome",
     "officialUrlType": "threads",
@@ -5322,6 +6247,7 @@
   },
   {
     "brandName": "mini.livingood",
+    "searchCategories": [],
     "productImageUrls": [
       "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/491468308_17858232561410620_6469273985109290559_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=fBS0xf76MhgQ7kNvwHjSmop&_nc_oc=AdqJipv6Gb_-gVbTbocLjX8FTkkPjwXPCGz4_OALppyQBs3YKz8tVgmaJsPruIFBigmqQgvJczbA0IWdbeWNmbYt&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=Sfh1VkTyHE87Am_oEcc0Jw&_nc_ss=7f289&oh=00_Af74W_8Q6BkHeHNBH6DemkVXfns1amaEUNwmsTBeTRUPdg&oe=69FE5A4F"
     ],
@@ -5338,6 +6264,9 @@
   {
     "brandName": "one.clothsofa",
     "mainProducts": "文具設計",
+    "searchCategories": [
+      "文具設計"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@one.clothsofa",
     "officialUrlType": "threads",
@@ -5352,6 +6281,7 @@
   },
   {
     "brandName": "wuairconshokujin",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@wuairconshokujin",
     "officialUrlType": "threads",
@@ -5365,6 +6295,7 @@
   },
   {
     "brandName": "prosper_wood",
+    "searchCategories": [],
     "productImageUrls": [
       "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/502737757_18066301109289089_861585387983793224_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=CzzvQt4z5dMQ7kNvwGMSLA6&_nc_oc=AdrD8zJcr1fIzmDpMeC1x7Y88GxEVb4HGTQ8CrFjfkrTCViaZhXGB_27Tb6RmBG_Ut6-ePPnUbEI3afDRWmYIShb&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=oN9fc551c7ToM-Ttkk6_fg&_nc_ss=7f289&oh=00_Af7sr12SLOrDreOpK_z8_Bh7_1JkbcvBzzy-7iKa19VLCw&oe=69FE5AAE"
     ],
@@ -5380,6 +6311,7 @@
   },
   {
     "brandName": "arsenal_tool_inc",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@arsenal_tool_inc",
     "officialUrlType": "threads",
@@ -5394,6 +6326,7 @@
   },
   {
     "brandName": "凡爾賽",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@kusoshow",
     "officialUrlType": "threads",
@@ -5409,6 +6342,9 @@
   {
     "brandName": "bubble-nara",
     "mainProducts": "鞋履",
+    "searchCategories": [
+      "鞋履"
+    ],
     "productImageUrls": [
       "https://cms-static.cdn.91app.com/images/original/41454/8b6f421f-e21c-409b-948f-a8cb963d3205-1666677956-73fcvrx5ia_m_1200x675_800x450_400x225.jpg",
       "https://cms-static.cdn.91app.com/images/original/41454/e345a172-6886-41b7-aefd-b998ea909419-1763971984-k6b6kler39_d.png"
@@ -5427,6 +6363,9 @@
   {
     "brandName": "paipaipets",
     "mainProducts": "寵物用品",
+    "searchCategories": [
+      "寵物用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@paipaipets",
     "officialUrlType": "threads",
@@ -5442,6 +6381,10 @@
   {
     "brandName": "nutbrown16",
     "mainProducts": "飾品、手作材料",
+    "searchCategories": [
+      "飾品",
+      "手作材料"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@nutbrown16",
     "officialUrlType": "threads",
@@ -5456,6 +6399,9 @@
   {
     "brandName": "satbakhi",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@satbakhi",
     "officialUrlType": "threads",
@@ -5470,6 +6416,9 @@
   {
     "brandName": "culture_and_life",
     "mainProducts": "飾品",
+    "searchCategories": [
+      "飾品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@culture_and_life",
     "officialUrlType": "threads",
@@ -5484,6 +6433,9 @@
   {
     "brandName": "ChangeTone",
     "mainProducts": "服飾",
+    "searchCategories": [
+      "服飾"
+    ],
     "productImageUrls": [
       "https://img.shoplineapp.com/media/image_clips/697ad1a0521aa369b78ffa2b/original.jpg?1769656735=&owner_id=619614ec0bcdbd00077dbd7d",
       "https://shoplineimg.com/619614ec0bcdbd00077dbd7d/64f9a51e6fe2720020513b05/1200x.png?"
@@ -5502,6 +6454,9 @@
   {
     "brandName": "pangolin.store",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [
       "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/490469385_17907511494105128_4945929391002083782_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=4sNopXIjQRAQ7kNvwEBOTcW&_nc_oc=AdrPFX44tJJUEd26M-IvIM5LJIJgTxZP_wzxdyIc07Fx0r44D9d2Uv_x_nmcTpUvhwIt2OA8nHIPuZAbezmX50xf&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=k26HizyW2dtxIo9ZLZKqbQ&_nc_ss=7f289&oh=00_Af66MVxyAZjnTTfsIrTytDm9P5Fwmw0rzyglx3JVF09cxg&oe=69FE5BB6"
     ],
@@ -5520,6 +6475,9 @@
   {
     "brandName": "e47_metal_mokumegane",
     "mainProducts": "飾品",
+    "searchCategories": [
+      "飾品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@e47_metal_mokumegane",
     "officialUrlType": "threads",
@@ -5534,6 +6492,9 @@
   {
     "brandName": "wota_daily",
     "mainProducts": "寵物用品",
+    "searchCategories": [
+      "寵物用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@wota_daily",
     "officialUrlType": "threads",
@@ -5550,6 +6511,9 @@
   {
     "brandName": "taki_handmade_specs",
     "mainProducts": "眼鏡配件",
+    "searchCategories": [
+      "眼鏡配件"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@taki_handmade_specs",
     "officialUrlType": "threads",
@@ -5564,6 +6528,11 @@
   {
     "brandName": "hongsaisaileather",
     "mainProducts": "包袋、飾品、文具設計",
+    "searchCategories": [
+      "包袋",
+      "飾品",
+      "文具設計"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@hongsaisaileather",
     "officialUrlType": "threads",
@@ -5578,6 +6547,10 @@
   {
     "brandName": "raz.com.tw",
     "mainProducts": "飾品、茶飲食品",
+    "searchCategories": [
+      "飾品",
+      "茶飲食品"
+    ],
     "productImageUrls": [
       "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/501213674_17847697194478297_9057788683687596040_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=PAasmfcctnAQ7kNvwGKNe7I&_nc_oc=AdrwHBtNwOg8RAoCgpeWm5PxTv2oYamSLtpwSluIpIS7pPzHjij0NrGGRgKeuWKL7WMDnrPS7pjP3-GFiGDsJp80&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=7uH5AWFY7DRylwO2Dn68NQ&_nc_ss=7f289&oh=00_Af7By_0sOL6uQU1_Sr25NENpfOdClY47b_H_VbfukoMZZg&oe=69FE74AB"
     ],
@@ -5595,6 +6568,9 @@
   {
     "brandName": "kiko__2050",
     "mainProducts": "園藝植栽",
+    "searchCategories": [
+      "園藝植栽"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@kiko__2050",
     "officialUrlType": "threads",
@@ -5610,6 +6586,11 @@
   {
     "brandName": "localgoodsxspace",
     "mainProducts": "居家生活用品、藝術創作、玩具童用品",
+    "searchCategories": [
+      "居家生活用品",
+      "藝術創作",
+      "玩具童用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@localgoodsxspace",
     "officialUrlType": "threads",
@@ -5624,6 +6605,7 @@
   },
   {
     "brandName": "aromasetw",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@aromasetw",
     "officialUrlType": "threads",
@@ -5638,6 +6620,7 @@
   },
   {
     "brandName": "yusgoods",
+    "searchCategories": [],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@yusgoods",
     "officialUrlType": "threads",
@@ -5652,6 +6635,9 @@
   {
     "brandName": "sobdeall",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://www.sobdeall.com.tw/wp-content/uploads/2021/05/%E8%B3%AA-1024x684.jpg",
       "https://www.sobdeall.com.tw/wp-content/uploads/2021/01/Group-20.png"
@@ -5669,6 +6655,9 @@
   {
     "brandName": "mooleather1",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@mooleather1",
     "officialUrlType": "threads",
@@ -5683,6 +6672,9 @@
   {
     "brandName": "gram-co",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://img.gogoshop.cloud/f87d1466/A-xAYjkB3kZ.jpg",
       "https://img.gogoshop.cloud/f87d1466/img-4039-edit.jpg@1775205793.jpg"
@@ -5701,6 +6693,9 @@
   {
     "brandName": "satanaofficial",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@satanaofficial",
     "officialUrlType": "threads",
@@ -5716,6 +6711,9 @@
   {
     "brandName": "evie_drawing_daily",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://linktr.ee/og/image/evie_drawing_daily.jpg",
       "https://ugc.production.linktr.ee/ef344ab5-0448-4ece-95ca-1f54297850e6_1000041956.jpeg?io=true&size=thumbnail-feature-v1_0"
@@ -5733,6 +6731,9 @@
   {
     "brandName": "yamamoto_leather",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.instagram.com/yamamoto_leather?igsh=NWpnN3dlenAyazZ1",
     "officialUrlType": "instagram",
@@ -5747,6 +6748,9 @@
   {
     "brandName": "clm-taiwan",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://clm-taiwan.com/images/clm-taiwan.com/upload_file/08d1a563-d5b8-4844-9872-ccbe460e91f2.webp",
       "https://clm-taiwan.com/images/clm-taiwan.com/upload_file/3a72b110-927f-4b7d-a000-ac135816e02f-l39n4r..png"
@@ -5765,6 +6769,9 @@
   {
     "brandName": "dtbbag",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [
       "https://www.dtbbag.com/upload/cms_paper/66df9e479c54a.jpg"
     ],
@@ -5783,6 +6790,9 @@
   {
     "brandName": "xx_shop_bag",
     "mainProducts": "包袋",
+    "searchCategories": [
+      "包袋"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@xx_shop_bag",
     "officialUrlType": "threads",
@@ -5797,6 +6807,9 @@
   {
     "brandName": "jun616xteen",
     "mainProducts": "手作材料",
+    "searchCategories": [
+      "手作材料"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.instagram.com/jun616xteen/",
     "officialUrlType": "instagram",
@@ -5813,6 +6826,9 @@
   {
     "brandName": "yogasana",
     "mainProducts": "戶外運動用品",
+    "searchCategories": [
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@yogasana",
     "officialUrlType": "threads",
@@ -5828,6 +6844,10 @@
   {
     "brandName": "proweartw",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@proweartw",
     "officialUrlType": "threads",
@@ -5843,6 +6863,10 @@
   {
     "brandName": "vizaviz__",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@vizaviz__",
     "officialUrlType": "threads",
@@ -5858,6 +6882,10 @@
   {
     "brandName": "asana_yoga",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@asana_yoga",
     "officialUrlType": "threads",
@@ -5873,6 +6901,10 @@
   {
     "brandName": "tumazapparel",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@tumazapparel",
     "officialUrlType": "threads",
@@ -5887,6 +6919,10 @@
   {
     "brandName": "ume_plan",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://www.threads.com/@ume_plan",
     "officialUrlType": "threads",
@@ -5902,6 +6938,10 @@
   {
     "brandName": "shopee",
     "mainProducts": "服飾、戶外運動用品",
+    "searchCategories": [
+      "服飾",
+      "戶外運動用品"
+    ],
     "productImageUrls": [],
     "officialUrl": "https://s.shopee.tw/20hVfKP5ov",
     "officialUrlType": "website",
