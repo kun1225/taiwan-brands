@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 
 import { Input } from "@/components/ui/input";
 import {
@@ -25,15 +25,14 @@ function getPaginationItems(currentPage: number, totalPages: number) {
     return Array.from({ length: totalPages }, (_, index) => index + 1);
   }
 
-  if (currentPage <= 4) {
-    return [1, 2, 3, 4, "end-ellipsis", totalPages] as const;
+  if (currentPage <= 2) {
+    return [1, 2, 3, "end-ellipsis", totalPages] as const;
   }
 
-  if (currentPage >= totalPages - 3) {
+  if (currentPage >= totalPages - 1) {
     return [
       1,
       "start-ellipsis",
-      totalPages - 3,
       totalPages - 2,
       totalPages - 1,
       totalPages,
@@ -146,6 +145,7 @@ export function HomeBrandsPagination({
                   onClick={(event) => {
                     event.preventDefault();
                     onPageChange(item);
+                    setPageInput(String(item));
                   }}
                 >
                   {item}
