@@ -5,6 +5,7 @@ import { cn } from "@/lib/utils";
 export type Brand = {
   brandName: string;
   mainProducts?: string;
+  searchCategories: string[];
   productImageUrls: string[];
   officialUrl?: string;
   sourceUrl: string;

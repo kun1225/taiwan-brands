@@ -11,17 +11,13 @@ import {
 import { motion } from "motion/react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
+import { searchBrands } from "@/lib/brand-search";
+
 import { HomeBrandsControls } from "./home-brands-controls";
 import { type Brand } from "./home-brands-item";
 import { HomeBrandsList } from "./home-brands-list";
 import { HomeBrandsPagination } from "./home-brands-pagination";
-
-const CONFIDENCE_RANK: Record<Brand["confidence"], number> = {
-  high: 3,
-  medium: 2,
-  low: 1,
-};
-const PAGE_SIZE = 18;
+const PAGE_SIZE = 12;
 const sectionVariants = {
   hidden: {},
   show: {
@@ -63,21 +59,7 @@ export function HomeBrands({ brands, initialPage }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
 
   const filtered = useMemo(() => {
-    let result = [...brands];
-
-    if (searchQuery.trim()) {
-      const q = searchQuery.trim().toLowerCase();
-      result = result.filter((b) => b.brandName.toLowerCase().includes(q));
-    }
-
-    result.sort((a, b) => {
-      const diff =
-        CONFIDENCE_RANK[b.confidence] - CONFIDENCE_RANK[a.confidence];
-      if (diff !== 0) return diff;
-      return a.brandName.localeCompare(b.brandName, "zh-TW");
-    });
-
-    return result;
+    return searchBrands(brands, searchQuery);
   }, [brands, searchQuery]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
