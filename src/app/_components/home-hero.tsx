@@ -5,7 +5,7 @@ import { HomeHeroHeadline } from "./home-hero-headline";
 
 export function HomeHero() {
   return (
-    <section className="relative flex min-h-[60svh] flex-col justify-center overflow-hidden px-edge py-24">
+    <section className="relative flex flex-col justify-center overflow-hidden px-edge py-58 md:py-64 lg:py-72">
       <div className="pointer-events-none absolute inset-0 animate-in delay-200 ease-sine-out animation-duration-1400 fill-mode-both zoom-in-95 blur-in-8 fade-in">
         <div className="animate-leaf-shadow-drift absolute inset-0">
           <Image

@@ -14,8 +14,7 @@
   --font-hero: var(--font-hero);
   --font-title: var(--font-title);
   --font-subtitle: var(--font-subtitle);
-  --font-body-lg: var(--font-body-lg);
-  --font-body-sm: var(--font-body-sm);
+  --font-body: var(--font-body);
   --font-caption: var(--font-caption);
   --font-label: var(--font-label);
   --color-sidebar-ring: var(--sidebar-ring);
@@ -103,10 +102,7 @@
   --font-title: var(--font-noto-serif-tc), sans-serif;
   --font-subtitle:
     "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
-  --font-body-lg:
-    "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
-  --font-body-sm:
-    "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+  --font-body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
   --font-caption:
     "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
   --font-label:

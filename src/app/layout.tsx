@@ -34,6 +34,9 @@ export const metadata: Metadata = {
   title: "台灣品牌探索",
   description:
     "匯整 Pinkoi 等通路上的台灣原創品牌，從服飾、飾品到生活設計，整理在地設計師品牌的完整輪廓。",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
