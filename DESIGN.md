@@ -2,87 +2,65 @@
 
 ## 1. 視覺氛圍
 
-克制的策展型品牌索引首頁，主軸左對齊，資訊節奏清楚但不冰冷。整體情緒應該像一本整理完整的當代地方品牌選物誌：安靜、可信、耐看，讓使用者一進站就知道這裡是探索台灣品牌的入口，而不是促銷型 landing page。
-
-資訊密度採中低密度，首頁前段只保留必要主張，主要空間留給搜尋、篩選、排序與品牌列表。動態強度採穩定流動而非戲劇化展示，所有互動應該像高品質索引介面：有回饋、有節奏，但不搶內容。
+克制、礦物感的品牌策展氛圍，像一本放在清水模展架上的在地選品年鑑。資訊密度維持中高但不擁擠，靠灰階層次、細線結構與模組分組建立可掃讀性。動態存在感偏低到中等，以柔順滑入、微幅位移與節奏化 stagger 為主，讓介面感覺有生命但不搶走品牌內容本身。
 
 ## 2. 色彩系統
 
-- primary（#31594A）— 深林綠：唯一強調色，用於 CTA、active 狀態、focus ring、已選篩選條件與互動重點
-- background（#E7E5E4）— 礦物灰：整體畫布底色，建立安靜、可信、帶地方質感的基調
-- surface（#FAFAF9）— 霧白石：搜尋區、品牌列表容器、局部面層，用來拉開資訊層次
-- foreground（#18181B）— 炭墨黑：主要標題、品牌名稱、重點文字
-- muted（#52525B）— 石墨灰：一般內文、說明、列表輔助資訊
-- border（#D6D3D1）— 細霧灰：搜尋框、篩選器、卡片與分隔線的結構邊界
-
-色彩固定使用單一 Stone / Zinc 中性色譜搭配深綠強調，不引入第二強調色，不做紫色、藍紫色、霓虹色或高飽和漸層。`surface` 可局部提亮到 `#FFFFFF` 作輸入框或選單內層，但不可把純白當成整站主背景；同時禁止使用純黑 `#000000` 當大面積背景。
+- primary（#456A57）— 岩苔綠：唯一強調色，只用於 CTA、active 狀態、focus ring、少量可點擊品牌標記
+- background（#E7E5E4）— 水泥灰：主要背景底色，使用偏淺 `zinc` 灰階營造清水模與展場牆面感
+- surface（#F5F5F4）— 礦霧灰白：卡片、篩選面板、區塊容器填色，需略亮於背景形成溫和分層
+- foreground（#18181B）— 炭墨黑：主要標題、重要文字與高權重 UI
+- muted（#71717A）— 鋅灰：次要文字、說明、metadata、空狀態輔助文案
+- border（#CFCFD4）— 水泥細線：卡片邊框、分隔線、輸入框結構線
 
 ## 3. 字型規則
 
-- **Hero：** `font-display` → `Noto Serif TC` — `text-5xl md:text-6xl font-semibold tracking-tight text-zinc-950` — 僅用於首頁主標題或單頁最重要的策展宣言，每頁最多一次
-- **Title：** `font-display` → `Noto Serif TC` — `text-3xl md:text-4xl font-semibold tracking-tight text-zinc-950` — 用於主要區塊標題、策展型 H1 / H2，不可用於功能性 UI
-- **Subtitle：** `font-sans` → `Noto Sans TC` — `text-xl md:text-2xl font-medium tracking-tight text-zinc-950` — 用於品牌卡標題、模組標題、列表區段標題
-- **Body-lg：** `font-sans` → `Noto Sans TC` — `text-lg leading-relaxed max-w-[65ch] text-zinc-600` — 用於首頁導言、品牌故事摘要、較長段落的開場文字
-- **Body-sm：** `font-sans` → `Noto Sans TC` — `text-base leading-relaxed max-w-[65ch] text-zinc-600` — 用於一般內文、表單說明、列表摘要
-- **Caption：** `font-sans` → `Noto Sans TC` — `text-sm leading-normal text-zinc-500` — 用於分類、地區、附註、次要 metadata
-- **Label：** `font-sans` → `Noto Sans TC` — `text-sm font-medium tracking-wide text-zinc-700` — 用於按鈕文字、篩選標籤、表單 label
-- **Mono：** `font-mono` → `Geist Mono` — `text-sm text-zinc-600` — 用於品牌數量、英文 slug、排序代碼、時間戳記與高密度數字資訊
-
-字體策略以 `Noto Sans TC` 作為全站骨架，優先確保繁體中文的可讀性與穩定節奏；`Noto Serif TC` 只出現在 Hero 與 Title，作為明確的策展語氣，而不是把整站做成文學化排版。當頁面資訊密度提高時，數字與代碼統一切到 `font-mono`，避免字寬不一致造成節奏鬆散。
-
-禁用：`Inter`、未經定義的通用系統 sans、`Times New Roman`、`Georgia`、`Garamond`、把整站大段內文改成 serif、把篩選器與表單控制項做成 display typography。
+- 字體 token 名稱必須直接對應語義層級，禁止把多個層級共用成 `font-sans` 或 `font-display`
+- 本專案以繁體中文內容為主、品牌名稱與少量 UI 英文為輔；標題可使用 Latin grotesk，正文一律使用 CJK stack，避免英文字型硬套中文
+- **Hero：** `font-hero` → `Geist, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-6xl font-bold tracking-tight` — 首屏主標語、品牌策展宣言，每頁最多出現一次
+- **Title：** `font-title` → `Geist, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-4xl font-semibold tracking-tight` — Section 標題、頁面 H1、主模組名稱
+- **Subtitle：** `font-subtitle` → `"Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-2xl font-medium tracking-tight` — 卡片標題、H2/H3、品牌群組小標
+- **Body-lg：** `font-body-lg` → `"Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-lg leading-relaxed max-w-[65ch]` — 首屏引言、品牌故事摘要、策展說明
+- **Body-sm：** `font-body-sm` → `"Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-base leading-relaxed max-w-[65ch]` — 一般正文、列表說明、表單 helper text
+- **Caption：** `font-caption` → `"Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-sm leading-normal text-muted` — 地區、類別、日期、資料來源、補充描述
+- **Label：** `font-label` → `Geist, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif` — `text-sm font-medium tracking-wide` — 按鈕文字、tag、badge、表單 label、篩選器名稱
+- **Mono：** `font-mono` → `"Geist Mono", "SFMono-Regular", monospace` — `text-sm` — 統計數字、索引編號、slug、時間戳記
+- 數字密度高的區塊（排行榜、資料表、指標列）一律切換到 `font-mono`
+- **禁用：** Inter、通用 serif（`Times New Roman`、`Georgia`、`Garamond`）、任何帶強烈裝飾性的展示字體；本專案不使用 serif-backed title tokens
 
 ## 4. 元件樣式
 
-- **按鈕：** 主要按鈕使用 `bg-[#31594A] text-white px-6 py-2.5 rounded-xl font-medium min-h-[44px] transition-[transform,background-color,color,border-color] duration-200 ease-[cubic-bezier(0.4,0,0.2,1)] active:-translate-y-px hover:bg-[#294B3E]`，用於 `載入更多`、主要 CTA。次要按鈕使用 `border border-stone-300 bg-stone-50 text-zinc-950 px-5 py-2.5 rounded-xl min-h-[44px]`，不用外發光。
-- **搜尋框：** `h-12 rounded-xl border border-stone-300 bg-white px-4 text-zinc-950 placeholder:text-zinc-400 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#31594A]/30`，優先給清楚輸入與穩定 focus 狀態，不做厚重陰影。
-- **篩選 / 排序控制：** `h-11 rounded-xl border border-stone-300 bg-stone-50 px-4 text-sm text-zinc-700`，active 狀態可切換為 `border-[#31594A] bg-[#31594A]/8 text-[#31594A]`。
-- **品牌卡片：** `rounded-2xl border border-stone-300/80 bg-stone-50 p-5 transition-[transform,border-color,background-color] duration-200 ease-[cubic-bezier(0.4,0,0.2,1)] hover:-translate-y-0.5 hover:border-[#31594A]/40`。卡片優先清楚呈現品牌名稱、分類、摘要與必要連結，不依賴陰影浮起。
-- **列表容器：** `rounded-3xl border border-stone-300/70 bg-stone-50/80 p-4 md:p-6`，讓首頁列表區像被整理好的索引區塊，而不是商城商品牆。
+所有帶顏色語意的 class（`text-*`、`bg-*`、`border-*`、`ring-*`、`shadow-*`、`hover:*`、`focus:*`、`active:*`、`from-*`/`to-*` 等）一律只能使用第 2 節定義的語義 token。
 
-卡片內部避免堆太多裝飾資訊。若內容密度升高，優先增加字級層次與留白，不增加多餘 badge、icon 背板或裝飾線條。
+禁止範例：`text-zinc-900`、`bg-white`、`border-zinc-200`、`hover:bg-zinc-100`、`text-[#ddd]`、`ring-zinc-400`
+
+- **主要按鈕：** `bg-primary text-background px-6 py-2.5 rounded-xl font-medium transition-all duration-200 hover:bg-primary/90 active:-translate-y-px focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary` — 綠色只留給主要 CTA、品牌申請登錄、探索入口；禁止把綠色擴散到一般文字或大面積背景
+- **次要按鈕：** `bg-transparent text-foreground border border-border px-6 py-2.5 rounded-xl font-medium transition-all duration-200 hover:bg-surface active:-translate-y-px focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary` — 用於次要導覽、篩選切換、返回列表
+- **卡片：** `rounded-2xl border border-border bg-surface p-6 shadow-sm shadow-border/40 hover:shadow-md hover:shadow-border/25 transition-shadow duration-200` — 品牌卡以灰階層次與結構感優先，不靠厚重陰影；高密度列表改用 `border-t border-border` 分隔線取代卡片堆疊
 
 ## 5. 版面原則
 
-首頁採左對齊、單主軸的策展式閱讀節奏，不做滿版置中 hero，不做三欄等寬宣傳卡。推薦骨架如下：
-
-- 第一區：網站標題、一句價值主張、極短說明
-- 第二區：搜尋、類別篩選、排序工具列
-- 第三區：品牌列表
-- 第四區：`載入更多` 按鈕與列表延伸
-
-版面使用 `max-w-7xl mx-auto px-5 md:px-8 lg:px-10` 控制寬度。首頁前段可使用 `max-w-3xl` 保持文案集中，列表區再擴張到較寬內容區。桌機可用 `md:grid md:grid-cols-[minmax(0,1.1fr)_minmax(0,1.9fr)]` 建立標題與內容的非對稱節奏，但 `md:` 以下必須全部收合為單欄。
-
-禁止元素重疊、禁止浮動式裝飾塊、禁止三欄等寬品牌卡水平排滿。品牌列表應優先使用單欄或雙欄的不對稱節奏；若內容量上升，也應先增加垂直節奏，而不是塞成緊密矩陣。
+Grid 優先的響應式架構，外層容器統一使用 `max-w-8xl mx-auto`。首頁與分類頁優先採用左對齊或非對稱 split 版面，例如「主策展內容 + 窄側欄篩選」或「大圖文主敘事 + 交錯品牌模組」，避免全頁置中的 SaaS hero 模板。大面積區塊先用 `bg-background` 建立水泥灰底，再以 `bg-surface` 疊出模組層次，標題與主導覽維持 `text-foreground` 近黑，綠色不得作為 section 大面積底色。品牌列表禁止三欄等寬卡片，改用雙欄錯位、大小卡混排或橫向卷動模組建立策展節奏。所有多欄版面在 `md:` 以下收合為單欄，互動元素一律 `min-h-11`，主要 section 垂直間距以 `py-16` 至 `py-24` 為基準，讓資訊密度高但仍保有呼吸感。
 
 ## 6. 動態與互動
 
-互動原則採 CSS 優先，動態目標是讓首頁感覺流動、可探索，但不破壞閱讀秩序。
-
-- **Hover：** `transition-[transform,background-color,color,border-color,opacity] duration-200 ease-[cubic-bezier(0.4,0,0.2,1)]`
-- **進場 & 離場：** `transition-[transform,opacity] duration-300 ease-out`
-- **列表載入更多：** 新增卡片以 `opacity` + `translateY(8px)` 進場，避免整屏跳動
-- **跨區塊滾動節奏：** 僅使用微弱視覺分段，不做視差 hero、不做大幅背景滾動
-- **Spring 預設（Motion）：** `transition={{ type: "spring", stiffness: 100, damping: 20, mass: 1 }}`
-- **快速 Spring（Motion）：** `transition={{ type: "spring", stiffness: 300, damping: 25, mass: 0.5 }}`
-
-`載入更多` 的互動必須明確可控：按下後顯示 loading 狀態、補上新卡片、維持閱讀位置穩定。所有動畫只允許使用 `transform` 與 `opacity`，禁止動畫 `top`、`left`、`width`、`height`。
+CSS 優先，僅在需要彈簧物理、交錯編排或無限循環時使用 Motion library。整體動態哲學是「編輯式流動感」而非產品發表會式戲劇效果：hover 採 `cubicOut`，區塊進場以 `cubicOut` 或 `quartOut` 建立乾淨落點，跨區切換才使用 `cubicInOut`。品牌卡、filter chip、分頁導覽只做 `transform` 與 `opacity` 變化，位移控制在 `translate-y-[2px]` 到 `translate-y-[6px]` 之間；hero 文案、section 標題、卡片群可用 40–80ms stagger 製造策展節奏。小型回饋元件如 toast、收藏提示可用 `backOut` 或 `transition={{ type: "spring", stiffness: 100, damping: 20, mass: 1 }}`，但禁止整頁漂浮、持續脈衝或會分散注意力的裝飾動畫。
 
 ## 7. 禁用模式
 
 - 禁用 emoji
-- 禁用 `Inter`
-- 禁用把整站大段中文內容設成 serif
-- 禁用 `Times New Roman`、`Georgia`、`Garamond`
-- 禁用純黑 `#000000` 作為大面積底色
-- 禁用霓虹色、紫色發光、藍紫漸層、outer glow
-- 禁用超高飽和綠色或多強調色並存
-- 禁用大型 gradient text 標題
-- 禁用自訂滑鼠游標
-- 禁用元素重疊與漂浮裝飾塊
-- 禁用三欄等寬品牌卡列表
-- 禁用假資料、假統計、假百分比、假品牌指標
-- 禁用「最強」「頂級」「爆款」「顛覆」這類電商或 AI 行銷陳腔濫調
-- 禁用 `LABEL // YEAR` 這種懶惰 AI 排版格式
-- 禁用「Scroll to explore」「Swipe down」這種 filler UI 文案
-- 禁用自動無限滾動；首頁列表只能用明確 `載入更多` 控制
+- 禁用 `Inter`、`Times New Roman`、`Georgia`、`Garamond`
+- 禁用純黑 `#000000` 與高對比死白 `#FFFFFF` 直接鋪滿整頁
+- 禁用紫色 / 藍色霓虹、outer glow、玻璃擬態發光邊框
+- 禁用高飽和多重 accent；全站只允許一個主強調色
+- 禁用把綠色用在大面積背景、長段正文、主標題；綠色只保留給 CTA 與小面積互動提示
+- 禁用大型 gradient text 標題與彩虹式漸層背景
+- 禁用置中單柱 SaaS hero 套板；優先左對齊與非對稱版面
+- 禁用三欄等寬品牌卡；改用雙欄 zig-zag、大小混排或橫向卷動
+- 禁用元素彼此重疊、漂浮貼片、裝飾性懸浮 badge
+- 禁用通用佔位名稱如 `John Doe`、`Acme`、`Nexus`
+- 禁用捏造數據；資料未知時使用 `[metric]`、`[brand count]`、`[founded year]`
+- 禁用 `LABEL // YEAR` 排版格式
+- 禁用 AI 文案陳腔濫調，如「Elevate」「Seamless」「Unleash」「Next-Gen」
+- 禁用「Scroll to explore」、跳動箭頭、無意義視差卷動
+- 禁用失效 Unsplash 圖片；示意圖使用 `picsum.photos`、品牌自有圖或簡單 SVG avatar
