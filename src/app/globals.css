@@ -47,13 +47,13 @@
   --color-popover: var(--popover);
   --color-card-foreground: var(--card-foreground);
   --color-card: var(--card);
-  --radius-sm: calc(var(--radius) * 0.6);
-  --radius-md: calc(var(--radius) * 0.8);
+  --radius-sm: calc(var(--radius) * 0.2);
+  --radius-md: calc(var(--radius) * 0.4);
   --radius-lg: var(--radius);
-  --radius-xl: calc(var(--radius) * 1.4);
-  --radius-2xl: calc(var(--radius) * 1.8);
-  --radius-3xl: calc(var(--radius) * 2.2);
-  --radius-4xl: calc(var(--radius) * 2.6);
+  --radius-xl: calc(var(--radius) * 1.2);
+  --radius-2xl: calc(var(--radius) * 1.3);
+  --radius-3xl: calc(var(--radius) * 1.4);
+  --radius-4xl: calc(var(--radius) * 1.5);
   --spacing-contain-max: 1600px;
   --spacing-edge: max(
     max(min(3.5vw, 96px), 8px),
@@ -87,7 +87,7 @@
   --chart-3: #cfcfd4;
   --chart-4: #e7e5e4;
   --chart-5: #18181b;
-  --radius: 0.625rem;
+  --radius: 0.4rem;
   --sidebar: #f5f5f4;
   --sidebar-foreground: #18181b;
   --sidebar-primary: #2a4060;
@@ -174,7 +174,48 @@
   }
 }
 
+@keyframes leaf-shadow-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px) scale(1.02);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes leaf-shadow-drift {
+  0% {
+    transform: translate3d(0, 0, 0) rotate(-0.25deg) scale(1);
+  }
+  50% {
+    transform: translate3d(14px, -8px, 0) rotate(0.35deg) scale(1.015);
+  }
+  100% {
+    transform: translate3d(-8px, 5px, 0) rotate(-0.18deg) scale(1.006);
+  }
+}
+
 .animate-fade-in-up {
   animation: fade-in-up 0.9s cubic-bezier(0.61, 1, 0.88, 1) both;
   animation-delay: var(--stagger-delay, 0ms);
+}
+
+.animate-leaf-shadow-in {
+  animation: leaf-shadow-in 1.4s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: var(--stagger-delay, 0ms);
+}
+
+.animate-leaf-shadow-drift {
+  animation: leaf-shadow-drift 9s ease-in-out 1.6s infinite alternate;
+  transform-origin: 58% 42%;
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-leaf-shadow-drift {
+    animation: none;
+    transform: none;
+  }
 }
