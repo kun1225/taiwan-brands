@@ -11,12 +11,6 @@ type ExtractRecordsOptions = {
   defaultEvidenceTags: EvidenceTag[];
 };
 
-function uniqueValues(values: string[]) {
-  return Array.from(new Set(values.map((value) => value.trim()))).filter(
-    Boolean,
-  );
-}
-
 function textFrom($element: { text: () => string }) {
   return $element.text().replace(/\s+/g, " ").trim();
 }

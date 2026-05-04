@@ -5,6 +5,7 @@ import type { BrandCandidate } from "./schema";
 
 const baseCandidate: BrandCandidate = {
   brandName: "品牌一號",
+  searchCategories: [],
   productImageUrls: [],
   sourceName: "source-a",
   sourceUrl: "https://example.com/source-a",
@@ -20,6 +21,7 @@ describe("dedupeBrandCandidates", () => {
         officialUrl: "https://www.brand.example/about",
         officialUrlType: "website",
         mainProducts: "包袋",
+        searchCategories: ["包袋"],
         productImageUrls: ["https://img.example.com/a.jpg"],
       },
       {
@@ -28,6 +30,7 @@ describe("dedupeBrandCandidates", () => {
         officialUrl: "https://brand.example/products",
         officialUrlType: "website",
         mainProducts: "配件",
+        searchCategories: ["髮飾與配件"],
         productImageUrls: ["https://img.example.com/b.jpg"],
         evidenceTags: ["B", "D"],
         confidence: "high",
@@ -40,6 +43,7 @@ describe("dedupeBrandCandidates", () => {
       "https://img.example.com/a.jpg",
       "https://img.example.com/b.jpg",
     ]);
+    expect(result[0]?.searchCategories).toEqual(["包袋", "髮飾與配件"]);
     expect(result[0]?.evidenceTags).toEqual(["A", "B", "D"]);
     expect(result[0]?.confidence).toBe("high");
   });

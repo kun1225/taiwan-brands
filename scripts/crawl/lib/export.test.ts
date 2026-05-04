@@ -9,6 +9,7 @@ describe("exportBrandCandidatesToCsv", () => {
       brandName: "台灣品牌",
       companyName: '好公司 "股份" 有限公司',
       mainProducts: "咖啡, 甜點",
+      searchCategories: ["茶飲食品"],
       productImageUrls: ["https://example.com/product.jpg"],
       officialUrl: "https://instagram.com/taiwan-brand",
       officialUrlType: "instagram",

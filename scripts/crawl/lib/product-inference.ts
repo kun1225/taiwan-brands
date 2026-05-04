@@ -352,14 +352,30 @@ const productCategoryRules = [
   },
 ] as const;
 
-export function inferMainProducts(text: string | undefined) {
+export type ProductCategory = (typeof productCategoryRules)[number]["label"];
+
+export function inferProductCategories(text: string | undefined) {
   if (!text) {
-    return undefined;
+    return [];
   }
 
-  const matches = productCategoryRules
-    .filter((rule) => rule.keywords.some((keyword) => text.includes(keyword)))
-    .map((rule) => rule.label);
+  return Array.from(
+    new Set(
+      productCategoryRules
+        .filter(
+          (rule) =>
+            text.includes(rule.label) ||
+            rule.keywords.some((keyword) => text.includes(keyword)),
+        )
+        .map((rule) => rule.label),
+    ),
+  ).slice(0, 3);
+}
 
-  return Array.from(new Set(matches)).slice(0, 3).join("、") || undefined;
+export function formatProductCategories(categories: ProductCategory[]) {
+  return categories.join("、") || undefined;
+}
+
+export function inferMainProducts(text: string | undefined) {
+  return formatProductCategories(inferProductCategories(text));
 }

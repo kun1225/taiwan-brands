@@ -1,6 +1,10 @@
 import { describe, expect, it } from "vitest";
 
-import { inferMainProducts } from "./product-inference";
+import {
+  formatProductCategories,
+  inferMainProducts,
+  inferProductCategories,
+} from "./product-inference";
 
 describe("inferMainProducts", () => {
   it("infers newly added product categories", () => {
@@ -39,5 +43,21 @@ describe("inferMainProducts", () => {
     );
 
     expect(result).toBe("包袋、服飾、鞋履");
+  });
+
+  it("returns structured categories for taxonomy consumers", () => {
+    const result = inferProductCategories("襪子、外套、背包");
+
+    expect(result).toEqual(["包袋", "服飾"]);
+  });
+
+  it("matches existing taxonomy labels directly", () => {
+    const result = inferProductCategories("包袋、服飾、鞋履");
+
+    expect(result).toEqual(["包袋", "服飾", "鞋履"]);
+  });
+
+  it("formats structured categories for display fields", () => {
+    expect(formatProductCategories(["服飾", "鞋履"])).toBe("服飾、鞋履");
   });
 });

@@ -83,11 +83,15 @@ function mergeCandidates(
   )
     .slice(0, 5)
     .join("、");
+  const searchCategories = Array.from(
+    new Set([...existing.searchCategories, ...next.searchCategories]),
+  );
 
   return {
     ...existing,
     companyName: existing.companyName ?? next.companyName,
     mainProducts: mainProducts || undefined,
+    searchCategories,
     productImageUrls,
     website: existing.website ?? next.website,
     officialUrl: existing.officialUrl ?? next.officialUrl,

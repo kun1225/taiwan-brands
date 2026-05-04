@@ -1,4 +1,5 @@
 import { pickProductImageUrls } from "./image-filter";
+import { formatProductCategories, inferProductCategories } from "./product-inference";
 import {
   type BrandCandidate,
   brandCandidateSchema,
@@ -29,10 +30,19 @@ export function normalizeRawBrandRecord(record: RawBrandRecord) {
     record.sourceUrl,
   );
 
+  const searchCategories = inferProductCategories(
+    [record.name, record.description, record.category]
+      .map((value) => cleanText(value))
+      .filter((value): value is string => Boolean(value))
+      .join(" "),
+  );
+  const mainProducts = cleanText(record.description) ?? formatProductCategories(searchCategories);
+
   const candidate = {
     brandName: normalizeBrandName(brandName),
     companyName: cleanText(record.companyName),
-    mainProducts: cleanText(record.description),
+    mainProducts,
+    searchCategories,
     productImageUrls,
     website: cleanText(record.website),
     officialUrl: cleanText(record.officialUrl ?? record.website),

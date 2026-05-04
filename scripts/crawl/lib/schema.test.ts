@@ -8,6 +8,7 @@ describe("brandCandidateSchema", () => {
       brandName: "茶籽堂",
       companyName: "捷順企業股份有限公司",
       mainProducts: "洗沐用品、保養品",
+      searchCategories: ["洗沐用品", "保養美妝"],
       productImageUrls: ["https://example.com/product.jpg"],
       website: "https://example.com",
       officialUrl: "https://example.com",
@@ -26,6 +27,7 @@ describe("brandCandidateSchema", () => {
   it("accepts candidates without evidence tags", () => {
     const result = brandCandidateSchema.safeParse({
       brandName: "品牌",
+      searchCategories: [],
       productImageUrls: [],
       sourceName: "source",
       sourceUrl: "https://example.com",
