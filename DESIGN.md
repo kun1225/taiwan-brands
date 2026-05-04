@@ -6,7 +6,7 @@
 
 ## 2. 色彩系統
 
-- primary（#456A57）— 岩苔綠：唯一強調色，只用於 CTA、active 狀態、focus ring、少量可點擊品牌標記
+- primary（#2A4060）— 台灣藍靛：唯一強調色，只用於 CTA、active 狀態、focus ring、少量可點擊品牌標記
 - background（#E7E5E4）— 水泥灰：主要背景底色，使用偏淺 `zinc` 灰階營造清水模與展場牆面感
 - surface（#F5F5F4）— 礦霧灰白：卡片、篩選面板、區塊容器填色，需略亮於背景形成溫和分層
 - foreground（#18181B）— 炭墨黑：主要標題、重要文字與高權重 UI
