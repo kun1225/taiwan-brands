@@ -4,6 +4,26 @@
   "rawRecords": [
     {
       "sourceName": "twrr-partners",
+      "sourceUrl": "https://twrr.org.tw/zh-TW/partner/172",
+      "name": "台灣潛水",
+      "companyName": "執行長：陳琦恩",
+      "description": "地方創生產品與服務",
+      "imageUrls": [
+        "https://twrr.org.tw/uploads/partner/476907357441097990.jpg",
+        "https://twrr.org.tw/uploads/partner/476907357441097990.jpg",
+        "https://twrr.org.tw/uploads/partner/476907357441097990.jpg"
+      ],
+      "city": "屏東縣",
+      "category": "regional revitalization",
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
+      "officialUrl": "https://www.taiwan-dive.com/",
+      "officialUrlType": "website"
+    },
+    {
+      "sourceName": "twrr-partners",
       "sourceUrl": "https://twrr.org.tw/zh-TW/partner/526",
       "name": "Onelife玩生活",
       "description": "戶外運動用品",
@@ -15,7 +35,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://onelife.com.tw/",
       "officialUrlType": "website"
     },
@@ -31,7 +54,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://ftostore.qdm.tw/",
       "officialUrlType": "website"
     },
@@ -47,7 +73,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://maac.io/1DwtV",
       "officialUrlType": "website"
     },
@@ -65,7 +94,10 @@
       ],
       "city": "屏東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://shop.fuwanchocolate.com/",
       "officialUrlType": "website"
     },
@@ -82,7 +114,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://docs.google.com/forms/d/e/1FAIpQLScHiJDzq0pu_WNnP8SaEI6fwvYMA9CXn-mQBt087PwJJiMLjA/viewform",
       "officialUrlType": "source"
     },
@@ -100,7 +135,10 @@
       ],
       "city": "屏東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.instagram.com/pork_pork_pokory/",
       "officialUrlType": "instagram"
     },
@@ -117,7 +155,10 @@
       ],
       "city": "嘉義市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://ourtheatre.net/",
       "officialUrlType": "website"
     },
@@ -133,7 +174,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -149,7 +193,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.zhongxingblock.com/",
       "officialUrlType": "website"
     },
@@ -166,7 +213,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://linevoom.line.me/post/1175722536943287962",
       "officialUrlType": "source"
     },
@@ -183,7 +233,10 @@
       ],
       "city": "嘉義縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/lctsl611",
       "officialUrlType": "facebook"
     },
@@ -200,7 +253,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://fb.watch/oHUV1EvtA0/",
       "officialUrlType": "website"
     },
@@ -216,7 +272,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://bonfuya.com/",
       "officialUrlType": "website"
     },
@@ -234,7 +293,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://taitungechoorchestra.com/",
       "officialUrlType": "website"
     },
@@ -251,7 +313,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://tzumau.com.tw/",
       "officialUrlType": "website"
     },
@@ -268,7 +333,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://pinkoi.com/store/sankanstudio?utm_campaign=koc&utm_content=sankanstudio&utm_medium=ios_share&utm_source=Copy&utm_term=store",
       "officialUrlType": "marketplace"
     },
@@ -286,7 +354,10 @@
       ],
       "city": "宜蘭縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://suger25.pixnet.net/blog/posts/872863316408677136?fbclid=IwdGRjcAQh4VNleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeaIUVdHdBVIKbtjcEE-MGdJfu-8hmK4laNbJvd9mPem3VRoxzhdY16Ox5tx8_aem_roZSOd3UhTbrZ_VP90EcDA",
       "officialUrlType": "website"
     },
@@ -304,7 +375,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://forms.gle/mnDoREpGvcVy5kS88",
       "officialUrlType": "source"
     },
@@ -321,7 +395,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -336,7 +413,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "line://oaMessage/@tlf0508f",
       "officialUrlType": "source"
     },
@@ -354,7 +434,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://chibuapp.com/",
       "officialUrlType": "website"
     },
@@ -372,7 +455,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://share.google/i2Qe53qD1ArT0lWUY",
       "officialUrlType": "website"
     },
@@ -390,7 +476,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/MiaoliFishCoffee",
       "officialUrlType": "facebook"
     },
@@ -408,7 +497,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/profile.php?id=61556676955566",
       "officialUrlType": "facebook"
     },
@@ -425,7 +517,10 @@
       ],
       "city": "嘉義市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.chung2film.com/",
       "officialUrlType": "website"
     },
@@ -442,7 +537,10 @@
       ],
       "city": "澎湖縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://isle.travel/",
       "officialUrlType": "website"
     },
@@ -460,7 +558,10 @@
       ],
       "city": "台中市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.orangejohoo.com/",
       "officialUrlType": "website"
     },
@@ -477,7 +578,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -491,7 +595,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://share.google/Q3UWfw4Io37nzrsiD",
       "officialUrlType": "website"
     },
@@ -508,7 +615,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://maps.app.goo.gl/rDA1ow6Fc2aqMDWQA?g_st=ic",
       "officialUrlType": "source"
     },
@@ -526,7 +636,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://tu-yue-shiuans-portfolio.webflow.io/",
       "officialUrlType": "website"
     },
@@ -544,7 +657,10 @@
       ],
       "city": "台中市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://tctimewalk.com/tcytr01/",
       "officialUrlType": "website"
     },
@@ -562,7 +678,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.djulis-tw.com/",
       "officialUrlType": "website"
     },
@@ -580,7 +699,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "http://www.1931.com.tw/",
       "officialUrlType": "website"
     },
@@ -597,7 +719,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.instagram.com/ud_garden?igsh=MXg5anJiYmc0cnEzcw%3D%3D&utm_source=qr",
       "officialUrlType": "instagram"
     },
@@ -615,7 +740,10 @@
       ],
       "city": "新竹縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/ehY1pdR",
       "officialUrlType": "website"
     },
@@ -632,7 +760,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://1koshijimi.com.tw/",
       "officialUrlType": "website"
     },
@@ -649,7 +780,10 @@
       ],
       "city": "台北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://tradio.gov.taipei/channel/MjE1OA/MjI5NDAx?fbclid=IwY2xjawJtTgdleHRuA2FlbQIxMAABHgwTpUodn9qqSa2WYSoe8ByZB5q3tqJDT8vsqsakdeKixvDXW8pBgcRHTxmT_aem_rAOPXSvdAR9UBabxnHfXAw",
       "officialUrlType": "website"
     },
@@ -666,7 +800,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/iDOVWqaa",
       "officialUrlType": "website"
     },
@@ -684,7 +821,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://fb.watch/aC5lGp2CEM/",
       "officialUrlType": "website"
     },
@@ -701,7 +841,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://line.me/R/ti/p/@033oxkds?ts=08051523&oat_content=url",
       "officialUrlType": "source"
     },
@@ -719,7 +862,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/7AMGNhw",
       "officialUrlType": "website"
     },
@@ -737,7 +883,10 @@
       ],
       "city": "台北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/1G5zXpdnWm/",
       "officialUrlType": "facebook"
     },
@@ -754,7 +903,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/iT0h9vL",
       "officialUrlType": "website"
     },
@@ -772,7 +924,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/mocafeleather?mibextid=ZbWKwL",
       "officialUrlType": "facebook"
     },
@@ -789,7 +944,10 @@
       ],
       "city": "台北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.afighter2020.com/",
       "officialUrlType": "website"
     },
@@ -805,7 +963,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -820,7 +981,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.tungroom.com/",
       "officialUrlType": "website"
     },
@@ -837,7 +1001,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -853,7 +1020,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lihi1.cc/d1vWh",
       "officialUrlType": "source"
     },
@@ -871,7 +1041,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -887,7 +1060,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc49kxgQLSUawnTGbjKL8dAWszZQqsWYTq3qVWd1TfixJo3kg/viewform",
       "officialUrlType": "source"
     },
@@ -905,7 +1081,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -921,7 +1100,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://myship.7-11.com.tw/general/detail/GM2511077889094?fbclid=IwY2xjawOjYZ5leHRuA2FlbQIxMABicmlkETF1WDBwak9keFcxMkJoaTIzc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHn-8gGxCmpp35oDowX8xNYSS_UAsEC6pPQB6T4oerthBDTJCRuFsY6Ng_MoT_aem_N0XiTMTNl-uuHQMIdVkpNQ",
       "officialUrlType": "website"
     },
@@ -938,7 +1120,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -954,7 +1139,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -970,7 +1158,10 @@
       ],
       "city": "台北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://news.ebc.net.tw/news/living/521000",
       "officialUrlType": "website"
     },
@@ -988,7 +1179,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "http://www.senwho.com/",
       "officialUrlType": "website"
     },
@@ -1006,7 +1200,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.vds-product.com/",
       "officialUrlType": "website"
     },
@@ -1023,7 +1220,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -1038,7 +1238,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.shanlin-agri.com/",
       "officialUrlType": "website"
     },
@@ -1055,7 +1258,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.masterchang-brownsugar.com/",
       "officialUrlType": "website"
     },
@@ -1073,7 +1279,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/1F3yFufHfk/?mibextid=wwXIfr",
       "officialUrlType": "facebook"
     },
@@ -1091,7 +1300,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.instagram.com/3___hiiii/",
       "officialUrlType": "instagram"
     },
@@ -1108,7 +1320,10 @@
       ],
       "city": "嘉義縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.co2tour.com/",
       "officialUrlType": "website"
     },
@@ -1126,7 +1341,10 @@
       ],
       "city": "屏東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.farmylife.org.tw/",
       "officialUrlType": "website"
     },
@@ -1143,7 +1361,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.tiktok.com/@fengyuangoat8",
       "officialUrlType": "website"
     },
@@ -1161,7 +1382,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -1177,7 +1401,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.zocoffee.net/",
       "officialUrlType": "website"
     },
@@ -1195,7 +1422,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/sb2JNvX",
       "officialUrlType": "website"
     },
@@ -1212,7 +1442,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.instagram.com/yunlinfae",
       "officialUrlType": "instagram"
     },
@@ -1229,7 +1462,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.kaohsiungdiy.com/travel/index.php?action=index",
       "officialUrlType": "website"
     },
@@ -1247,7 +1483,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/WoodArt.tainan/",
       "officialUrlType": "facebook"
     },
@@ -1264,7 +1503,10 @@
       ],
       "city": "桃園市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.greenunion.tw/",
       "officialUrlType": "website"
     },
@@ -1282,7 +1524,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/hellodamaie/",
       "officialUrlType": "facebook"
     },
@@ -1300,7 +1545,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.sunnyrush.com/",
       "officialUrlType": "website"
     },
@@ -1318,7 +1566,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.inyusauce.com/",
       "officialUrlType": "website"
     },
@@ -1336,7 +1587,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.niyan-cement.com/pages/about",
       "officialUrlType": "website"
     },
@@ -1354,7 +1608,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.bonbonsstudio.com.tw/",
       "officialUrlType": "website"
     },
@@ -1371,7 +1628,10 @@
       ],
       "city": "嘉義市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://open.firstory.me/story/cmam1bq0b0jfq01x1hjjld3rn",
       "officialUrlType": "website"
     },
@@ -1389,7 +1649,10 @@
       ],
       "city": "新竹市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.orlifestyles.com/",
       "officialUrlType": "website"
     },
@@ -1407,7 +1670,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://sunrisemedium.com/p/498/taiuanbi",
       "officialUrlType": "website"
     },
@@ -1425,7 +1691,10 @@
       ],
       "city": "基隆市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.mooni.com.tw/",
       "officialUrlType": "website"
     },
@@ -1443,7 +1712,10 @@
       ],
       "city": "桃園市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.zz-village.com/",
       "officialUrlType": "website"
     },
@@ -1461,7 +1733,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -1476,7 +1751,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.uniwoodesign.com/",
       "officialUrlType": "website"
     },
@@ -1492,7 +1770,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://tendrum.com.tw/",
       "officialUrlType": "website"
     },
@@ -1510,7 +1791,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/WZYvMZr",
       "officialUrlType": "website"
     },
@@ -1527,7 +1811,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://line.me/R/ti/p/@991toxnd?oat_content=url&ts=03281839",
       "officialUrlType": "source"
     },
@@ -1544,7 +1831,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.tct.org.tw/",
       "officialUrlType": "website"
     },
@@ -1562,7 +1852,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://stronglove9d.com/",
       "officialUrlType": "website"
     },
@@ -1579,7 +1872,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/196NrLjaNt/?mibextid=wwXIfr",
       "officialUrlType": "facebook"
     },
@@ -1597,7 +1893,10 @@
       ],
       "city": "新竹縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/543anthouse",
       "officialUrlType": "facebook"
     },
@@ -1614,7 +1913,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.farfarawayvillage.com/",
       "officialUrlType": "website"
     },
@@ -1632,7 +1934,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.twsoybean.com.tw/",
       "officialUrlType": "website"
     },
@@ -1650,7 +1955,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://sndn.link/tuho",
       "officialUrlType": "website"
     },
@@ -1668,7 +1976,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.8fun.com.tw/",
       "officialUrlType": "website"
     },
@@ -1686,7 +1997,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.gtbg.com.tw/news",
       "officialUrlType": "website"
     },
@@ -1703,7 +2017,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.tamsuitraveler.com/",
       "officialUrlType": "website"
     },
@@ -1720,7 +2037,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/pUzIOo5",
       "officialUrlType": "website"
     },
@@ -1738,7 +2058,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.thehappinessshop.com.tw/",
       "officialUrlType": "website"
     },
@@ -1755,7 +2078,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/yunclya0306",
       "officialUrlType": "facebook"
     },
@@ -1773,7 +2099,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.smartcook.com.tw/",
       "officialUrlType": "website"
     },
@@ -1791,7 +2120,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.085fish.com.tw/",
       "officialUrlType": "website"
     },
@@ -1809,7 +2141,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://uglybuthealthy.weebly.com/",
       "officialUrlType": "website"
     },
@@ -1826,7 +2161,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://line.me/R/ti/p/@899rxilc",
       "officialUrlType": "source"
     },
@@ -1844,7 +2182,10 @@
       ],
       "city": "基隆市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://play.niceday.tw/zh-tw/regions/21/products/3673977080282",
       "officialUrlType": "website"
     },
@@ -1862,7 +2203,10 @@
       ],
       "city": "澎湖縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://kentlin9991.shopstore.tw/",
       "officialUrlType": "website"
     },
@@ -1880,7 +2224,10 @@
       ],
       "city": "苗栗縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -1895,7 +2242,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://si.taiwan.gov.tw/Home/Org?Fid=506",
       "officialUrlType": "website"
     },
@@ -1912,7 +2262,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.havesometea.co/",
       "officialUrlType": "website"
     },
@@ -1929,7 +2282,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/profile.php?id=61556051090233&mibextid=LQQJ4d",
       "officialUrlType": "facebook"
     },
@@ -1947,7 +2303,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.daughter-tea.com/",
       "officialUrlType": "website"
     },
@@ -1964,7 +2323,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "http://www.dayspringmatsu.com/",
       "officialUrlType": "website"
     },
@@ -1982,7 +2344,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.ohmygoat.com.tw/",
       "officialUrlType": "website"
     },
@@ -2000,7 +2365,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://open.spotify.com/episode/56S5gk20dXRSR2qa1mRuaM?si=gZxHIdG9QqCeKsO-WiZLRg",
       "officialUrlType": "website"
     },
@@ -2018,7 +2386,10 @@
       ],
       "city": "宜蘭縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://morningmarketyilan.com/",
       "officialUrlType": "website"
     },
@@ -2036,7 +2407,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.chanshuo.tw/",
       "officialUrlType": "website"
     },
@@ -2054,7 +2428,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.immugoat.com/",
       "officialUrlType": "website"
     },
@@ -2071,7 +2448,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/2Jilq5y",
       "officialUrlType": "website"
     },
@@ -2089,7 +2469,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -2104,7 +2487,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/changfarm430?mibextid=ZbWKwL",
       "officialUrlType": "facebook"
     },
@@ -2122,7 +2508,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -2138,7 +2527,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -2153,7 +2545,10 @@
       ],
       "city": "屏東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://portaly.cc/goodwill",
       "officialUrlType": "website"
     },
@@ -2171,7 +2566,10 @@
       ],
       "city": "嘉義縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.dreamriverliu.com/",
       "officialUrlType": "website"
     },
@@ -2188,7 +2586,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/profile.php?id=61562939146456",
       "officialUrlType": "facebook"
     },
@@ -2205,7 +2606,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/profile.php?id=100095392814444",
       "officialUrlType": "facebook"
     },
@@ -2222,7 +2626,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "http://www.wang-art.com.tw/?fbclid=IwAR1icFplXapNRk2mkKLMSMTSDK71WdeLxen_nvhm90Dd9yXw02eRSNXWLqM",
       "officialUrlType": "website"
     },
@@ -2240,7 +2647,10 @@
       ],
       "city": "台東縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/%E7%83%A4%E8%8C%B6%E5%9C%B0-451040685227301",
       "officialUrlType": "facebook"
     },
@@ -2258,7 +2668,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/profile.php?id=61570317392361&locale=zh_TW",
       "officialUrlType": "facebook"
     },
@@ -2276,7 +2689,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/ing770930",
       "officialUrlType": "facebook"
     },
@@ -2293,7 +2709,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -2308,7 +2727,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.peopo.org/news/404421",
       "officialUrlType": "website"
     },
@@ -2325,7 +2747,10 @@
       ],
       "city": "台北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.agoood.com/",
       "officialUrlType": "website"
     },
@@ -2343,7 +2768,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     },
     {
       "sourceName": "twrr-partners",
@@ -2359,7 +2787,10 @@
       ],
       "city": "宜蘭縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://reurl.cc/xEXRW1",
       "officialUrlType": "website"
     },
@@ -2376,7 +2807,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.fishbar.com.tw/main.php",
       "officialUrlType": "website"
     },
@@ -2394,7 +2828,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://formosagoose.com/",
       "officialUrlType": "website"
     },
@@ -2411,7 +2848,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.smokcafe.com/?",
       "officialUrlType": "website"
     },
@@ -2429,7 +2869,10 @@
       ],
       "city": "台南市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://zuozhenexchange.com/",
       "officialUrlType": "website"
     },
@@ -2447,7 +2890,10 @@
       ],
       "city": "基隆市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://commissionstore.com.tw/",
       "officialUrlType": "website"
     },
@@ -2465,7 +2911,10 @@
       ],
       "city": "新竹縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.bighillnorthmoon.tw/",
       "officialUrlType": "website"
     },
@@ -2483,7 +2932,10 @@
       ],
       "city": "嘉義縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/18WN9U5q3y/?mibextid=LQQJ4d",
       "officialUrlType": "facebook"
     },
@@ -2501,7 +2953,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://howyum.group/",
       "officialUrlType": "website"
     },
@@ -2519,7 +2974,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/lungfuhotel",
       "officialUrlType": "facebook"
     },
@@ -2537,7 +2995,10 @@
       ],
       "city": "南投縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/zhongliaoartist",
       "officialUrlType": "facebook"
     },
@@ -2554,7 +3015,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/dYxgweM",
       "officialUrlType": "website"
     },
@@ -2572,7 +3036,10 @@
       ],
       "city": "連江縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://manager.line.biz/account/@360dggkh",
       "officialUrlType": "website"
     },
@@ -2589,7 +3056,10 @@
       ],
       "city": "嘉義縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/ljyouthlab",
       "officialUrlType": "facebook"
     },
@@ -2606,7 +3076,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://lin.ee/HeorYLJ",
       "officialUrlType": "website"
     },
@@ -2623,7 +3096,10 @@
       ],
       "city": "彰化縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/mHPWTqD6ZhVz3YJ8/?mibextid=LQQJ4d",
       "officialUrlType": "facebook"
     },
@@ -2640,7 +3116,10 @@
       ],
       "city": "基隆市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.ghoti.com.tw/",
       "officialUrlType": "website"
     },
@@ -2658,7 +3137,10 @@
       ],
       "city": "嘉義市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.reshockcoffee.com/",
       "officialUrlType": "website"
     },
@@ -2675,7 +3157,10 @@
       ],
       "city": "雲林縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://esunrice.com/",
       "officialUrlType": "website"
     },
@@ -2692,7 +3177,10 @@
       ],
       "city": "高雄市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.reusenewlife.com.tw/",
       "officialUrlType": "website"
     },
@@ -2708,7 +3196,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://www.facebook.com/share/7cC8bfbYLrxNxVeb/?mibextid=LQQJ4d",
       "officialUrlType": "facebook"
     },
@@ -2726,7 +3217,10 @@
       ],
       "city": "花蓮縣",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
+      "evidenceTags": [
+        "B",
+        "D"
+      ],
       "officialUrl": "https://pinsen976.com/",
       "officialUrlType": "website"
     },
@@ -2744,25 +3238,10 @@
       ],
       "city": "新北市",
       "category": "regional revitalization",
-      "evidenceTags": ["B", "D"]
-    },
-    {
-      "sourceName": "twrr-partners",
-      "sourceUrl": "https://twrr.org.tw/zh-TW/partner/1",
-      "name": "甘樂文創",
-      "companyName": "公司名稱 : 甘樂文創志業股份有限公司",
-      "description": "居家生活用品",
-      "imageUrls": [
-        "https://twrr.org.tw/uploads/partner/519115807763726593.jpg",
-        "https://twrr.org.tw/uploads/partner/519115807763726593.jpg",
-        "https://twrr.org.tw/uploads/partner/519115807763726593.jpg",
-        "https://twrr.org.tw/uploads/partner/16463242619285.jpg"
-      ],
-      "city": "新北市",
-      "category": "regional revitalization",
-      "evidenceTags": ["B", "D"],
-      "officialUrl": "https://www.thecan.com.tw/",
-      "officialUrlType": "website"
+      "evidenceTags": [
+        "B",
+        "D"
+      ]
     }
   ],
   "errors": []

@@ -1,509 +1,217 @@
 [
   {
-    "brandName": "好關係 HAOKUANXI",
-    "mainProducts": "家飾寢具、嬰幼兒用品、設計商品、玩具童用品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/Xfdk7nWS/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/pBMaZzHR/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/Xfdk7nWS",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "yunski",
-    "mainProducts": "服飾",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/bjGfun4v/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/yunski",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/bjGfun4v",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
-    "mainProducts": "包袋、服飾、寵物用品、設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/yZFHeFFs/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/9H8aqgSL/0/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/viewfinder",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/yZFHeFFs",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "嶼霧茶堂",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/iyKt3NzM/0/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/heming-tea",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/iyKt3NzM",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "RITE",
+    "brandName": "BANGSTREE 瀏海樹",
     "mainProducts": "包袋",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/cTq65Ywh/0/8/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/42bbieHG/0/2/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/rite",
+    "officialUrl": "https://www.pinkoi.com/store/bangstree",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/cTq65Ywh",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/42bbieHG",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "perdu",
-    "mainProducts": "服飾、髮飾與配件、農產與加工食品",
+    "brandName": "青鹿製包",
+    "mainProducts": "包袋",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/W4s6DH9j/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/GqQeB9K8/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/FjxHJy6H/0/1/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/perduofficial",
+    "officialUrl": "https://www.pinkoi.com/store/wefoundit",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/W4s6DH9j",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/FjxHJy6H",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "慢慢瓷 Slow White Ceramics",
+    "mainProducts": "居家生活用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/CUgMM2CB/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/VC2Q6trS/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/slow2hite",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/CUgMM2CB",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Rainbow House 彩虹屋",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/PeCCfyQD/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/rainbowhouse",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/PeCCfyQD",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "raw-ecoproject",
+    "mainProducts": "設計商品、服飾",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/AHnrLCWH/0/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/EfLwW3XC/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/raw-ecoproject",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/AHnrLCWH",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "初煦品牌",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/5AewsnPj/0/3/500x0.jpg",
+      "https://cdn02.pinkoi.com/product/QUijqX7c/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/hakkamom",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/5AewsnPj",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Soar&Arrow",
+    "mainProducts": "包袋",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/Bb8beK8h/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/soar-arrow",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/Bb8beK8h",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
     "brandName": "LEEDS WEATHER® 色彩個性襪子品牌",
     "mainProducts": "服飾、戶外運動用品、茶飲食品、居家生活用品、農產與加工食品",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/4xqwsEvT/0/6/500x0.jpg",
-      "https://cdn02.pinkoi.com/product/mkwmKC5g/0/18/500x0.jpg"
+      "https://cdn02.pinkoi.com/product/Jvcg3icq/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/VVmFamfq/0/1/500x0.jpg"
     ],
     "officialUrl": "https://www.pinkoi.com/store/leedsweather",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/4xqwsEvT",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "ZOOM",
-    "mainProducts": "設計商品、手作材料、農產與加工食品、戶外運動用品、茶飲食品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/os3UVzUe/0/6/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/HutVdUfQ/0/4/500x0.jpg"
+    "sourceUrl": "https://www.pinkoi.com/product/Jvcg3icq",
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/zoom-taiwan",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/os3UVzUe",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Tri-Aid 按摩三角 肌筋膜舒緩按摩器 澳洲品牌授權台灣代理",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/cUd7fqF2/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/tri-aid-tw",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/cUd7fqF2",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "FEBBI",
-    "mainProducts": "飾品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/TdR5crNs/0/3/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/RHUfKiVh/0/6/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/febbi",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/TdR5crNs",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "存在音樂",
-    "mainProducts": "寵物用品、戶外運動用品、樂器與音樂用品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/TLQ6tGU7/0/3/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/beingmusic2017",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/TLQ6tGU7",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "WEAVISM 織本主義",
-    "mainProducts": "服飾、設計商品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/uDILrQ73/0/2/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/1WByV1B2/0/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/weavism",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/uDILrQ73",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "聲聲慢手染服飾",
-    "mainProducts": "設計商品、服飾",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/ZC5kxiDS/0/1/500x0.jpg",
-      "https://cdn02.pinkoi.com/product/VmHHjB3y/0/2/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/2smco99",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/ZC5kxiDS",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Kevin McCartney",
-    "mainProducts": "包袋",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/Vuz4V6Zp/0/3/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/kevinmccartney",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/Vuz4V6Zp",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
     "brandName": "淡然有味 Danran Tea",
     "mainProducts": "茶飲食品、包袋、設計商品",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/xKzHWZV2/0/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/pVpUTSAh/0/6/500x0.jpg"
+      "https://cdn02.pinkoi.com/product/triBujyY/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/xKzHWZV2/0/500x0.jpg"
     ],
     "officialUrl": "https://www.pinkoi.com/store/drywtea",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/xKzHWZV2",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/triBujyY",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "raw-ecoproject",
-    "mainProducts": "服飾、設計商品",
+    "brandName": "RBRK Designer handbag & Accessories",
+    "mainProducts": "包袋、手作材料",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/xjGz73PA/0/6/500x0.jpg",
-      "https://cdn02.pinkoi.com/product/zbaLd3Y3/0/2/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/BHyNavXT/0/2/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/raw-ecoproject",
+    "officialUrl": "https://www.pinkoi.com/store/rbrk",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/xjGz73PA",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/BHyNavXT",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "Pangolin，音樂城市工作室",
-    "mainProducts": "設計商品",
+    "brandName": "好關係 HAOKUANXI",
+    "mainProducts": "設計商品、家飾寢具、農產與加工食品、嬰幼兒用品、玩具童用品",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/vSdDaHEz/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/aWgLEwr7/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/uPCC4bWf/0/1/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/supplymusic01",
+    "officialUrl": "https://www.pinkoi.com/store/haokuanxi",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/vSdDaHEz",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/aWgLEwr7",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "三八計 Aman",
-    "mainProducts": "設計商品、服飾",
+    "brandName": "親子良品",
+    "mainProducts": "收藏擺件",
     "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/ANM2gKU9/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/QSGYQgpH/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/NffCRNt9/0/1/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/38ji-aman",
+    "officialUrl": "https://www.pinkoi.com/store/bdi-ilovebaby",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/ANM2gKU9",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/NffCRNt9",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "京都奈口金包Gamakuchi",
-    "mainProducts": "包袋、玩具童用品",
+    "brandName": "COLORSMITH 台灣原創品包包品牌",
+    "mainProducts": "包袋",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/EU7txrvj/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/beC2K48b/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/XUvfx9W6/0/1/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/gamakuchi",
+    "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/EU7txrvj",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "minihope美好的親子生活",
-    "mainProducts": "服飾、玩具童用品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/kWwc9GLj/0/3/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/gdFgfqRX/0/4/500x0.jpg"
+    "sourceUrl": "https://www.pinkoi.com/product/beC2K48b",
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/minihope",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/kWwc9GLj",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "羽曦堂",
-    "mainProducts": "茶飲食品、設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/9nuXDZZd/0/2/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/AVxEadNR/0/6/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/yoosheetea",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/9nuXDZZd",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "MiniYue羊毛製氈所",
-    "mainProducts": "手作材料",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/RXGWrvr3/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/miniyue",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/RXGWrvr3",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Piña Collective",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/h9vemnjA/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/pinacollective",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/h9vemnjA",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Allite",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/pe3YtAvS/0/3/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/allitetw",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/pe3YtAvS",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "odd CIRKUS®",
-    "mainProducts": "設計商品、鞋履",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/MLj38Kvn/0/2/500x0.jpg",
-      "https://cdn02.pinkoi.com/product/tPJCpbUM/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/oddcrikusfootwear",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/MLj38Kvn",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "LUCGLE",
-    "mainProducts": "服飾、髮飾與配件",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/FQeqmy9a/0/2/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/6LPFYdrL/0/4/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/lucgle",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/FQeqmy9a",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "吉他玩家 Guitar Player",
-    "mainProducts": "樂器與音樂用品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/dxuUHB3F/0/2/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/guitarplayer",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/dxuUHB3F",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Natub 台灣製造天然手工皂 品牌專賣館",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/mhVvqEn6/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/natub-tw",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/mhVvqEn6",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "日常經典TAGather Goods",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/dtTSzcti/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/tagathergoods",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/dtTSzcti",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Mata Swim",
-    "mainProducts": "服飾、設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/5hSqBU87/0/1/500x0.jpg",
-      "https://cdn02.pinkoi.com/product/TzrcNTek/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/mataswim",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/5hSqBU87",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "可可雲手作室內拖鞋",
-    "mainProducts": "鞋履、手作材料",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/ukdTVsXa/0/5/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/cckumohandmade",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/ukdTVsXa",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "mittag jewelry",
-    "mainProducts": "飾品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/cS73pfpw/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/8YCQfbFD/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/mittag",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/cS73pfpw",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "CuCare",
-    "mainProducts": "服飾",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/GYHXpZuu/0/2/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/cucare",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/GYHXpZuu",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "PICONO Watches",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/TGFfSZWN/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/picono",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/TGFfSZWN",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "JadeGaze 玉凝飾",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/XZhFjfUU/0/1/500x0.jpg"
-    ],
-    "officialUrl": "https://www.pinkoi.com/store/jadegaze",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/XZhFjfUU",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -518,21 +226,76 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/jhaWrNxa",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
-    "brandName": "MINIMENT 迷你們",
-    "mainProducts": "飾品、辦公與收納",
+    "brandName": "ZOOM",
+    "mainProducts": "設計商品、戶外運動用品、手作材料、農產與加工食品、茶飲食品",
     "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/Qt7Nz8xj/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/Yxn88DXR/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/s5uwd8BT/0/11/500x0.jpg"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/miniment",
+    "officialUrl": "https://www.pinkoi.com/store/zoom-taiwan",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/Qt7Nz8xj",
-    "evidenceTags": ["A", "D"],
+    "sourceUrl": "https://www.pinkoi.com/product/Yxn88DXR",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "NETTA Studio",
+    "mainProducts": "包袋",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/SiJTLMFS/0/9/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/nettataiwan",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/SiJTLMFS",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "京都奈口金包Gamakuchi",
+    "mainProducts": "手作材料、包袋、玩具童用品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/uGHskt3e/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/rZH2BJDe/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/gamakuchi",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/uGHskt3e",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "FEBBI",
+    "mainProducts": "飾品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/RHUfKiVh/0/6/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/TdR5crNs/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/febbi",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/RHUfKiVh",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -546,7 +309,550 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/mVsyFNiF",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "MINIMENT 迷你們",
+    "mainProducts": "飾品、辦公與收納",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/Qt7Nz8xj/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/miniment",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/Qt7Nz8xj",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "羽曦堂",
+    "mainProducts": "茶飲食品、設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/gdrjwnBg/0/4/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/9nuXDZZd/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/yoosheetea",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/gdrjwnBg",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "ViewFinder - 中性聯名服飾 & 圖像授權周邊",
+    "mainProducts": "服飾、包袋、寵物用品、設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/iYqTV6da/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/yZFHeFFs/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/viewfinder",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/iYqTV6da",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "竹云沉香ZuYun",
+    "mainProducts": "居家生活用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/5QSPEf2F/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/BnhxwxHD/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/zuyunincense",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/5QSPEf2F",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "minihope美好的親子生活",
+    "mainProducts": "服飾、玩具童用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/gdFgfqRX/0/4/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/kWwc9GLj/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/minihope",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/gdFgfqRX",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "鹿苑茶莊1935--以茶為媒介，傳遞台灣這座島嶼的故事與溫暖",
+    "mainProducts": "包袋、茶飲食品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/QpnGUr6L/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/luyuan-tea",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/QpnGUr6L",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "perdu",
+    "mainProducts": "服飾、髮飾與配件、農產與加工食品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/fWuQwnuU/0/2/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/W4s6DH9j/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/perduofficial",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/fWuQwnuU",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Allie’s Studio 慢遊愛麗",
+    "mainProducts": "茶飲食品、玩具童用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/ir2SMTed/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/alicescrazysnacks",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/ir2SMTed",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "nsòu 純淨美妝",
+    "mainProducts": "保養美妝",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/4LiMcABk/0/9/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/nsou",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/4LiMcABk",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "RITE",
+    "mainProducts": "包袋",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/cTq65Ywh/0/8/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/rite",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/cTq65Ywh",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "yunski",
+    "mainProducts": "服飾",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/bjGfun4v/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/yunski",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/bjGfun4v",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "嶼霧茶堂",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/iyKt3NzM/0/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/heming-tea",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/iyKt3NzM",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Tri-Aid 按摩三角 肌筋膜舒緩按摩器 澳洲品牌授權台灣代理",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/cUd7fqF2/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/tri-aid-tw",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/cUd7fqF2",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "存在音樂",
+    "mainProducts": "寵物用品、戶外運動用品、樂器與音樂用品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/TLQ6tGU7/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/beingmusic2017",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/TLQ6tGU7",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Kevin McCartney",
+    "mainProducts": "包袋",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/Vuz4V6Zp/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/kevinmccartney",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/Vuz4V6Zp",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "WEAVISM 織本主義",
+    "mainProducts": "服飾、設計商品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/uDILrQ73/0/2/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/1WByV1B2/0/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/weavism",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/uDILrQ73",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "聲聲慢手染服飾",
+    "mainProducts": "設計商品、服飾",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/ZC5kxiDS/0/1/500x0.jpg",
+      "https://cdn02.pinkoi.com/product/VmHHjB3y/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/2smco99",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/ZC5kxiDS",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Pangolin，音樂城市工作室",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/vSdDaHEz/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/supplymusic01",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/vSdDaHEz",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "三八計 Aman",
+    "mainProducts": "設計商品、服飾",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/ANM2gKU9/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/QSGYQgpH/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/38ji-aman",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/ANM2gKU9",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "MiniYue羊毛製氈所",
+    "mainProducts": "手作材料、設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/RXGWrvr3/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/cuLJLcZ2/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/miniyue",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/RXGWrvr3",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Piña Collective",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/h9vemnjA/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/pinacollective",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/h9vemnjA",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Allite",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/pe3YtAvS/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/allitetw",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/pe3YtAvS",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "odd CIRKUS®",
+    "mainProducts": "設計商品、鞋履",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/MLj38Kvn/0/2/500x0.jpg",
+      "https://cdn02.pinkoi.com/product/tPJCpbUM/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/oddcrikusfootwear",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/MLj38Kvn",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "LUCGLE",
+    "mainProducts": "服飾、髮飾與配件",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/FQeqmy9a/0/2/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/6LPFYdrL/0/4/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/lucgle",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/FQeqmy9a",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "吉他玩家 Guitar Player",
+    "mainProducts": "樂器與音樂用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/dxuUHB3F/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/guitarplayer",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/dxuUHB3F",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Natub 台灣製造天然手工皂 品牌專賣館",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/mhVvqEn6/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/natub-tw",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/mhVvqEn6",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "日常經典TAGather Goods",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/dtTSzcti/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/tagathergoods",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/dtTSzcti",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "可可雲手作室內拖鞋",
+    "mainProducts": "鞋履、手作材料",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/ukdTVsXa/0/5/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/cckumohandmade",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/ukdTVsXa",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Mata Swim",
+    "mainProducts": "服飾、設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/5hSqBU87/0/1/500x0.jpg",
+      "https://cdn02.pinkoi.com/product/TzrcNTek/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/mataswim",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/5hSqBU87",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "mittag jewelry",
+    "mainProducts": "飾品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/cS73pfpw/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/8YCQfbFD/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/mittag",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/cS73pfpw",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "CuCare",
+    "mainProducts": "服飾",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/GYHXpZuu/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/cucare",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/GYHXpZuu",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "PICONO Watches",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/TGFfSZWN/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/picono",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/TGFfSZWN",
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "JadeGaze 玉凝飾",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/XZhFjfUU/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/jadegaze",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/XZhFjfUU",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -561,7 +867,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/AnDdcLpJ",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -575,7 +883,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/PvMzPArg",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -589,7 +899,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/VWLngjSv",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -603,7 +915,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/fgv3EWXW",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -618,7 +932,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ay3txiKH",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -632,7 +948,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/mFTeSKZ5",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -646,7 +964,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/kEGzXJJe",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -660,22 +980,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/eyhJLtuF",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "COLORSMITH 台灣原創品包包品牌",
-    "mainProducts": "包袋",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/XUvfx9W6/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/5v8LrGXt/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/colorsmithtw",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/XUvfx9W6",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -690,7 +997,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Sgs4p65s",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -704,7 +1013,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/1s2zSAw9",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -718,7 +1029,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/vyDkF5TU",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -732,7 +1045,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ua885nmG",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -746,7 +1061,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/CwBd4g8z",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -761,7 +1078,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/3fJGhDfw",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -776,7 +1095,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/43rYTDb7",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -791,7 +1112,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/VLin2YNP",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -806,7 +1129,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/aivK5qTy",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -820,7 +1145,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/brryJR5N",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -834,7 +1161,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/PWhyCY8T",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -849,22 +1178,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/gHBXiYKc",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "7th island",
-    "mainProducts": "服飾、設計商品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/GaEu9U3c/0/11/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/LfsVK8UF/0/20/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/7thisland",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/GaEu9U3c",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -878,7 +1194,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/pSZjvcGp",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -892,7 +1210,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/8tkDEf6P",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -906,7 +1226,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/NUJ73c2C",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -921,7 +1243,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/tZNvjc7q",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -935,7 +1259,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/LEFAZRdY",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -949,7 +1275,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/cPDhzJN8",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -963,7 +1291,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/8HT4LvK4",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -978,7 +1308,26 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/XJRyYfjC",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "7th island",
+    "mainProducts": "服飾、設計商品、農產與加工食品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/GaEu9U3c/0/11/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/YMPUx8zF/0/6/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/7thisland",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/GaEu9U3c",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -992,7 +1341,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/RQmkTA7c",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1006,7 +1357,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Gt8pBDkg",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1021,7 +1374,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/uUna9F4Y",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1035,7 +1390,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/yFMexKTu",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1049,7 +1406,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/nC5dZjzS",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1064,12 +1423,14 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/H47AjaLU",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
     "brandName": "Kotsu Kotsu KnitLab.",
-    "mainProducts": "3C 配件、辦公與收納、農產與加工食品",
+    "mainProducts": "3C 配件、辦公與收納",
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/pQfQYYd7/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/sn8irDFT/0/3/500x0.jpg"
@@ -1079,7 +1440,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/pQfQYYd7",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1094,7 +1457,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/bJsM8LyA",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "BEST Ti",
+    "mainProducts": "居家生活用品、玩具童用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/e8W76bXv/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/bestti",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/e8W76bXv",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1109,21 +1490,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/8WdiYqHy",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "BEST Ti",
-    "mainProducts": "居家生活用品、玩具童用品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/e8W76bXv/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/bestti",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/e8W76bXv",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1137,7 +1506,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Mcy6HQYS",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1151,7 +1522,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Pmbm5EHe",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1166,7 +1539,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/UUhVwekN",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1181,7 +1556,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/iLVHcnPk",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1195,7 +1572,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/UJ6krZGj",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1210,7 +1589,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/xBwDDdRn",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1224,7 +1605,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/QMvfUCJz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1239,7 +1622,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/4rTJiBDe",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1253,7 +1638,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/esHGWPE4",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1267,7 +1654,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/n7VfXGLN",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1281,7 +1670,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/bk699GLs",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1296,7 +1687,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/K3v5vXpb",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1310,22 +1703,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/WdtPeET5",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "奕綸口罩",
-    "mainProducts": "設計商品、戶外運動用品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/Vgbact24/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/NSJmLwZH/0/3/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/yiiloonmask",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/Vgbact24",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1340,7 +1720,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ayJMxH7P",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1354,7 +1736,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/44VqVJEV",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1368,7 +1752,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/dmYwJDMA",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1382,7 +1768,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/aFJRfDwg",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1397,21 +1785,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/kefqmNJG",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "【Hello 生活館】",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/4JYX2z4Q/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/helloshop",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/4JYX2z4Q",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1426,7 +1802,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Ydrhbf9F",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "【Hello 生活館】",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/4JYX2z4Q/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/helloshop",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/4JYX2z4Q",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1440,7 +1834,26 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/sSfuMyYT",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "奕綸口罩",
+    "mainProducts": "設計商品、戶外運動用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/Vgbact24/0/1/500x0.jpg",
+      "https://cdn01.pinkoi.com/product/NSJmLwZH/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/yiiloonmask",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/Vgbact24",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1455,21 +1868,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/gRsiqJmC",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Fartech翻頁鐘",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/mkYCpwri/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/fartech",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/mkYCpwri",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1484,7 +1885,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ZQsVRDFr",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Fartech翻頁鐘",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/mkYCpwri/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/fartech",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/mkYCpwri",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1499,7 +1918,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/HvEJhpwu",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1513,7 +1934,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/vF6LpDrH",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1528,7 +1951,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/aLf9Ynjr",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1543,7 +1968,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/5nYfNDuF",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1557,7 +1984,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/35sevr4f",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1571,7 +2000,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/UtNA5Q2q",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1585,7 +2016,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/S93YZ6gd",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1599,7 +2032,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/kzYPZbT4",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1607,14 +2042,16 @@
     "mainProducts": "鞋履",
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/NhMxt5RT/0/1/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/TRXe7C38/0/1/500x0.jpg"
+      "https://cdn01.pinkoi.com/product/ZhCgUS6j/0/1/500x0.jpg"
     ],
     "officialUrl": "https://www.pinkoi.com/store/cicalapu",
     "officialUrlType": "marketplace",
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/NhMxt5RT",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1628,7 +2065,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ZFxTk54q",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1643,7 +2082,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/WDrAxYGX",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1657,7 +2098,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ExDMf5eG",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1672,7 +2115,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/spBqkpu5",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1686,7 +2131,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/3ekgggHz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1700,7 +2147,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/2dLbDJpF",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1714,7 +2163,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/gZNZSqNz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "哩皿生活",
+    "mainProducts": "居家生活用品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/n4vmndKg/0/3/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/livingforward",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/n4vmndKg",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1728,21 +2195,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/7H8A5gzN",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "森活小飾Lifedecor",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn02.pinkoi.com/product/rjSsRdSU/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/lifedecor",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/rjSsRdSU",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1756,7 +2211,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ec7JEhiz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "森活小飾Lifedecor",
+    "mainProducts": "設計商品",
+    "productImageUrls": [
+      "https://cdn02.pinkoi.com/product/rjSsRdSU/0/1/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/lifedecor",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/rjSsRdSU",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1771,7 +2244,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/GGQuzasR",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1785,7 +2260,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/EUm3vv4V",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1799,7 +2276,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/MUPedusz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1814,7 +2293,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ap6NVh2G",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1828,7 +2309,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/7Pvn8rvc",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1842,7 +2325,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/3AFZNui5",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1856,7 +2341,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/AMs8CAbH",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1870,21 +2357,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/U55JtbhK",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "LIVING FORM 方房",
-    "mainProducts": "居家生活用品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/JuVLpLn2/0/2/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/livingform",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/JuVLpLn2",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -1898,7 +2373,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/knu4YzqL",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1912,7 +2389,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/8wjbCFvQ",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1926,7 +2405,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/rdgRYA8W",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1940,7 +2421,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/tnVQMFHv",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "LIVING FORM 方房",
+    "mainProducts": "居家生活用品",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/JuVLpLn2/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/livingform",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/JuVLpLn2",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1954,7 +2453,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/8NNEay6t",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1968,7 +2469,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/7jMBsebw",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -1985,7 +2488,11 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/GAiedRQC",
-    "evidenceTags": ["A", "D", "B"],
+    "evidenceTags": [
+      "A",
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -1999,21 +2506,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/3uqtbzA6",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Anini",
-    "mainProducts": "設計商品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/8C6ywEVw/0/4/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/aninitw",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/8C6ywEVw",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -2028,7 +2523,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/t9DsfXAm",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2043,7 +2540,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/arrkTdER",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2058,7 +2557,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/yjiGrg8B",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2073,7 +2574,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/kBfMfFvX",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2087,7 +2590,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/TASWgVj7",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2102,22 +2607,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ZCAqNgb5",
-    "evidenceTags": ["A", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "Major Pleasure 女子鞋研究室",
-    "mainProducts": "鞋履、農產與加工食品",
-    "productImageUrls": [
-      "https://cdn01.pinkoi.com/product/M2YPbcfm/0/2/500x0.jpg",
-      "https://cdn01.pinkoi.com/product/976junVG/0/1/500x0.jpg"
+    "evidenceTags": [
+      "A"
     ],
-    "officialUrl": "https://www.pinkoi.com/store/majorpleasure",
-    "officialUrlType": "marketplace",
-    "category": "design marketplace",
-    "sourceName": "pinkoi-taiwan-search",
-    "sourceUrl": "https://www.pinkoi.com/product/M2YPbcfm",
-    "evidenceTags": ["A", "D"],
     "confidence": "high"
   },
   {
@@ -2132,7 +2624,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/2YZE63Mz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2146,7 +2640,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/q86nmPnp",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2161,7 +2657,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/1axWh8hF",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2176,7 +2674,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/iVP4KzXM",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2191,7 +2691,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/YWkwqYNW",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2205,7 +2707,25 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/FS2NUZEy",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "Major Pleasure 女子鞋研究室",
+    "mainProducts": "鞋履",
+    "productImageUrls": [
+      "https://cdn01.pinkoi.com/product/M2YPbcfm/0/2/500x0.jpg"
+    ],
+    "officialUrl": "https://www.pinkoi.com/store/majorpleasure",
+    "officialUrlType": "marketplace",
+    "category": "design marketplace",
+    "sourceName": "pinkoi-taiwan-search",
+    "sourceUrl": "https://www.pinkoi.com/product/M2YPbcfm",
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2220,7 +2740,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/mmhpjaMb",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2235,7 +2757,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/jdsw6EVQ",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2250,12 +2774,14 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ZS6mvWxE",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
     "brandName": "Horizon 台灣獨家代理",
-    "mainProducts": "設計商品、健身器材",
+    "mainProducts": "設計商品、健身器材、戶外運動用品",
     "productImageUrls": [
       "https://cdn01.pinkoi.com/product/MW7GXJHz/0/1/500x0.jpg",
       "https://cdn01.pinkoi.com/product/pk6zb7fd/0/2/500x0.jpg"
@@ -2265,7 +2791,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/MW7GXJHz",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2280,7 +2808,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/Fx9hzsFX",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2294,7 +2824,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/ijTJgCWh",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2309,7 +2841,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/kBXDmJ3r",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2324,7 +2858,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/jPgDSjrZ",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2339,7 +2875,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/zKTMxGnc",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2354,7 +2892,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/EHAm78CX",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2369,7 +2909,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/5DGj3KhC",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2383,7 +2925,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/cvJCB9mv",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2397,7 +2941,9 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/tjH3f7gR",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -2411,7 +2957,28 @@
     "category": "design marketplace",
     "sourceName": "pinkoi-taiwan-search",
     "sourceUrl": "https://www.pinkoi.com/product/qsVrk9Zn",
-    "evidenceTags": ["A", "D"],
+    "evidenceTags": [
+      "A"
+    ],
+    "confidence": "high"
+  },
+  {
+    "brandName": "台灣潛水",
+    "companyName": "執行長：陳琦恩",
+    "mainProducts": "地方創生產品與服務",
+    "productImageUrls": [
+      "https://twrr.org.tw/uploads/partner/476907357441097990.jpg"
+    ],
+    "officialUrl": "https://www.taiwan-dive.com/",
+    "officialUrlType": "website",
+    "city": "屏東縣",
+    "category": "regional revitalization",
+    "sourceName": "twrr-partners",
+    "sourceUrl": "https://twrr.org.tw/zh-TW/partner/172",
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2427,7 +2994,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/526",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2442,7 +3012,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/509",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2457,7 +3030,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/47",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2474,7 +3050,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/76",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2491,7 +3070,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/48",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2508,7 +3090,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/520",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2524,7 +3109,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/210",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2537,7 +3125,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/542",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2554,7 +3145,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/28",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2570,7 +3164,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/552",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2587,7 +3184,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/512",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2604,7 +3204,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/148",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2619,7 +3222,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/479",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2636,7 +3242,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/540",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2652,7 +3261,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/546",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2668,7 +3280,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/491",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2685,7 +3300,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/428",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2702,7 +3320,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/434",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2716,7 +3337,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/541",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2732,7 +3356,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/49",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2749,7 +3376,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/3",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2766,7 +3396,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/538",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2782,7 +3415,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/199",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2798,7 +3434,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/337",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2815,7 +3454,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/318",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2829,7 +3471,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/480",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2845,7 +3490,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/532",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2862,7 +3510,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/527",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2879,7 +3530,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/112",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2896,7 +3550,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/142",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2913,7 +3570,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/290",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2929,7 +3589,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/533",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2946,7 +3609,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/8",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2962,7 +3628,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/343",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2978,7 +3647,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/360",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -2995,7 +3667,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/357",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3011,7 +3686,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/180",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3024,7 +3702,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/517",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3040,7 +3721,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/494",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3054,7 +3738,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/516",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3071,7 +3758,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/14",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3086,7 +3776,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/514",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3101,7 +3794,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/449",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3118,7 +3814,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/185",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3132,7 +3831,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/496",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3147,7 +3849,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/510",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3164,7 +3869,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/115",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3181,7 +3889,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/149",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3198,7 +3909,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/119",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3212,7 +3926,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/505",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3228,7 +3945,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/374",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3244,7 +3964,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/503",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3261,7 +3984,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/476",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3277,7 +4003,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/260",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3294,7 +4023,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/474",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3310,7 +4042,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/483",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3325,7 +4060,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/489",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3342,7 +4080,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/38",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3358,7 +4099,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/482",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3374,7 +4118,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/481",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3390,7 +4137,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/96",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3407,7 +4157,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/68",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3424,7 +4177,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/271",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3441,7 +4197,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/152",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3458,7 +4217,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/247",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3474,7 +4236,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/218",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3491,7 +4256,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/111",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3508,7 +4276,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/241",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3525,7 +4296,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/473",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3540,7 +4314,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/472",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3556,7 +4333,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/312",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3571,7 +4351,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/468",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3587,7 +4370,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/463",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3604,7 +4390,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/52",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3620,7 +4409,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/79",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3637,7 +4429,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/90",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3654,7 +4449,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/122",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3671,7 +4469,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/134",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3688,7 +4489,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/7",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3704,7 +4508,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/359",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3721,7 +4528,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/319",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3738,7 +4548,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/392",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3755,7 +4568,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/448",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3772,7 +4588,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/453",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3789,7 +4608,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/236",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3806,7 +4628,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/296",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3821,7 +4646,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/443",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3837,7 +4665,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/176",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3853,7 +4684,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/55",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3870,7 +4704,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/253",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3886,7 +4723,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/39",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3903,7 +4743,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/342",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3920,7 +4763,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/344",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3937,7 +4783,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/84",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3954,7 +4803,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/308",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3971,7 +4823,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/382",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -3986,7 +4841,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/395",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4001,7 +4859,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/420",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4016,7 +4877,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/418",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4032,7 +4896,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/114",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4049,7 +4916,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/429",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4065,7 +4935,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/182",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4079,7 +4952,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/414",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4095,7 +4971,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/25",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4111,7 +4990,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/417",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4126,7 +5008,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/423",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4143,7 +5028,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/17",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4159,7 +5047,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/72",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4176,7 +5067,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/272",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4192,7 +5086,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/327",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4209,7 +5106,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/244",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4226,7 +5126,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/33",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4243,7 +5146,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/147",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4260,7 +5166,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/403",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4277,7 +5186,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/351",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4293,7 +5205,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/381",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4310,7 +5225,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/378",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4326,7 +5244,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/373",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4342,7 +5263,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/375",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4359,7 +5283,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/370",
-    "evidenceTags": ["B", "D"],
+    "evidenceTags": [
+      "B",
+      "D"
+    ],
     "confidence": "high"
   },
   {
@@ -4374,24 +5301,10 @@
     "category": "regional revitalization",
     "sourceName": "twrr-partners",
     "sourceUrl": "https://twrr.org.tw/zh-TW/partner/345",
-    "evidenceTags": ["B", "D"],
-    "confidence": "high"
-  },
-  {
-    "brandName": "甘樂文創",
-    "companyName": "公司名稱 : 甘樂文創志業股份有限公司",
-    "mainProducts": "居家生活用品",
-    "productImageUrls": [
-      "https://twrr.org.tw/uploads/partner/519115807763726593.jpg",
-      "https://twrr.org.tw/uploads/partner/16463242619285.jpg"
+    "evidenceTags": [
+      "B",
+      "D"
     ],
-    "officialUrl": "https://www.thecan.com.tw/",
-    "officialUrlType": "website",
-    "city": "新北市",
-    "category": "regional revitalization",
-    "sourceName": "twrr-partners",
-    "sourceUrl": "https://twrr.org.tw/zh-TW/partner/1",
-    "evidenceTags": ["B", "D"],
     "confidence": "high"
   },
   {
@@ -4402,20 +5315,24 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
     "brandName": "mini.livingood",
     "productImageUrls": [
-      "https://scontent.cdninstagram.com/v/t51.75761-19/491468308_17858232561410620_6469273985109290559_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=fBS0xf76MhgQ7kNvwH68k_V&_nc_oc=Adr716FoQqwsmhlWEhG1enAhOEIFdLyg-IdzVxKPBdKrW2DKYX5qHj_sWHl2Qi8cMMM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=GuBlIHjSaFlZDrmqoy7guw&_nc_ss=7f289&oh=00_Af4NlZLDm31egURxhJqDaO6rbEY1He7hMmsAw0sLHFeEwQ&oe=69FE220F"
+      "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/491468308_17858232561410620_6469273985109290559_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=fBS0xf76MhgQ7kNvwHjSmop&_nc_oc=AdqJipv6Gb_-gVbTbocLjX8FTkkPjwXPCGz4_OALppyQBs3YKz8tVgmaJsPruIFBigmqQgvJczbA0IWdbeWNmbYt&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=Sfh1VkTyHE87Am_oEcc0Jw&_nc_ss=7f289&oh=00_Af74W_8Q6BkHeHNBH6DemkVXfns1amaEUNwmsTBeTRUPdg&oe=69FE5A4F"
     ],
     "officialUrl": "https://www.threads.com/@mini.livingood",
     "officialUrlType": "threads",
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "high"
   },
   {
@@ -4427,7 +5344,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B", "A"],
+    "evidenceTags": [
+      "B",
+      "A"
+    ],
     "confidence": "medium"
   },
   {
@@ -4438,20 +5358,24 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
     "brandName": "prosper_wood",
     "productImageUrls": [
-      "https://scontent.cdninstagram.com/v/t51.75761-19/502737757_18066301109289089_861585387983793224_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=CzzvQt4z5dMQ7kNvwEol8-t&_nc_oc=AdpbMTnV6CiIB48FDm4Qm1j4-c1iWIpZ_e-B1zXsqWCdwxKCRKAjfOuJvXIfRTto5Bc&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=iuaDbQwGEIsaEgGEp2OrCA&_nc_ss=7f289&oh=00_Af7sg7om92UIuPDAnir04tXDPs7VvIgbw0R_4jVgzQtW2g&oe=69FE226E"
+      "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/502737757_18066301109289089_861585387983793224_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=108&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=CzzvQt4z5dMQ7kNvwGMSLA6&_nc_oc=AdrD8zJcr1fIzmDpMeC1x7Y88GxEVb4HGTQ8CrFjfkrTCViaZhXGB_27Tb6RmBG_Ut6-ePPnUbEI3afDRWmYIShb&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=oN9fc551c7ToM-Ttkk6_fg&_nc_ss=7f289&oh=00_Af7sr12SLOrDreOpK_z8_Bh7_1JkbcvBzzy-7iKa19VLCw&oe=69FE5AAE"
     ],
     "officialUrl": "https://www.threads.com/@prosper_wood",
     "officialUrlType": "threads",
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "high"
   },
   {
@@ -4462,7 +5386,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4473,7 +5400,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4488,7 +5418,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "high"
   },
   {
@@ -4500,7 +5433,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4512,7 +5448,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4524,7 +5462,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4536,7 +5476,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4551,21 +5493,28 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "high"
   },
   {
     "brandName": "pangolin.store",
     "mainProducts": "戶外運動用品",
     "productImageUrls": [
-      "https://scontent.cdninstagram.com/v/t51.75761-19/490469385_17907511494105128_4945929391002083782_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=4sNopXIjQRAQ7kNvwH5Mi7Y&_nc_oc=AdreQrKE4CBDnr1FjMKHtG7vXhqngYD4aQW2OAn_GIr8Z1e-Dq2unR0oopp4eAC_P2Q&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=ncUt8zCBM7nyfkhexFHshg&_nc_ss=7f289&oh=00_Af7UwmJdPjCveABDUwuuqVCsMFVJypQ6kuiec9gEUNFNpA&oe=69FE2376"
+      "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/490469385_17907511494105128_4945929391002083782_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=4sNopXIjQRAQ7kNvwEBOTcW&_nc_oc=AdrPFX44tJJUEd26M-IvIM5LJIJgTxZP_wzxdyIc07Fx0r44D9d2Uv_x_nmcTpUvhwIt2OA8nHIPuZAbezmX50xf&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=k26HizyW2dtxIo9ZLZKqbQ&_nc_ss=7f289&oh=00_Af66MVxyAZjnTTfsIrTytDm9P5Fwmw0rzyglx3JVF09cxg&oe=69FE5BB6"
     ],
     "officialUrl": "https://www.threads.com/@pangolin.store",
     "officialUrlType": "threads",
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B", "C", "A"],
+    "evidenceTags": [
+      "B",
+      "C",
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -4577,7 +5526,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4589,7 +5540,11 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B", "C", "A"],
+    "evidenceTags": [
+      "B",
+      "C",
+      "A"
+    ],
     "confidence": "medium"
   },
   {
@@ -4601,7 +5556,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4613,21 +5570,26 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
     "brandName": "raz.com.tw",
     "mainProducts": "飾品、茶飲食品",
     "productImageUrls": [
-      "https://scontent.cdninstagram.com/v/t51.75761-19/501213674_17847697194478297_9057788683687596040_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=PAasmfcctnAQ7kNvwFrSyYI&_nc_oc=AdodyqWj56iCZRmqkJ8fixtTAN6_fGeUadk6J_oARSwQBjJo0fUe_u08MctFIhbmcX4&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=3KgslL_cS5N_8m-KMMYq6g&_nc_ss=7f289&oh=00_Af604IDiRTTwD1_wUy2wD7HZcKw4N138IFwt6CGFAMInYA&oe=69FE3C6B"
+      "https://scontent-tpe1-1.cdninstagram.com/v/t51.75761-19/501213674_17847697194478297_9057788683687596040_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=PAasmfcctnAQ7kNvwGKNe7I&_nc_oc=AdrwHBtNwOg8RAoCgpeWm5PxTv2oYamSLtpwSluIpIS7pPzHjij0NrGGRgKeuWKL7WMDnrPS7pjP3-GFiGDsJp80&_nc_zt=24&_nc_ht=scontent-tpe1-1.cdninstagram.com&_nc_gid=7uH5AWFY7DRylwO2Dn68NQ&_nc_ss=7f289&oh=00_Af7By_0sOL6uQU1_Sr25NENpfOdClY47b_H_VbfukoMZZg&oe=69FE74AB"
     ],
     "officialUrl": "https://www.threads.com/@raz.com.tw",
     "officialUrlType": "threads",
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "high"
   },
   {
@@ -4639,7 +5601,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4651,7 +5616,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4662,7 +5630,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4673,7 +5644,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4688,7 +5661,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "high"
   },
   {
@@ -4700,7 +5675,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4715,7 +5692,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B", "A"],
+    "evidenceTags": [
+      "B",
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -4727,7 +5707,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4742,7 +5725,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "high"
   },
   {
@@ -4754,7 +5739,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4769,7 +5756,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B", "A"],
+    "evidenceTags": [
+      "B",
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -4783,7 +5773,11 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B", "C", "A"],
+    "evidenceTags": [
+      "B",
+      "C",
+      "A"
+    ],
     "confidence": "high"
   },
   {
@@ -4795,7 +5789,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4807,7 +5803,11 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
-    "evidenceTags": ["D", "B", "C", "A"],
+    "evidenceTags": [
+      "B",
+      "C",
+      "A"
+    ],
     "confidence": "medium"
   },
   {
@@ -4819,7 +5819,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4831,7 +5834,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4843,7 +5849,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4855,7 +5864,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B", "C"],
+    "evidenceTags": [
+      "B",
+      "C"
+    ],
     "confidence": "medium"
   },
   {
@@ -4867,7 +5879,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   },
   {
@@ -4879,7 +5893,10 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B", "A"],
+    "evidenceTags": [
+      "B",
+      "A"
+    ],
     "confidence": "medium"
   },
   {
@@ -4891,7 +5908,9 @@
     "category": "community recommended",
     "sourceName": "threads-comments",
     "sourceUrl": "https://www.threads.com/t/DHckBsthazV",
-    "evidenceTags": ["D", "B"],
+    "evidenceTags": [
+      "B"
+    ],
     "confidence": "medium"
   }
 ]

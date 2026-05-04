@@ -16,7 +16,7 @@ const EVIDENCE_TAG_LABELS: Record<"A" | "B" | "C" | "D", string> = {
   A: "平台認證",
   B: "社群推薦",
   C: "多人推薦",
-  D: "設計品牌",
+  D: "名錄收錄",
 };
 
 const EVIDENCE_TAG_STYLES: Record<"A" | "B" | "C" | "D", string> = {

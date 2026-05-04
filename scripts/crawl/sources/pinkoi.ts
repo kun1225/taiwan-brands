@@ -116,7 +116,7 @@ function parseProductsFromHtml(
         officialUrl: product.offers?.seller?.url ?? product.offers?.url,
         officialUrlType: product.offers?.seller?.url ? "marketplace" : "source",
         category: "design marketplace",
-        evidenceTags: ["A", "D"],
+        evidenceTags: ["A"],
       });
     } catch {
       return;

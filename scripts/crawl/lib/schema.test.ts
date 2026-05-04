@@ -23,7 +23,7 @@ describe("brandCandidateSchema", () => {
     expect(result.success).toBe(true);
   });
 
-  it("rejects candidates without evidence tags", () => {
+  it("accepts candidates without evidence tags", () => {
     const result = brandCandidateSchema.safeParse({
       brandName: "品牌",
       productImageUrls: [],
@@ -33,6 +33,6 @@ describe("brandCandidateSchema", () => {
       confidence: "low",
     });
 
-    expect(result.success).toBe(false);
+    expect(result.success).toBe(true);
   });
 });

@@ -219,7 +219,7 @@ function deriveBrandNameFromUrl(url: string) {
 }
 
 function evidenceTagsFor(text: string, officialUrl?: string): EvidenceTag[] {
-  const tags = new Set<EvidenceTag>(["D"]);
+  const tags = new Set<EvidenceTag>();
 
   if (officialUrl) {
     tags.add("B");

@@ -25,7 +25,7 @@ export const brandCandidateSchema = z.object({
   category: z.string().trim().optional(),
   sourceName: z.string().trim().min(1),
   sourceUrl: z.string().url(),
-  evidenceTags: z.array(evidenceTagSchema).min(1),
+  evidenceTags: z.array(evidenceTagSchema),
   confidence: confidenceSchema,
 });
 

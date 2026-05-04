@@ -42,10 +42,7 @@ export function normalizeRawBrandRecord(record: RawBrandRecord) {
     category: cleanText(record.category),
     sourceName: record.sourceName,
     sourceUrl: record.sourceUrl,
-    evidenceTags:
-      record.evidenceTags && record.evidenceTags.length > 0
-        ? record.evidenceTags
-        : (["D"] as const),
+    evidenceTags: record.evidenceTags ?? [],
     confidence: scoreConfidence(record, productImageUrls),
   };
 
