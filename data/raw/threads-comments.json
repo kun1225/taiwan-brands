@@ -26,7 +26,7 @@
         "B"
       ],
       "imageUrls": [
-        "https://scontent.cdninstagram.com/v/t51.75761-19/491468308_17858232561410620_6469273985109290559_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=fBS0xf76MhgQ7kNvwH68k_V&_nc_oc=Adr716FoQqwsmhlWEhG1enAhOEIFdLyg-IdzVxKPBdKrW2DKYX5qHj_sWHl2Qi8cMMM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=5FfrueNMHwwxUxkWVDU6Zg&_nc_ss=7f289&oh=00_Af58VexamVeuerrBhsXacpzGxdAAemvpsV_9q46jHLTqOA&oe=69FDE9CF"
+        "https://scontent.cdninstagram.com/v/t51.75761-19/491468308_17858232561410620_6469273985109290559_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=109&ccb=7-5&_nc_sid=b3fa00&_nc_ohc=fBS0xf76MhgQ7kNvwH68k_V&_nc_oc=Adr716FoQqwsmhlWEhG1enAhOEIFdLyg-IdzVxKPBdKrW2DKYX5qHj_sWHl2Qi8cMMM&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=F87G92dNSV3fr6CoYn-ZCw&_nc_ss=7f289&oh=00_Af69CK9mpEjA0FHD_Ht5xdfL55Kw7wVtm5jM0DevyYjlmw&oe=69FDE9CF"
       ]
     },
     {
@@ -102,6 +102,7 @@
       "sourceName": "threads-comments",
       "sourceUrl": "https://www.threads.com/t/DL9QBn6B8ux",
       "name": "paipaipets",
+      "description": "寵物用品",
       "category": "community recommended",
       "evidenceTags": [
         "D",
@@ -172,6 +173,7 @@
       "sourceName": "threads-comments",
       "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
       "name": "wota_daily",
+      "description": "寵物用品",
       "category": "community recommended",
       "evidenceTags": [
         "D",
@@ -183,6 +185,7 @@
       "sourceName": "threads-comments",
       "sourceUrl": "https://www.threads.com/t/DHgpAtQvy38",
       "name": "taki_handmade_specs",
+      "description": "眼鏡配件",
       "category": "community recommended",
       "evidenceTags": [
         "D"
@@ -213,6 +216,7 @@
       "sourceName": "threads-comments",
       "sourceUrl": "https://www.threads.com/t/DQqjvNFE_Kp",
       "name": "kiko__2050",
+      "description": "園藝植栽",
       "category": "community recommended",
       "evidenceTags": [
         "D",
@@ -379,6 +383,7 @@
       "sourceName": "threads-comments",
       "sourceUrl": "https://www.threads.com/t/DFjk5lASsys",
       "name": "jun616xteen",
+      "description": "手作材料",
       "officialUrl": "https://www.instagram.com/jun616xteen/",
       "officialUrlType": "instagram",
       "category": "community recommended",

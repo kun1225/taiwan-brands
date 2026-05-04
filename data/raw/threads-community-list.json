@@ -1,6 +1,554 @@
 {
   "sourceName": "threads-community-list",
   "sourceUrl": "https://www.threads.com",
-  "rawRecords": [],
+  "rawRecords": [
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "SATBAKHI",
+      "description": "褲子 / 紡織材料",
+      "officialUrl": "https://www.threads.com/@satbakhi",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "Pangolin 穿山甲",
+      "description": "戶外機能品牌",
+      "officialUrl": "https://www.threads.com/@pangolin.store",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "URBAN CREW",
+      "description": "生活休閒服飾 / 男性內著",
+      "category": "community recommended",
+      "evidenceTags": ["D"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "plainme_life",
+      "description": "服飾",
+      "officialUrl": "https://www.threads.com/@plainme_life",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "xinyatang_studio",
+      "description": "服飾",
+      "officialUrl": "https://www.threads.com/@xinyatang_studio",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "LEAP",
+      "description": "機能褲",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "ucoologo",
+      "description": "方巾 / 復古 logo 配件",
+      "officialUrl": "https://www.threads.com/@ucoologo",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "peihumade",
+      "description": "絲巾",
+      "officialUrl": "https://www.threads.com/@peihumade",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "DI JAN",
+      "description": "雨鞋",
+      "officialUrl": "https://www.threads.com/@dijan_outdoor",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "labrisa.shoes",
+      "description": "台南製鞋",
+      "officialUrl": "https://www.threads.com/@labrisa.shoes",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "translate_footwear",
+      "description": "鞋",
+      "officialUrl": "https://www.threads.com/@translate_footwear",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "SDN 台灣好拖鞋",
+      "description": "拖鞋 / 皮革涼拖",
+      "officialUrl": "https://www.threads.com/@enenennnnn_",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "La fille",
+      "description": "皮鞋",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "凡人與路",
+      "description": "鞋",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "HThree",
+      "description": "鞋",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "chenjingkaioffice",
+      "description": "鞋",
+      "officialUrl": "https://www.threads.com/@chenjingkaioffice",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "major_pleasure.tw",
+      "description": "女鞋",
+      "officialUrl": "https://www.threads.com/@major_pleasure.tw",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "yehsido",
+      "description": "女鞋",
+      "officialUrl": "https://www.threads.com/@yehsido",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "30leather",
+      "description": "鞋 / 皮革",
+      "officialUrl": "https://www.threads.com/@30leather",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "culture_and_life",
+      "description": "文創飾品",
+      "officialUrl": "https://www.threads.com/@culture_and_life",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "往山裡走",
+      "description": "耳環 / 耳扣 / 項鍊",
+      "officialUrl": "https://www.threads.com/@inthemountains_art",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "erhjewelry",
+      "description": "銀飾",
+      "officialUrl": "https://www.threads.com/@erhjewelry",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "nolii",
+      "description": "飾品",
+      "officialUrl": "https://www.threads.com/@nolii.tw",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "isha jewelry",
+      "description": "輕珠寶 / 純銀",
+      "officialUrl": "https://www.threads.com/@ishajewelry_tw",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "Stros' Silver",
+      "description": "手作銀飾",
+      "officialUrl": "https://www.threads.com/@stros_silver",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "一耳",
+      "description": "耳環",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "hosia_3d",
+      "description": "飾品",
+      "officialUrl": "https://www.threads.com/@hosia_3d",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "a413191928",
+      "description": "項鍊",
+      "officialUrl": "https://www.threads.com/@a413191928",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "taki_handmade_specs",
+      "description": "手工眼鏡",
+      "officialUrl": "https://www.threads.com/@taki_handmade_specs",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "能見度眼鏡",
+      "companyName": "YOYO 驗光師",
+      "description": "眼鏡",
+      "category": "community recommended",
+      "evidenceTags": ["D"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "by.left.hand",
+      "description": "包",
+      "officialUrl": "https://www.threads.com/@by.left.hand",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "hongsaisaileather",
+      "description": "皮件 / 文具 / 家飾",
+      "officialUrl": "https://www.threads.com/@hongsaisaileather",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "森林燦燦",
+      "description": "皮件",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "Kotsu Kotsu",
+      "description": "織物小包",
+      "officialUrl": "https://www.threads.com/@kotsukotsu_knitlab",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "re_rebag",
+      "description": "包",
+      "officialUrl": "https://www.threads.com/@re_rebag",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "karus.life",
+      "description": "包 / 生活品牌",
+      "officialUrl": "https://www.threads.com/@karus.life",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "layoodesign",
+      "description": "設計品牌",
+      "officialUrl": "https://www.threads.com/@layoodesign",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "SOBDEALL",
+      "description": "皮夾",
+      "imageUrls": [
+        "https://www.sobdeall.com.tw/wp-content/uploads/2021/05/%E8%B3%AA-1024x684.jpg",
+        "https://www.sobdeall.com.tw/wp-content/uploads/2021/01/Group-20.png"
+      ],
+      "officialUrl": "https://www.sobdeall.com.tw/",
+      "officialUrlType": "website",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "pemg.gercasa",
+      "description": "訂製家具",
+      "officialUrl": "https://www.threads.com/@pemg.gercasa",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "pimade_official",
+      "description": "辦公家具 / 辦公椅",
+      "officialUrl": "https://www.threads.com/@pimade_official",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "patopatoeva",
+      "description": "地墊",
+      "officialUrl": "https://www.threads.com/@patopatoeva",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "one.clothsofa",
+      "description": "沙發 / 家具",
+      "officialUrl": "https://www.threads.com/@one.clothsofa",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "addableliving",
+      "description": "原木發財雞 / 居家風水小物",
+      "officialUrl": "https://www.threads.com/@addableliving",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "aoi_liaoyu",
+      "description": "生活用品",
+      "officialUrl": "https://www.threads.com/@aoi_liaoyu",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "tsdesign.kh",
+      "description": "設計品牌",
+      "officialUrl": "https://www.threads.com/@tsdesign.kh",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "龜背芋專賣店",
+      "description": "植物",
+      "officialUrl": "https://www.threads.com/@wisdom_0714",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "海豐飼料",
+      "description": "觀賞魚飼料",
+      "category": "community recommended",
+      "evidenceTags": ["D"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "2angels",
+      "description": "寶寶餐具",
+      "officialUrl": "https://www.threads.com/@2angels_tw",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "天公落花",
+      "description": "台灣花布",
+      "officialUrl": "https://www.threads.com/@tglf_hakka",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "swimbest_swimsuit",
+      "description": "泳衣",
+      "officialUrl": "https://www.threads.com/@swimbest_swimsuit",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "ibose",
+      "description": "帆布書袋",
+      "officialUrl": "https://www.threads.com/@ibosetw",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "xiang_gin_pao",
+      "description": "香水 / 精油",
+      "officialUrl": "https://www.threads.com/@xiang_gin_pao",
+      "officialUrlType": "threads",
+      "category": "community recommended",
+      "evidenceTags": ["D", "B", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "citywestbomb",
+      "description": "保養 / 洗卸",
+      "category": "community recommended",
+      "evidenceTags": ["D", "C"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "月釀碟片",
+      "description": "衛生用品",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "瑪榭",
+      "description": "內褲 / 褲襪",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "Caspia Lili",
+      "description": "輕婚紗",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    },
+    {
+      "sourceName": "threads-community-list",
+      "sourceUrl": "https://www.threads.com/@tinghe.lia/post/DHgpAtQvy38",
+      "name": "Footer",
+      "description": "襪子",
+      "category": "community recommended",
+      "evidenceTags": ["D", "A"]
+    }
+  ],
   "errors": []
 }

@@ -24,4 +24,20 @@ describe("inferMainProducts", () => {
       undefined,
     );
   });
+
+  it("infers the second batch of added categories", () => {
+    const result = inferMainProducts(
+      "品牌販售帽子、蜂蜜、鍋具、洗髮精、收納盒、插畫、奶瓶與自行車配件",
+    );
+
+    expect(result).toBe("髮飾與配件、農產與加工食品、廚房用品");
+  });
+
+  it("matches broader keyword variants", () => {
+    const result = inferMainProducts(
+      "品牌主打側背包、帽T、球鞋、手鍊、手帳、行動電源與鹿角蕨",
+    );
+
+    expect(result).toBe("包袋、服飾、鞋履");
+  });
 });
