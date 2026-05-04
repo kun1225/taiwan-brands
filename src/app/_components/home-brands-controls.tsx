@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { Search01Icon } from "@hugeicons/core-free-icons";
+import { HugeiconsIcon } from "@hugeicons/react";
 
 import { Input } from "@/components/ui/input";
 import { useDebounce } from "@/hooks/use-debounce";
@@ -35,12 +37,18 @@ export function HomeBrandsControls({
   return (
     <div className="flex flex-col gap-4">
       <div className="relative min-w-0 flex-1">
+        <HugeiconsIcon
+          icon={Search01Icon}
+          strokeWidth={2}
+          aria-hidden="true"
+          className="pointer-events-none absolute top-1/2 left-0 size-4 -translate-y-1/2 text-muted-foreground"
+        />
         <Input
           type="search"
           placeholder="搜尋品牌名稱…"
           value={localQuery}
           onChange={(e) => setLocalQuery(e.target.value)}
-          className="h-12 rounded-none border-0 border-b border-border bg-transparent px-0 font-body-sm text-sm text-foreground shadow-none ring-0 placeholder:text-muted-foreground focus-visible:border-primary focus-visible:ring-0"
+          className="font-body-sm h-12 rounded-none border-0 border-b border-border bg-transparent pr-0 pl-8 text-sm text-foreground shadow-none ring-0 placeholder:text-muted-foreground focus-visible:border-primary focus-visible:ring-0"
         />
       </div>
 
