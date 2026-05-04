@@ -5,6 +5,8 @@
 .claude
 skills-lock.json
 
+.playwright-cli
+
 # dependencies
 /node_modules
 /.pnp
